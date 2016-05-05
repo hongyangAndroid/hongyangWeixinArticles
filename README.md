@@ -32,7 +32,7 @@
 
 ##### [[已推送]如何利用github打造博客专属域名](http://url.cn/27LM5lX)
 
->作者：[张鸿洋](blog.csdn.net/lmj623565791)<br/>
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 >推送时间:2016-05-05
 
 * 知识点1：利用github搭建免费的个人站点
@@ -42,7 +42,7 @@
 
 #####[已推送]Retrofit2 完全解析 探索与okhttp之间的关系[（一）](http://url.cn/2JwrHcI)[（二）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820049&idx=2&sn=60ca024f2ea15e84ad909afa833c049c&scene=23&srcid=0505jJRqx6ufxDaOvRiMSwHL#rd)[（三）](http://url.cn/2ADofo7)<br/>
 
->作者：[张鸿洋](blog.csdn.net/lmj623565791)<br/>
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 >推送时间:2016-05-04
 
 * 知识点1：retrofit2的常见的用法（各种注解使用，get、post、文件上传、下载等）
@@ -53,7 +53,7 @@
 <hr/>
 #####[[已推送]Android 快速发布开源项目到jcenter](http://url.cn/2Dzt8aP)
 
->作者：[张鸿洋](blog.csdn.net/lmj623565791)<br/>
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 >推送时间:2016-04-14
 
 * 知识点1：如何上传自己编写的库到jcenter，方便他人AS引用使用
@@ -63,7 +63,7 @@
 
 #####[[已推送]为RecyclerView打造通用Adapter 让RecyclerView更加好用](http://url.cn/29KhZAE)
 
->作者：[张鸿洋](blog.csdn.net/lmj623565791)<br/>
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 >推送时间:2016-04-11
 
 * 知识点1：完成RecyclerView的通用的Adapter的编写
@@ -73,7 +73,7 @@
 
 ##### [[已推送]Android 五子连珠背后的故事](http://url.cn/29KhZAE)
 
->作者：[张鸿洋](blog.csdn.net/lmj623565791)<br/>
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 >推送时间:2016-04-07
 
 * 知识点1：自定义View的细节的探讨
@@ -84,7 +84,7 @@
 
 #####[[已推送]Android 6.0 运行时权限处理](http://url.cn/2H7FaPx)
 
->作者：[张鸿洋](blog.csdn.net/lmj623565791)<br/>
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 >推送时间:2016-03-07
 
 * 知识点1：Android 6.0权限机制的变化介绍，以及处理方案
