@@ -10,141 +10,116 @@
 
 ## 已推送文章列表
 
+##### [预备推送]没时间解释了，快使用Snackbar!
 
-<div style="border: 1px dashed rgba(36, 174, 156, 0.9);min-width:600px;display: inline-block;border-radius: 10px;padding: 12px;margin: 12px;">
-    <a style="font-size: 16px;padding: 8px;display: block;" href="http://url.cn/27LM5lX">[已推送]如何利用github打造博客专属域名</a>
+>作者：[简名](http://www.jianshu.com/users/990c16f1edc0/latest_articles)-赵晨璞<br/>
+>推送时间:2016-05-06
 
-    <div>
-        <ul style="font-size: 14px;">
-            <li style="padding-bottom: 6px;">1.利用github搭建免费的个人站点（支持外网访问，支持html,css,js）</li>
-            <li style="padding-bottom: 6px;">2.设计自己的专属域名（例如：<a href="http://www.zhanghongyang.com">zhanghongyang.com</a>）</li>
-        </ul>
-    </div>
-
-    <div style="text-align: right;">
-
-        <span style="margin-right: 30px;">推送时间：2016-05-05</span>
-        <span >作者：<a href="http://www.blog.csdn.net/lmj623565791">张鸿洋</a></span>
-    </div>
-
-</div>
+* 知识点1：Snackbar基本介绍
+* 知识点2：Snackbar的定制，打造多彩的SnackBar
+* 知识点3：封装多彩SnackBar的使用
 
 <hr/>
 
 
-<div style="border: 1px dashed rgba(36, 174, 156, 0.9);min-width:600px;display: inline-block;border-radius: 10px;padding: 12px;margin: 12px;">
-    <a style="font-size: 16px;padding: 8px;display: block;" href="http://url.cn/2JwrHcI">[已推送]Retrofit2 完全解析 探索与okhttp之间的关系（一）
+##### [预备推送]Android超高仿QQ附近的人搜索展示
 
-    </a>
-    <a style="font-size: 16px;padding: 8px;display: block;" href="http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820049&idx=2&sn=60ca024f2ea15e84ad909afa833c049c&scene=23&srcid=0505jJRqx6ufxDaOvRiMSwHL#rd">[已推送]Retrofit2 完全解析 探索与okhttp之间的关系（二）
+>作者：[Mr_immortalZ](http://blog.csdn.net/mr_immortalz)<br/>
+>推送时间:2016-05-06
 
-    </a>
-    <a style="font-size: 16px;padding: 8px;display: block;" href="http://url.cn/2ADofo7">[已推送]Retrofit2 完全解析 探索与okhttp之间的关系（三）
-
-    </a>
-
-    <div>
-        <ul style="font-size: 14px;">
-            <li style="padding-bottom: 6px;">1.retrofit2的常见的用法（各种注解使用，get、post、文件上传、下载等）</li>
-            <li style="padding-bottom: 6px;">2.如何自定义Convert.Factory</li>
-            <li style="padding-bottom: 6px;">3.源码分析</li>
-            <li style="padding-bottom: 6px;">4.使用过程中的一些细节</li>
-        </ul>
-    </div>
-
-    <div style="text-align: right;">
-
-        <span style="margin-right: 30px;">推送时间：2016-05-04</span>
-        <span >作者：<a href="http://www.blog.csdn.net/lmj623565791">张鸿洋</a></span>
-    </div>
-
-</div>
-
-<hr/>
-
-<div style="border: 1px dashed rgba(36, 174, 156, 0.9);min-width:600px;display: inline-block;border-radius: 10px;padding: 12px;margin: 12px;">
-    <a style="font-size: 16px;padding: 8px;display: block;" href="http://url.cn/2Dzt8aP">[已推送]Android 快速发布开源项目到jcenter</a>
-
-    <div>
-        <ul style="font-size: 14px;">
-            <li style="padding-bottom: 6px;">1.如何上传自己编写的库到jcenter，方便他人AS引用使用</li>
-            <li style="padding-bottom: 6px;">2.基于bintray-release，非常方便</li>
-        </ul>
-    </div>
-
-    <div style="text-align: right;">
-
-        <span style="margin-right: 30px;">推送时间：2016-04-14</span>
-        <span >作者：<a href="http://www.blog.csdn.net/lmj623565791">张鸿洋</a></span>
-    </div>
-
-</div>
+* 知识点1：自定义ViewPager实现类似画廊效果（非常炫，一页显示多个Page，动画切换等）
+* 知识点2：雷达扫描自定义View的实现
+* 知识点3：[https://github.com/ImmortalZ/RadarScan](https://github.com/ImmortalZ/RadarScan)
 
 <hr/>
 
 
-<div style="border: 1px dashed rgba(36, 174, 156, 0.9);min-width:600px;display:inline-block;border-radius: 10px;padding: 12px;margin: 12px;">
-    <a style="font-size: 16px;padding: 8px;display: block;" href="http://url.cn/29KhZAE">[已推送]为RecyclerView打造通用Adapter 让RecyclerView更加好用</a>
+##### [[已推送]如何利用github打造博客专属域名](http://url.cn/27LM5lX)
 
-    <div>
-        <ul style="font-size: 14px;">
-            <li style="padding-bottom: 6px;">1.几行代码完成RecyclerView的Adapter的编写</li>
-            <li style="padding-bottom: 6px;">2.支持单种Item多种Item布局类型</li>
-            <li style="padding-bottom: 6px;">3.支持轻松的为Item添加header分类</li>
-        </ul>
-    </div>
+>作者：[张鸿洋](http://www.blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-05-05
 
-    <div style="text-align: right;">
-
-        <span style="margin-right: 30px;">推送时间：2016-04-11</span>
-        <span >作者：<a href="http://www.blog.csdn.net/lmj623565791">张鸿洋</a></span>
-    </div>
-
-</div>
+* 知识点1：利用github搭建免费的个人站点
+* 知识点2：设计自己的专属域名（例如：<a href="http://www.zhanghongyang.com">zhanghongyang.com</a>）
 
 <hr/>
 
-<div style="border: 1px dashed rgba(36, 174, 156, 0.9);min-width:600px;display: inline-block;border-radius: 10px;padding: 12px;margin: 12px;">
-    <a style="font-size: 16px;padding: 8px;display: block;" href="http://url.cn/29KhZAE">[已推送]Android 五子连珠背后的故事</a>
+#####[已推送]Retrofit2 完全解析 探索与okhttp之间的关系[（一）](href="http://url.cn/2JwrHcI)[（二）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820049&idx=2&sn=60ca024f2ea15e84ad909afa833c049c&scene=23&srcid=0505jJRqx6ufxDaOvRiMSwHL#rd)[（三）](http://url.cn/2ADofo7)<br/>
 
-    <div>
-        <ul style="font-size: 14px;">
-            <li style="padding-bottom: 6px;">1.自定义View的细节的探讨</li>
-            <li style="padding-bottom: 6px;">2.通过自定义View编写一个五子棋实战</li>
-        </ul>
-    </div>
+>作者：[张鸿洋](http://www.blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-05-04
 
-    <div style="text-align: right;">
+* 知识点1：retrofit2的常见的用法（各种注解使用，get、post、文件上传、下载等）
+* 知识点2：如何自定义Convert.Factory
+* 知识点3：retrofit2源码分析
+* 知识点4：retrofit2使用过程中的一些细节
 
-        <span style="margin-right: 30px;">推送时间：2016-04-07</span>
-        <span >作者：<a href="http://www.blog.csdn.net/lmj623565791">张鸿洋</a></span>
-    </div>
+<hr/>
+#####[[已推送]Android 快速发布开源项目到jcenter](http://url.cn/2Dzt8aP)
 
-</div>
+>作者：[张鸿洋](http://www.blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-04-14
+
+* 知识点1：如何上传自己编写的库到jcenter，方便他人AS引用使用
+* 知识点2：基于bintray-release，非常方便
+
+<hr/>
+
+#####[[已推送]为RecyclerView打造通用Adapter 让RecyclerView更加好用](http://url.cn/29KhZAE)
+
+>作者：[张鸿洋](http://www.blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-04-11
+
+* 知识点1：完成RecyclerView的通用的Adapter的编写
+* 知识点2：支持单种Item多种Item布局类型
+* 知识点3：支持轻松的为Item添加header分类
+<hr/>
+
+##### [[已推送]Android 五子连珠背后的故事](http://url.cn/29KhZAE)
+
+>作者：[张鸿洋](http://www.blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-04-07
+
+* 知识点1：自定义View的细节的探讨
+* 知识点2：通过自定义View编写一个五子棋实战
 
 <hr/>
 
 
-<div style="border: 1px dashed rgba(36, 174, 156, 0.9);min-width:600px;display: inline-block;border-radius: 10px;padding: 12px;margin: 12px;">
-    <a style="font-size: 16px;padding: 8px;display: block;" href="http://url.cn/2H7FaPx">[已推送]Android 6.0 运行时权限处理</a>
+#####[[已推送]Android 6.0 运行时权限处理](http://url.cn/2H7FaPx)
 
-    <div>
-        <ul style="font-size: 14px;">
-            <li style="padding-bottom: 6px;">1.Android 6.0权限机制的变化介绍，以及处理方案</li>
-            <li style="padding-bottom: 6px;">2.提供对处理方案的疯狂方案的介绍</li>
-            <li style="padding-bottom: 6px;">3.给出了一个基于注解的处理方案</li>
-        </ul>
-    </div>
+>作者：[张鸿洋](http://www.blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-03-07
 
-    <div style="text-align: right;">
-
-        <span style="margin-right: 30px;">推送时间：2016-03-07</span>
-        <span >作者：<a href="http://www.blog.csdn.net/lmj623565791">张鸿洋</a></span>
-    </div>
-
-</div>
-
+* 知识点1：Android 6.0权限机制的变化介绍，以及处理方案
+* 知识点2：提供对处理方案的疯狂方案的介绍
+* 知识点3：给出了一个基于注解的处理方案
 <hr/>
 
+
+## 征稿启事
+
+本公众号欢迎大家投稿，如果你希望你的文章可以被更多人看到，直接将md、doc等格式的文章发我邮箱即可（623565791@qq.com），也可以加我QQ好友，需要注明（投稿），谢谢。
+
+文章要求：
+
+* 原创
+* 你觉得通过文章你能学到一些有价值的东西。
+
+带来的福利：
+
+* 您的文章还可以发到csdn，简书等其他平台，但不能投稿至其他微信公众号了；
+* 更多人能够发现你的文章，间接提升自己的名气；
+* 您的署名；
+* 您的原文链接；
+* 如果后期开通打赏，有一定的收益，挣点零花钱，作为写博文的动力；
+
+如果你希望你的文章能够被更多的人看到，能够帮助到更多的人，赶快来投稿吧~~
+
+## 说明
+
+本仓库用于记录所有，公众号：hongyangAndroid发出的文章记录，所有文章均为作者本人原创且授权本公众号发布。
+
+如果你有任何意见，无论是记录显示的内容排版等，都可以以issue的形式进行反馈。
 
 
