@@ -3,10 +3,6 @@
 
 >如果想要得到推送通知可以点下watch或者关注下公众号
 
-公众号二维码：
-
-<img  src="http://img.my.csdn.net/uploads/201501/30/1422600516_2905.jpg" width="200px"/>
-
 
 ## 已推送文章列表
 
@@ -44,7 +40,7 @@
 
 <hr/>
 
-#####[已推送]Retrofit2 完全解析 探索与okhttp之间的关系[（一）](href="http://url.cn/2JwrHcI)[（二）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820049&idx=2&sn=60ca024f2ea15e84ad909afa833c049c&scene=23&srcid=0505jJRqx6ufxDaOvRiMSwHL#rd)[（三）](http://url.cn/2ADofo7)<br/>
+#####[已推送]Retrofit2 完全解析 探索与okhttp之间的关系[（一）](http://url.cn/2JwrHcI)[（二）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820049&idx=2&sn=60ca024f2ea15e84ad909afa833c049c&scene=23&srcid=0505jJRqx6ufxDaOvRiMSwHL#rd)[（三）](http://url.cn/2ADofo7)<br/>
 
 >作者：[张鸿洋](http://www.blog.csdn.net/lmj623565791)<br/>
 >推送时间:2016-05-04
@@ -95,6 +91,11 @@
 * 知识点2：提供对处理方案的疯狂方案的介绍
 * 知识点3：给出了一个基于注解的处理方案
 <hr/>
+
+
+## 公众号二维码
+
+<img  src="http://img.my.csdn.net/uploads/201501/30/1422600516_2905.jpg" width="200px"/>
 
 
 ## 征稿启事
