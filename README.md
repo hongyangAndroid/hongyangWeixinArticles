@@ -9,7 +9,7 @@
 ##### [预备推送]没时间解释了，快使用Snackbar!
 
 >作者：[简名](http://www.jianshu.com/users/990c16f1edc0/latest_articles)-赵晨璞<br/>
->推送时间:2016-05-06
+>推送时间:2016-05-07
 
 * 知识点1：Snackbar基本介绍
 * 知识点2：Snackbar的定制，打造多彩的SnackBar
