@@ -18,8 +18,7 @@
 <hr/>
 
 
-##### [预备推送]Android超高仿QQ附近的人搜索展示
-
+##### [已推送]Android超高仿QQ附近的人搜索展示[（一）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820073&idx=1&sn=9e084723624180f7ab28e54f2aef132c&scene=23&srcid=0506b08maFirw2pBvnewcDsp#rd)[（二）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820073&idx=2&sn=21211e11cd498983d6781f0e1c554a70&scene=23&srcid=0506dUHYCZK1P92RJ8OIlY4E#rd)[（三）](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820073&idx=3&sn=022e2f91e1a51da3c6c1e3bcf89997cc&scene=23&srcid=0506I1TIgEUC8LqIhxRJYQcg#rd)
 >作者：[Mr_immortalZ](http://blog.csdn.net/mr_immortalz)<br/>
 >推送时间:2016-05-06
 
@@ -106,6 +105,8 @@
 
 * 原创
 * 你觉得通过文章你能学到一些有价值的东西。
+* 文章尽可能不要有太长的代码片段，手机阅读排版会很混乱（目前没找到可以解决的方案）。
+
 
 带来的福利：
 
@@ -122,5 +123,7 @@
 本仓库用于记录所有，公众号：hongyangAndroid发出的文章记录，所有文章均为作者本人原创且授权本公众号发布。
 
 如果你有任何意见，无论是记录显示的内容排版等，都可以以issue的形式进行反馈。
+
+如果谁对文章排版，尤其是代码片段的处理有好的经验欢迎联系我，非常感谢！
 
 
