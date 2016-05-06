@@ -70,7 +70,7 @@
 * 知识点3：支持轻松的为Item添加header分类
 <hr/>
 
-##### [[已推送]Android 五子连珠背后的故事](http://url.cn/29KhZAE)
+##### [[已推送]Android 五子连珠背后的故事](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=402946490&idx=1&sn=1ddacffd0f861fa0ab50921a71639a2f&scene=23&srcid=0506KP9VHEecMo3bfl61x98Y#rd)
 
 >作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 >推送时间:2016-04-07
