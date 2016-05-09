@@ -6,7 +6,20 @@
 
 ## 已推送文章列表
 
-##### [预备推送]没时间解释了，快使用Snackbar!
+##### [[已推送]巧用ViewPager 打造不一样的广告轮播切换效果](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820100&idx=1&sn=5d1d8bda0a6fc1026cfc0d3fba641d88&scene=23&srcid=0509zmklRBozP2icIKFLdKew#rd)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-05-09
+
+* 知识点1：ViewPager一屏显示多个页面
+* 知识点2：给ViewPager添加神奇的切换动画
+* 知识点3：关于切换动画制作的详细的分析
+
+
+<hr/>
+
+
+##### [[已推送]没时间解释了，快使用Snackbar!](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820083&idx=1&sn=1cd6b3d66b9d0054054df548c5b4afbb&scene=23&srcid=05090VutW25mPtOHU6HqozkR#rd)
 
 >作者：[简名](http://www.jianshu.com/users/990c16f1edc0/latest_articles)-赵晨璞<br/>
 >推送时间:2016-05-07
