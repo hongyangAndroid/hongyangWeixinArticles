@@ -6,6 +6,41 @@
 
 ## 已推送文章列表
 
+##### [[已推送]RecyclerView添加onItemClickListener更佳的解决方案](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820134&idx=1&sn=58103e352e5269159778d35dc36ed207&scene=23&srcid=0513jxyiidpb9L6vAnpKP79I#rd)
+
+>作者：[liaoinstan](http://blog.csdn.net/liaoinstan)<br/>
+>推送时间:2016-05-11
+
+* 知识点1：`RecyclerView.addOnItemTouchListener`的使用
+* 知识点2：`GestureDetector`的使用
+
+
+
+<hr/>
+
+##### [[已推送]WebView使用过程中你该知道的二三事](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820122&idx=1&sn=bff5bf04bc97a32f6d4b7f4c41935cb1&scene=23&srcid=05139GtQsYBLgWSA9EsAY0cC#rd)
+
+>作者：[qy274770068](http://blog.csdn.net/qy274770068)<br/>
+>推送时间:2016-05-11
+
+* 知识点1：JavaScript与Android相互通信
+* 知识点2：通信过程中的注意事项
+* 知识点3：巧妙的使用shouldOverrideUrlLoading
+* 知识点4：Android deep links
+
+
+<hr/>
+
+##### [[已推送]Android MVP架构的自述](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820112&idx=1&sn=43de333c4c9d274a4c66f4b021d5b2e2&scene=23&srcid=0513jaKV7Z6W50ZPRDzzlE3z#rd)
+
+>作者：[还不走A](http://blog.csdn.net/dantestones)<br/>
+>推送时间:2016-05-10
+
+* 简单的实例带你了解MVP架构。
+
+
+<hr/>
+
 ##### [[已推送]巧用ViewPager 打造不一样的广告轮播切换效果](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820100&idx=1&sn=5d1d8bda0a6fc1026cfc0d3fba641d88&scene=23&srcid=0509zmklRBozP2icIKFLdKew#rd)
 
 >作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
