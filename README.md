@@ -4,12 +4,68 @@
 >如果想要得到推送通知可以点下watch或者关注下公众号
 
 
+
+
+
+
 ## 已推送文章列表
+
+##### [[已推送]一起来学习android自定义控件—边缘凹凸的View](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820217&idx=1&sn=69380a847716dc4c3caca4a702df6f0d#rd)
+
+>作者：[yissan](http://blog.csdn.net/yissan)<br/>
+>推送时间:2016-05-20
+
+* 巧妙的方式实现边缘凹凸的卡劵的效果。
+
+<hr/>
+
+
+##### [[已推送]BaseActivity与BaseFragment的封装谈起](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820216&idx=1&sn=64d0380fedf947c7adefc6d3eb722301#rd)
+
+>作者：[tyktfj0910](http://blog.csdn.net/tyk0910)<br/>
+>推送时间:2016-05-19
+
+* 作者总结了自己在实战开发中关于Fragment的注意事项以及心得体会，希望你通过阅读本文能有所收获。
+
+<hr/>
+
+
+##### [[已推送]使用ItemTouchHelper轻松实现RecyclerView拖拽排序和滑动删除](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820215&idx=1&sn=7a7da6210f7f0b975674422fa4b159ef#rd)
+
+>作者：[liaoinstan](http://blog.csdn.net/liaoinstan)<br/>
+>推送时间:2016-05-18
+
+* ItemTouchHelper实现recyclerview拖拽交换
+* ItemTouchHelper实现recylerview滑动删除
+
+<hr/>
+
+
+##### [[已推送]Google发布flexbox-layout 能替代FlowLayout吗？](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820197&idx=1&sn=b500621730e63ae9b082ac802e48798c#rd)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-05-17
+
+* flexbox-layout制作热门标签案例。
+
+<hr/>
+
+
+##### [[已推送]其实没那么复杂！探究react-native通信机制](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820182&idx=1&sn=ee2d0c2f8cc95763f9c5da6d73160827#rd)
+
+>作者：[zjutkz](http://zjutkz.net/)<br/>
+>推送时间:2016-05-16
+
+* React-native核心部分解析——java和js的通信写的确实是非常的精妙，把整个流程搞懂以后让我受益无穷。
+
+
+<hr/>
+
 
 ##### [[已推送]RecyclerView添加onItemClickListener更佳的解决方案](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820134&idx=1&sn=58103e352e5269159778d35dc36ed207&scene=23&srcid=0513jxyiidpb9L6vAnpKP79I#rd)
 
 >作者：[liaoinstan](http://blog.csdn.net/liaoinstan)<br/>
->推送时间:2016-05-11
+>推送时间:2016-05-12
 
 * 知识点1：`RecyclerView.addOnItemTouchListener`的使用
 * 知识点2：`GestureDetector`的使用
