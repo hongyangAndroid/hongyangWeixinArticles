@@ -10,6 +10,57 @@
 
 ## 已推送文章列表
 
+
+##### [[已推送]Android 轻松的查看与使用hide与internal API ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820284&idx=1&sn=43cbc5cbbf7d67ca3c5d8dc05f6fd4d0#rd)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-05-30
+
+* 10s迅速实现查看hide,internalAPI以及调用。
+
+<hr/>
+
+##### [[已推送]浅析如何高效的使用MVP](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820273&idx=1&sn=bb390bd5b1b678435ee4ae5014c651d2#rd)
+
+>作者：[还不走A](http://blog.csdn.net/dantestones)<br/>
+>推送时间:2016-05-27
+
+* 做了一个通用的MVP模板，让MVP更加好用。
+
+<hr/>
+
+
+
+##### [[已推送]探究 LayoutInflater setFactory ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820263&idx=1&sn=f7cbcf70570decc064fa5f05531e2c5d#rd)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-05-26
+
+* LayoutInflater  setFactory的妙用。
+
+<hr/>
+
+
+##### [[已推送]Realm Java的学习、应用、总结](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820245&idx=1&sn=2942da8c553a8dabb176bdd13fe8432a#rd)
+
+>作者：[HanWen](http://www.jianshu.com/users/774672153679)<br/>
+>推送时间:2016-05-25
+
+* 结合自己使用，介绍Realm Java的学习、应用、总结
+
+<hr/>
+
+
+
+##### [[已推送]Android 自定义View属性相关细节 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820236&idx=1&sn=6dec4ff1efeda3224b5a40fdad862404#rd)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-05-24
+
+* 自定义View属性相关细节的介绍。
+
+<hr/>
+
 ##### [[已推送]一起来学习android自定义控件—边缘凹凸的View](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820217&idx=1&sn=69380a847716dc4c3caca4a702df6f0d#rd)
 
 >作者：[yissan](http://blog.csdn.net/yissan)<br/>
