@@ -10,6 +10,167 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android vector 标签 pathData 详解 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820507&idx=1&sn=ac40b8a6c6a5a4c1ee195337ef9790c2&scene=4#wechat_redirect)
+
+>作者：[DomenCai](http://www.jianshu.com/users/ffc32e2617e0)<br/>
+>推送时间:2016-06-27
+
+* 学习Android vector标签绝对不能错过的文章。
+
+<hr/>
+
+##### [[已推送]类似Launcher壁纸的视差背景效果 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820494&idx=1&sn=1af3e5bd98e347ce9bde72f69d3802eb&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-06-24
+
+* 手机桌面上的壁纸视差滚动效果到底是如何做的？
+
+<hr/>
+
+##### [[已推送]从Eclipse到Android Studio（一）界面介绍 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820487&idx=1&sn=bdde5ad28f72a4c899e3dc4d3ad97070&scene=4#wechat_redirect)
+
+>作者：[applixy](http://www.jianshu.com/users/56b5c019907e/latest_articles)<br/>
+>推送时间:2016-06-23
+
+* 手把手教你从eclipse转入Android Studio的教程，基于Android Studio2.1.1 。
+
+<hr/>
+
+##### [[已推送]关于Scroller的使用以及自己实现一个侧滑菜单 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820484&idx=1&sn=636272135033909ce8c7aedbece2dc23&scene=4#wechat_redirect)
+
+>作者：[tracyxia716](http://www.jianshu.com/p/fa01ea23c06a)<br/>
+>推送时间:2016-06-22
+
+* 自定义View必学利器之Scroller~
+
+<hr/>
+
+##### [[已推送]Retrofit--合理封装回调能让你的项目高逼格 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820483&idx=1&sn=3838b74fe4424bc730c918573c24f55c&scene=4#wechat_redirect)
+
+>作者：[Hankkin](http://blog.csdn.net/lyhhj)<br/>
+>推送时间:2016-06-21
+
+* 作者根据项目开发过程中经验，分享了他的封装与实践方式。
+
+<hr/>
+
+##### [[已推送]Android水波纹特效的简单实现 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820469&idx=1&sn=ee1c4b298508687e5e8322a880774635&scene=4#wechat_redirect)
+
+>作者：[hackware](http://www.jianshu.com/p/cba46422de67)<br/>
+>推送时间:2016-06-20
+
+* 文章通过一种巧妙的方式实现各种效果的水波纹特效，非常值得思考。
+
+<hr/>
+
+##### [[已推送]努力做一个Android开发者必看的网站 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820449&idx=1&sn=ebc15ad54ea4b90d15456b90121bcd66&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-06-17
+
+* 唉哟，你怎么不上天~
+
+<hr/>
+
+##### [[已推送]酷炫的Activity切换动画，打造更好的用户体验 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820446&idx=1&sn=38fe62f78841e04484f4eeb2a8baacbb&scene=4#wechat_redirect)
+
+>作者：[huachao1001](http://blog.csdn.net/huachao1001)<br/>
+>推送时间:2016-06-16
+
+* 包含非常详细的Md风格Activity切换动画教程
+
+<hr/>
+
+##### [[已推送]Android测试之旅（一） ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820411&idx=1&sn=05fe5faaa99844f709fc63487ee42be3&scene=4#wechat_redirect)
+
+>作者：[sir](http://kikujiang.com/archives/)<br/>
+>推送时间:2016-06-15
+
+* Android测试之旅起航啦，本篇为入门第一篇。
+
+<hr/>
+
+##### [[已推送]Android自定义通知样式适配 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820401&idx=1&sn=e45a13605306739f73027cb50a2f8cc0&scene=4#wechat_redirect)
+
+>作者：[hackware](http://www.jianshu.com/users/f0a3fb1abaed)<br/>
+>推送时间:2016-06-13
+
+* 通知栏还有需要适配的地方？不知道还不快看~
+
+<hr/>
+
+##### [[已推送]Android Studio自定义模板 写页面竟然可以如此轻松 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820397&idx=1&sn=dd26d1dc56a31bff805afbbf65e15d3d&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-06-12
+
+* 自从看了本文，工作效率提升了太多，dota技术都变好了。
+
+<hr/>
+
+##### [[已推送]Android 一步一步教你实现QQ健康界面 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820355&idx=1&sn=a9cae8d5d9d607d691715b93a35fecc3&scene=4#wechat_redirect)
+
+>作者：[tyktfj0910](http://blog.csdn.net/tyk0910/)<br/>
+>推送时间:2016-06-08
+
+* 作者自己实现了一个QQ健康界面，想学自定义View的还不快来~
+
+<hr/>
+
+##### [[已推送]针对RecyclerView打造属于你的LayoutManager ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820355&idx=1&sn=a9cae8d5d9d607d691715b93a35fecc3&scene=4#wechat_redirect)
+
+>作者：[huachao1001](http://blog.csdn.net/huachao1001)<br/>
+>推送时间:2016-06-07
+
+* 快来看看LayoutManager如何发挥其作用的~
+
+<hr/>
+
+##### [[已推送]神奇的Android Studio Template ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820341&idx=1&sn=fa0b3094e1970989ffdff05c878ba53d&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-06-06
+
+* 一起来省点时间打游戏、看电影、陪妹子。
+
+<hr/>
+
+##### [[已推送]一个有理想的导航网站 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820333&idx=1&sn=f09842302ad125030650d058ec2fc1d2&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-06-03
+
+* 一个专为程序员服务的导航网站
+
+<hr/>
+
+##### [[已推送]安卓着色器(tint)使用实践 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820316&idx=1&sn=49d4e6b68b114a2e8a8e88f3d1b0cd9e&scene=4#wechat_redirect)
+
+>作者：[昨天还是一个小白](http://www.jianshu.com/users/bb2f7d9f0f31)<br/>
+>推送时间:2016-06-02
+
+* 看完文章你就知道为什么标题配图这么奇怪了~
+
+<hr/>
+
+##### [[已推送]自己编写Android Studio插件 别停留在用的程度了 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820316&idx=1&sn=49d4e6b68b114a2e8a8e88f3d1b0cd9e&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-06-01
+
+* 不要停留在用插件的程度了，快来学习如何自己编写插件。
+
+<hr/>
+
+##### [[已推送]JVM理解其实并不难！ ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820294&idx=1&sn=8efe375eae68aa5e2f36d5e149b1dc7e&scene=4#wechat_redirect)
+
+>作者：[huachao1001](http://blog.csdn.net/huachao1001)<br/>
+>推送时间:2016-05-31
+
+* 文章为作者对《深入理解Java虚拟机》该书的总结，大家可以通过阅读该文增强些对JVM的理解。
+
+<hr/>
 
 ##### [[已推送]Android 轻松的查看与使用hide与internal API ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820284&idx=1&sn=43cbc5cbbf7d67ca3c5d8dc05f6fd4d0#rd)
 
