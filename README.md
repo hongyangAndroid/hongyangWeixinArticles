@@ -397,7 +397,7 @@
 
 <hr/>
 
-##### [[已推送]Android 一步一步教你实现QQ健康界面 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820355&idx=1&sn=a9cae8d5d9d607d691715b93a35fecc3&scene=4#wechat_redirect)
+##### [[已推送]Android 一步一步教你实现QQ健康界面 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820378&idx=1&sn=ab3d5083faa61c628d2104e77714620f&scene=4#wechat_redirect)
 
 >作者：[tyktfj0910](http://blog.csdn.net/tyk0910/)<br/>
 >推送时间:2016-06-08
@@ -433,7 +433,7 @@
 
 <hr/>
 
-##### [[已推送]安卓着色器(tint)使用实践 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820316&idx=1&sn=49d4e6b68b114a2e8a8e88f3d1b0cd9e&scene=4#wechat_redirect)
+##### [[已推送]安卓着色器(tint)使用实践 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820326&idx=1&sn=7f741d29f156af6db7c37623f9e8ca4c&scene=4#wechat_redirect)
 
 >作者：[昨天还是一个小白](http://www.jianshu.com/users/bb2f7d9f0f31)<br/>
 >推送时间:2016-06-02
