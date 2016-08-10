@@ -10,6 +10,14 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android Zygote启动流程源码解析 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820844&idx=1&sn=da02893581f1097042746cc47d223e48&scene=0#wechat_redirect)
+
+>作者：[一口仨馍](http://blog.csdn.net/qq_17250009/)<br/>
+>推送时间:2016-08-11
+
+* 为什么这个要叫“Zygote受精卵”呢？
+
+<hr/>
 ##### [[已推送]动手写一个好看的城市导航列表 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820843&idx=1&sn=47f19d7a636bfe554df2c9ec60d1b599&scene=4#wechat_redirect)
 
 >作者：[Young_Kai](http://blog.csdn.net/tyk0910/)<br/>
