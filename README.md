@@ -10,6 +10,13 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Rx处理服务器请求、缓存的完美封装 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820845&idx=1&sn=9b8b1c3982e3ed21d78434687a52df5a&scene=0#wechat_redirect)
+
+>作者：[_王剑锋](http://www.jianshu.com/users/c730e67cc751)<br/>
+>推送时间:2016-08-12
+
+* Retrofit结合RxJava处理服务器请求、缓存那都不是事～
+
 ##### [[已推送]Android Zygote启动流程源码解析 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820844&idx=1&sn=da02893581f1097042746cc47d223e48&scene=0#wechat_redirect)
 
 >作者：[一口仨馍](http://blog.csdn.net/qq_17250009/)<br/>
