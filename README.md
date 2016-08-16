@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]自定义SwipeRefreshLayout样式—高仿微信朋友圈下拉刷新 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820889&idx=1&sn=2bf23a1e48943722746d13c4178b473a&scene=4#wechat_redirect)
+
+>作者：[Gordon_H](http://blog.csdn.net/u011443509)<br/>
+>推送时间:2016-08-16
+
+* 快来学习如何定制SwipeRefreshLayout~
+
+<hr/>
+
 ##### [[已推送]Android NestedScrolling机制完全解析 带你玩转嵌套滑动 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820888&idx=1&sn=69dcea117cc1f18f09363f32d8f2c400&scene=4#wechat_redirect)
 
 >作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
@@ -17,12 +26,16 @@
 
 * 想要玩转嵌套滑动，一定不要错过~
 
+<hr/>
+
 ##### [[已推送]Rx处理服务器请求、缓存的完美封装 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820845&idx=1&sn=9b8b1c3982e3ed21d78434687a52df5a&scene=0#wechat_redirect)
 
 >作者：[_王剑锋](http://www.jianshu.com/users/c730e67cc751)<br/>
 >推送时间:2016-08-12
 
 * Retrofit结合RxJava处理服务器请求、缓存那都不是事～
+
+<hr/>
 
 ##### [[已推送]Android Zygote启动流程源码解析 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820844&idx=1&sn=da02893581f1097042746cc47d223e48&scene=0#wechat_redirect)
 
@@ -32,6 +45,7 @@
 * 为什么这个要叫“Zygote受精卵”呢？
 
 <hr/>
+
 ##### [[已推送]动手写一个好看的城市导航列表 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820843&idx=1&sn=47f19d7a636bfe554df2c9ec60d1b599&scene=4#wechat_redirect)
 
 >作者：[Young_Kai](http://blog.csdn.net/tyk0910/)<br/>
