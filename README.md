@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]猎豹"快切App"中用到的Android开发技巧探索 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820890&idx=1&sn=112b88c31bffcdf22531878222ebea8d&scene=4#wechat_redirect)
+
+>作者：[顾明伟](http://blog.csdn.net/u013045971)<br/>
+>推送时间:2016-08-17
+
+* 一个很炫的悬浮窗小工具~
+
+<hr/>
+
 ##### [[已推送]自定义SwipeRefreshLayout样式—高仿微信朋友圈下拉刷新 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820889&idx=1&sn=2bf23a1e48943722746d13c4178b473a&scene=4#wechat_redirect)
 
 >作者：[Gordon_H](http://blog.csdn.net/u011443509)<br/>
