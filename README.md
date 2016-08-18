@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]CoordinatorLayout高级用法-自定义Behavior ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820891&idx=1&sn=ced7264dbc82746907474befec43c23b&scene=4#wechat_redirect)
+
+>作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
+>推送时间:2016-08-18
+
+* 学习CoodinatorLayout.Behavior的非常好的资料~
+
+<hr/>
+
 ##### [[已推送]猎豹"快切App"中用到的Android开发技巧探索 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820890&idx=1&sn=112b88c31bffcdf22531878222ebea8d&scene=4#wechat_redirect)
 
 >作者：[顾明伟](http://blog.csdn.net/u013045971)<br/>
