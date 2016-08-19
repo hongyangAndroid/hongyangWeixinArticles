@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]走进AndroidStudio下的NDK ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820894&idx=1&sn=0f5ce4215b4930712f979e4077bc2480&scene=0#wechat_redirect)
+
+>作者：[ByteHit](http://www.jianshu.com/users/4b26698fc4b1)<br/>
+>推送时间:2016-08-19
+
+* 在Android Studio下进行NDK开发，就是这么简单~
+
+<hr/>
+
 ##### [[已推送]CoordinatorLayout高级用法-自定义Behavior ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820891&idx=1&sn=ced7264dbc82746907474befec43c23b&scene=4#wechat_redirect)
 
 >作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
@@ -783,5 +792,4 @@
 如果你有任何意见，无论是记录显示的内容排版等，都可以以issue的形式进行反馈。
 
 如果谁对文章排版，尤其是代码片段的处理有好的经验欢迎联系我，非常感谢！
-
 
