@@ -10,6 +10,24 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android Retrofit 实现文字（参数）和多张图片一起上传 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820931&idx=1&sn=2d143dc0cbfdb9cc452cb60c9064a387&scene=4#wechat_redirect)
+
+>作者：[一叶飘舟](http://blog.csdn.net/jdsjlzx)<br/>
+>推送时间:2016-08-24
+
+* 从HTTP请求的角度去看retrofit如何支持多图+键值对上传的~
+
+<hr/>
+
+##### [[已推送]Fresco图片加载框架使用经验小结 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820929&idx=1&sn=914622a161e1132827b364aa86b13aca&scene=4#wechat_redirect)
+
+>作者：[hss01248](http://blog.csdn.net/hss01248)<br/>
+>推送时间:2016-08-23
+
+* Fresco经验谈，让你更好的驾驭Fresco~
+
+<hr/>
+
 ##### [[已推送]是时候来了解android7了:多窗口支持 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820928&idx=1&sn=f79b8c299be3808dcc5636361882dd38&scene=4#wechat_redirect)
 
 >作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
