@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]属性动画ValueAnimator在自定义View中的使用 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820932&idx=1&sn=bab9bcc2cac4786655048a17ff56c582&scene=4#wechat_redirect)
+
+>作者：[ma_fei](http://mafei.site/)<br/>
+>推送时间:2016-08-25
+
+* 了解下属性动画在自定义View中的使用吧~
+
+<hr/>
+
 ##### [[已推送]Android Retrofit 实现文字（参数）和多张图片一起上传 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820931&idx=1&sn=2d143dc0cbfdb9cc452cb60c9064a387&scene=4#wechat_redirect)
 
 >作者：[一叶飘舟](http://blog.csdn.net/jdsjlzx)<br/>
