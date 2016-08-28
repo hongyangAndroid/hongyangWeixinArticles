@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android Studio打包apk，aar，jar包 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820933&idx=1&sn=dfa9916d91409d24d4e51de2df1d6059&scene=4#wechat_redirect)
+
+>作者：[一片枫叶_刘超](http://blog.csdn.net/qq_23547831)<br/>
+>推送时间:2016-08-26
+
+* jar、aar和apk的区别，以及怎么打包都在这里~
+
+<hr/>
+
 ##### [[已推送]属性动画ValueAnimator在自定义View中的使用 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820932&idx=1&sn=bab9bcc2cac4786655048a17ff56c582&scene=4#wechat_redirect)
 
 >作者：[ma_fei](http://mafei.site/)<br/>
