@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android Retrofit 实现图文上传-文字参数类型 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820948&idx=1&sn=5d0fa80094ed132e3406e09874b92791&scene=4#wechat_redirect)
+
+>作者：[一叶飘舟](http://blog.csdn.net/jdsjlzx)<br/>
+>推送时间:2016-08-29
+
+* 把握好细节，才能更好的掌握retrofit
+
+<hr/>
+
 ##### [[已推送]Android Studio打包apk，aar，jar包 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820933&idx=1&sn=dfa9916d91409d24d4e51de2df1d6059&scene=4#wechat_redirect)
 
 >作者：[一片枫叶_刘超](http://blog.csdn.net/qq_23547831)<br/>
