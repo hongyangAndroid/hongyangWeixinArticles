@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android一整套图片解决方案 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820998&idx=1&sn=c9670674dcfb71a24521e898776f234e&scene=4#wechat_redirect)
+
+>作者：[hss01248](http://blog.csdn.net/hss01248)<br/>
+>推送时间:2016-09-05
+
+* 分享了Android下一整套的图片技术方案~
+
+<hr/>
+
 ##### [[已推送]Android高仿微信表情输入与键盘输入详解 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820950&idx=1&sn=9bcacb09ec89affa68bf4b0ebbcccc89&scene=4#wechat_redirect)
 
 >作者：[泽坚](http://blog.csdn.net/javazejian)<br/>
