@@ -10,6 +10,24 @@
 
 ## 已推送文章列表
 
+##### [[已推送]2016最值得学习的项目课程，干货最多 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821003&idx=1&sn=289fd1253f8067ef311fad9f8718df13&scene=4#wechat_redirect)
+
+>作者：[菜鸟窝](http://www.cniao5.com)<br/>
+>推送时间:2016-09-07
+
+* 2016最值得学习的5大项目课程，包括电商类，O2O类，跨平台React-Native，新闻类，微博类
+
+<hr/>
+
+##### [[已推送]Android Bottom Sheet详解 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820999&idx=1&sn=4a999c1840d9464514cd2b6f5a34ee3f&scene=4#wechat_redirect)
+
+>作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
+>推送时间:2016-09-06
+
+* 找个常见的效果，拿BottomSheetDialog试试吧~
+
+<hr/>
+
 ##### [[已推送]Android一整套图片解决方案 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820998&idx=1&sn=c9670674dcfb71a24521e898776f234e&scene=4#wechat_redirect)
 
 >作者：[hss01248](http://blog.csdn.net/hss01248)<br/>
