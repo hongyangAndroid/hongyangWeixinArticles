@@ -10,6 +10,24 @@
 
 ## 已推送文章列表
 
+##### [[已推送]框架源码 — 可能会有趣一点地简析学习 Retrofit ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821050&idx=1&sn=148e199641683ad91d61bde6ee7113c5&scene=4#wechat_redirect)
+
+>作者：[谢三弟](http://imxie.cc/archives/)<br/>
+>推送时间:2016-09-13
+
+* 有趣的风格来解读Retrofit的源码~
+
+<hr/>
+
+##### [[已推送]Android 从StackTraceElement反观Log库 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821049&idx=1&sn=a704a3b104692364b17657f71f652263&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-09-12
+
+* 从本质出发更容易理解一些东西~
+
+<hr/>
+
 ##### [[已推送]仿美团外卖添加商品的抛物线动画 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821007&idx=1&sn=cb61d5ed10cd0d8fe2ba744e0c4fc43a&scene=4#wechat_redirect)
 
 >作者：[iam薛定諤](http://www.jianshu.com/users/6440034a810a)<br/>
