@@ -10,6 +10,24 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android IconFont全攻略 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821086&idx=1&sn=080bc2cfaa04947b974bf6273bbd7259&chksm=80b78540b7c00c56fd15fb8027b4d2730523c32c2099970cc49f9ddc03d235c907dc59e1695c&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-09-18
+
+* 鸿洋带你玩转IconFont，毫无后顾之忧~
+
+<hr/>
+
+##### [[已推送]App优化攻略-用TextView显示图片 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821059&idx=1&sn=6067ef412e0e16de2e436c8986283f88&scene=4#wechat_redirect)
+
+>作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
+>推送时间:2016-09-14
+
+* 我隐隐感受到了今天的文章有福利~
+
+<hr/>
+
 ##### [[已推送]框架源码 — 可能会有趣一点地简析学习 Retrofit ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821050&idx=1&sn=148e199641683ad91d61bde6ee7113c5&scene=4#wechat_redirect)
 
 >作者：[谢三弟](http://imxie.cc/archives/)<br/>
