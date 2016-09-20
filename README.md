@@ -10,6 +10,24 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android自定义view 模仿win10进度条 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821089&idx=1&sn=7b6250634e3f44d1cdc0920c9e2f5874&chksm=80b7857fb7c00c6974899c6d4ce8fafe11abe03d3bbea1d62656e00ea30851c5d990f20ce287&scene=4#wechat_redirect)
+
+>作者：[zhangml0522](http://blog.csdn.net/zhangml0522)<br/>
+>推送时间:2016-09-20
+
+* 每个动画都需要精雕细琢~
+
+<hr/>
+
+##### [[已推送]Android中AIDL的基本用法 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821088&idx=1&sn=dc93ce1040cfe4784817952265a59d6d&chksm=80b7857eb7c00c68678f6ebe32b62c0fa96773b816edae933ae31c4a354521bc7c18ed67edf5&scene=4#wechat_redirect)
+
+>作者：[Kangel Zenn](https://flrito.cc)<br/>
+>推送时间:2016-09-19
+
+* 细细阅读，说不定会让你对AIDL有更加深入的理解~
+
+<hr/>
+
 ##### [[已推送]Android IconFont全攻略 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821086&idx=1&sn=080bc2cfaa04947b974bf6273bbd7259&chksm=80b78540b7c00c56fd15fb8027b4d2730523c32c2099970cc49f9ddc03d235c907dc59e1695c&scene=4#wechat_redirect)
 
 >作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
