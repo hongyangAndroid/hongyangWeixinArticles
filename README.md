@@ -10,6 +10,15 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android蓝牙自动配对攻略 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821104&idx=1&sn=62afd3330c31f97574618aaf9461513e&chksm=80b7856eb7c00c78d3a166aa28e21462a7b5a285c18ec9ac0c8947cb48b557437bf1db300c84&scene=4#wechat_redirect)
+
+>作者：[温柔狠角色](http://blog.csdn.net/qq_25827845)<br/>
+>推送时间:2016-09-23
+
+* 如何实现蓝牙自动配对~~
+
+<hr/>
+
 ##### [[已推送]类似新浪微博帖子显示话题、@好友、表情解析等 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821103&idx=1&sn=f0c1b4064c2b527d6fad288ab0319c8e&chksm=80b78571b7c00c675d6ec9c5fb02a6e51183646e4a1cbc16fc44aab376cd4e826a9e387e9861&scene=4#wechat_redirect)
 
 >作者：[FlowLeaf](http://blog.csdn.net/u011102153)<br/>
