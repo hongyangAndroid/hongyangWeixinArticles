@@ -10,7 +10,9 @@
 
 ## 已推送文章列表
 
-##### [[已推送]炫酷进度条：Android 仿应用宝下载进度条 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821128&idx=1&sn=a23248ae0b11c9dc05877de8ff66846c&chksm=80b78696b7c00f8082156e216b3fc795c8afd337968aa2d92e13379c1d288d8c96d617c64925&scene=4#wechat_redirect)<br/>
+##### [[已推送]炫酷进度条：Android 仿应用宝下载进度条 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821128&idx=1&sn=a23248ae0b11c9dc05877de8ff66846c&chksm=80b78696b7c00f8082156e216b3fc795c8afd337968aa2d92e13379c1d288d8c96d617c64925&scene=4#wechat_redirect)
+
+>作者：[FlowLeaf](http://blog.csdn.net/u011102153)<br/>
 >推送时间:2016-09-29
 
 * 炫酷的进度条，简洁的编码~
