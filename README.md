@@ -10,6 +10,13 @@
 
 ## 已推送文章列表
 
+##### [[已推送]炫酷进度条：Android 仿应用宝下载进度条 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821128&idx=1&sn=a23248ae0b11c9dc05877de8ff66846c&chksm=80b78696b7c00f8082156e216b3fc795c8afd337968aa2d92e13379c1d288d8c96d617c64925&scene=4#wechat_redirect)<br/>
+>推送时间:2016-09-29
+
+* 炫酷的进度条，简洁的编码~
+
+<hr/>
+
 ##### [[已推送]微信扫一扫揭秘 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821117&idx=1&sn=a4dff2c9c863fe422e7c6986cb8c3e30&chksm=80b78563b7c00c75bfa13db1b83dcfe0c5f194fa01cac5d2695de1223d16b3a5367537f21989&scene=4#wechat_redirect)
 
 >作者：[房泽龙](http://flyou.ren/)<br/>
