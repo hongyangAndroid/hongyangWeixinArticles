@@ -10,6 +10,44 @@
 
 ## 已推送文章列表
 
+
+##### [[已推送]炫酷进度条：Android 仿应用宝下载进度条 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821128&idx=1&sn=a23248ae0b11c9dc05877de8ff66846c&chksm=80b78696b7c00f8082156e216b3fc795c8afd337968aa2d92e13379c1d288d8c96d617c64925&scene=4#wechat_redirect)
+
+>作者：[FlowLeaf](http://blog.csdn.net/u011102153)<br/>
+>推送时间:2016-09-29
+
+* 炫酷的进度条，简洁的编码~
+
+<hr/>
+
+##### [[已推送]微信扫一扫揭秘 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821117&idx=1&sn=a4dff2c9c863fe422e7c6986cb8c3e30&chksm=80b78563b7c00c75bfa13db1b83dcfe0c5f194fa01cac5d2695de1223d16b3a5367537f21989&scene=4#wechat_redirect)
+
+>作者：[房泽龙](http://flyou.ren/)<br/>
+>推送时间:2016-09-28
+
+* 探索微信二维码的秘密~
+
+<hr/>
+
+##### [[已推送]Android 调用系统相机拍照攻略(已适配Android N) ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821111&idx=1&sn=d73d91be8c1409ae01d1abb12bda8b3e&chksm=80b78569b7c00c7f60273e9bf6ac628d8bbbba6eb929f4bd884a43f2058369ed22997512522f&scene=4#wechat_redirect)
+
+>作者：[YougaKing](http://my.oschina.net/u/2438532/)<br/>
+>推送时间:2016-09-27
+
+* 需要适配Android N,或者想要看看N的注意事项看看吧~
+
+<hr/>
+
+##### [[已推送]MDCC2016 ppt等相关学习资料 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821110&idx=1&sn=939998187ebbc83c5d58d708a84e838c&chksm=80b78568b7c00c7e65966d2d7c1ac3be8d2cebfe2ac81949a75e104eb5d186a7bed84e26c0d4&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-09-26
+
+* 没有参加MDCC的话，可以通过本文获取资料学习~
+
+<hr/>
+
+>>>>>>> b1559ee4b05b4d56dc18fbaf70380de616b39660
 ##### [[已推送]Android蓝牙自动配对攻略 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821104&idx=1&sn=62afd3330c31f97574618aaf9461513e&chksm=80b7856eb7c00c78d3a166aa28e21462a7b5a285c18ec9ac0c8947cb48b557437bf1db300c84&scene=4#wechat_redirect)
 
 >作者：[温柔狠角色](http://blog.csdn.net/qq_25827845)<br/>
