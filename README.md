@@ -10,6 +10,61 @@
 
 ## 已推送文章列表
 
+##### [[已推送]Android自定义控件--仿安全卫士中的一键加速 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821214&idx=1&sn=d0c120c9dc21669c7acac9c250991e3c&chksm=80b786c0b7c00fd62c7be336df91885614e0184b153350602bcd1ff39618d6d80cc7a6999e20&scene=4#wechat_redirect)
+
+>作者：[a10615](http://blog.csdn.net/a10615)<br/>
+>推送时间:2016-10-13
+
+* 仿安全卫士中的一键加速
+* ~Paint在手，天下我有~
+
+<hr/>
+
+##### [[已推送]互联网合并浪潮中，内部员工该何去何从？ ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821213&idx=1&sn=cce4f4c66b36a33f3b626fa645728131&chksm=80b786c3b7c00fd594da27d4afcab4d85c5a3cab84f2b4ba89f56252dfe2501080ea8c498edf&scene=4#wechat_redirect)
+
+>作者：[100offer](https://www.100offer.com/)<br/>
+>推送时间:2016-10-12
+
+* 如果有一天公司合并这件事发生在你身上，希望这篇文章能够帮你渡过难关。
+
+<hr/>
+
+##### [[已推送]Android 增量更新完全解析 是增量不是热修复 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821209&idx=1&sn=6821835111ce0ab4452866efaf4d78f2&chksm=80b786c7b7c00fd19663782b9ac51dea1c881456a3933e6848aa7d24aec0eb56066f504022f9&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-10-11
+
+* 是增量不是热修复~
+
+<hr/>
+
+##### [[已推送]Android自定义ClockView实现时钟效果 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821199&idx=1&sn=11b5674ccd0cada58d81eb929d8ddb51&chksm=80b786d1b7c00fc7425168299359961dada58004e7c50191f96f273163d88953a11d8ebd2bdb&scene=4#wechat_redirect)
+
+>作者：[chuwe1](http://www.jianshu.com/users/a45d19d680af/)<br/>
+>推送时间:2016-10-10
+
+* SurfaceView手工绘制象形时钟，绘制薄弱的同学值得收藏。
+
+<hr/>
+
+##### [[已推送]冰冻三尺非一日之寒-博客篇 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821177&idx=1&sn=b0f58bbcb9338b85578e4b2fddb87d62&chksm=80b786a7b7c00fb1ab2bcd19bfd1494c4add73eefc829640232b0615d5f81cab2da3ddfcec42&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-10-09
+
+* 本人亲身感悟，到底要不要写博客~
+
+<hr/>
+
+##### [[已推送]【Android】新的工具类DiffUtil，让RecyclerView上天 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821170&idx=1&sn=500ba9c6f208a11d129a21d1594363c4&chksm=80b786acb7c00fba95e4fc2bc687d649d50a9bca8d819e74e3bfdfd2dbc0d6abc832825b193d&scene=4#wechat_redirect)
+
+>作者：[张旭童](http://blog.csdn.net/zxt0601/)<br/>
+>推送时间:2016-10-08
+
+* DiffUtil一个神奇的工具类，可以让与你经常打交道的列表（RecyclerView）变得更加的丝滑~
+
+<hr/>
+
 ##### [[已推送]炫酷进度条：Android 仿应用宝下载进度条 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821128&idx=1&sn=a23248ae0b11c9dc05877de8ff66846c&chksm=80b78696b7c00f8082156e216b3fc795c8afd337968aa2d92e13379c1d288d8c96d617c64925&scene=4#wechat_redirect)
 
 >作者：[FlowLeaf](http://blog.csdn.net/u011102153)<br/>
