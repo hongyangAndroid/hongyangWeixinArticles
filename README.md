@@ -11,6 +11,13 @@
 ## 已推送文章列表
 
 
+##### [[已推送]Android 仿美团网，探索使用ViewPager+GridView实现左右滑动查看更多分类的功能 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821215&idx=1&sn=fc4acc7167e2ce3935a7cfb04272650e&chksm=80b786c1b7c00fd75b03d050a73b617716782c1ff96b448ecc85595959aabf01d6d77321e858&scene=4#wechat_redirect)<br/>
+>推送时间:2016-10-14
+
+* 灵活使用ViewPager、GridView实现美团网首页栏目切换~
+
+<hr/>
+
 ##### [[已推送]Android自定义控件--仿安全卫士中的一键加速 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821214&idx=1&sn=d0c120c9dc21669c7acac9c250991e3c&chksm=80b786c0b7c00fd62c7be336df91885614e0184b153350602bcd1ff39618d6d80cc7a6999e20&scene=4#wechat_redirect)
 
 >作者：[a10615](http://blog.csdn.net/a10615)<br/>
