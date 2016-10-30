@@ -11,6 +11,105 @@
 ## 已推送文章列表
 
 
+##### [[已推送]仿墨迹天气的折线图控件，效果杠杠滴 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821324&idx=1&sn=60e5539a139e7d5b2ccfdce95a5f61c6&chksm=80b78652b7c00f44e359a1b8b2e8e4bbc3e8b3b2a55d1f85d7e483c519f1e536210af3bdf69b&scene=4#wechat_redirect)
+
+>作者：[ComputerBlue](http://blog.csdn.net/acmnickzhang)<br/>
+>推送时间:2016-10-28
+
+* 这个效果应该也适合报表、股票等~
+
+<hr/>
+
+##### [[已推送]Android Accessibility实践 程序检查微信被删好友 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821323&idx=1&sn=759fa78aa8bcd72b319e5bb92d3282cd&chksm=80b78655b7c00f43edb6e36eb3d02fe5a2d7393ddb577a74d1cefb926c0020b7797fbd2eb701&scene=4#wechat_redirect)
+
+>作者：[梅魂竹梦](http://www.jianshu.com/users/67db2debac96)<br/>
+>推送时间:2016-10-27
+
+* 有什么是程序员用代码不能解决的吗？
+
+<hr/>
+
+##### [[已推送]Android 手把手带你玩转自定义相机 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821322&idx=1&sn=41ccbbea68a1d3b4e355b025d8969aef&chksm=80b78654b7c00f42b80c09003e53cb509d83fe2fbdfe3a224e6dbb9cd68071695132c9cb0e51&scene=4#wechat_redirect)
+
+>作者：[一口仨馍](http://blog.csdn.net/qq_17250009/)<br/>
+>推送时间:2016-10-26
+
+* 作者将多日的研究以及踩过的坑，一次性送给大家。
+
+<hr/>
+
+##### [[已推送]是时候来了解android7了:shortcuts(快捷方式) ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821321&idx=1&sn=57499b72cc94b6725b390f770e79a00b&chksm=80b78657b7c00f41a8df33d16980c04d2db6f27f80ff132cc88c7c908561888c4451075f43c2&scene=4#wechat_redirect)
+
+>作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
+>推送时间:2016-10-25
+
+* Android 7.1，神奇的shortcuts，给用户一个极致的体验。
+
+<hr/>
+
+##### [[已推送]冰冻三尺非一日之寒-自学篇 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821315&idx=1&sn=3d3626ff738f00c70f565b389de76b3d&chksm=80b7865db7c00f4b288267cbda393a338989ddfb2b4ab609d51ae94bbc9b24c998127f916e71&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-10-24
+
+* 1024，献给你的礼物~~
+
+<hr/>
+
+##### [[已推送]Android中子线程真的不能更新UI吗？ ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821257&idx=1&sn=681163dc64fbb7b0fb079a2bd97173b3&chksm=80b78617b7c00f01ea806f94407aa3a858aab80c5ce49682bfc20f0c32aa16e4eab1cfeed6c6&scene=4#wechat_redirect)
+
+>作者：[无比耿直的程序猿](http://blog.csdn.net/xyh269)<br/>
+>推送时间:2016-10-21
+
+* 挺有意思的一个话题，作为面试题能坑到你吗？
+
+<hr/>
+
+##### [[已推送]Android 打造炫酷的3D画廊 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821256&idx=1&sn=6389f3d2c802f54f43fa9dd146abb738&chksm=80b78616b7c00f00197766cfb3f78f39dc7240c38d15180c834778fd7bb0a94197fcc53ea964&scene=4#wechat_redirect)
+
+>作者：[戎码之路](http://www.cnblogs.com/libertycode/)<br/>
+>推送时间:2016-10-20
+
+* 如何打造一个炫酷的画廊效果，秘诀就在这里。
+
+<hr/>
+
+##### [[已推送]什么，集成微信登录只要三行代码 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821255&idx=1&sn=f1d236b538bbc5b3bcc0bdda3114f798&chksm=80b78619b7c00f0f5dc4b2b43912c1169f9594fefb548167378feed7a5d080c01d7d1903506f&scene=4#wechat_redirect)
+
+>作者：[JerryloveEmily](http://www.jianshu.com/users/8b661f60979b)<br/>
+>推送时间:2016-10-19
+
+* 选择使用第三方登录，已经作为小众app非常青睐的功能了，看看本文作者如何做到三行代码集成微信登录~
+
+<hr/>
+
+##### [[已推送]Android Studio插件之MVPHelper，一键生成MVP代码 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821254&idx=1&sn=00135425de3be0834fb84fbe3fd90aea&chksm=80b78618b7c00f0e977f43710fa9e216466aaac91ead5ac8d377b313b929bcf79e5bc1f1d93a&scene=4#wechat_redirect)
+
+>作者：[wing](http://androidwing.net/index.php)<br/>
+>推送时间:2016-10-18
+
+* 一键生成MVP代码，不要再抱怨要手写那么多接口文件了~
+
+<hr/>
+
+##### [[已推送]RecyclerView自定义LayoutManager,打造不规则布局 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821253&idx=1&sn=265e754f43c5295cb5a236da6184e6ee&chksm=80b7861bb7c00f0dcf72e728e50844fb602216559ee6616393cf65751a35d0b3d1e5731b6df6&scene=4#wechat_redirect)
+
+>作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
+>推送时间:2016-10-17
+
+* 一直以来灵活的LayoutManager也作为RecyclerView的一大特色被介绍，不过自定义LayoutManager的文章倒是不多，一起来看看作者是如何自定义的。
+
+<hr/>
+
+##### [[已推送]Android 仿美团网，探索使用ViewPager+GridView实现左右滑动查看更多分类的功能 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821215&idx=1&sn=fc4acc7167e2ce3935a7cfb04272650e&chksm=80b786c1b7c00fd75b03d050a73b617716782c1ff96b448ecc85595959aabf01d6d77321e858&scene=4#wechat_redirect)
+
+>作者：[Adan0520](http://blog.csdn.net/qq_20785431)<br/>
+>推送时间:2016-10-14
+
+* 灵活使用ViewPager、GridView实现美团网首页栏目切换~
+
+<hr/>
+
 ##### [[已推送]Android自定义控件--仿安全卫士中的一键加速 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821214&idx=1&sn=d0c120c9dc21669c7acac9c250991e3c&chksm=80b786c0b7c00fd62c7be336df91885614e0184b153350602bcd1ff39618d6d80cc7a6999e20&scene=4#wechat_redirect)
 
 >作者：[a10615](http://blog.csdn.net/a10615)<br/>
