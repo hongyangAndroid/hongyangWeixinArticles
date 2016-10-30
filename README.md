@@ -11,6 +11,60 @@
 ## 已推送文章列表
 
 
+##### [[已推送]仿墨迹天气的折线图控件，效果杠杠滴 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821324&idx=1&sn=60e5539a139e7d5b2ccfdce95a5f61c6&chksm=80b78652b7c00f44e359a1b8b2e8e4bbc3e8b3b2a55d1f85d7e483c519f1e536210af3bdf69b&scene=4#wechat_redirect)
+
+>作者：[ComputerBlue](http://blog.csdn.net/acmnickzhang)<br/>
+>推送时间:2016-10-28
+
+* 这个效果应该也适合报表、股票等~
+
+<hr/>
+
+##### [[已推送]Android Accessibility实践 程序检查微信被删好友 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821323&idx=1&sn=759fa78aa8bcd72b319e5bb92d3282cd&chksm=80b78655b7c00f43edb6e36eb3d02fe5a2d7393ddb577a74d1cefb926c0020b7797fbd2eb701&scene=4#wechat_redirect)
+
+>作者：[梅魂竹梦](http://www.jianshu.com/users/67db2debac96)<br/>
+>推送时间:2016-10-27
+
+* 有什么是程序员用代码不能解决的吗？
+
+<hr/>
+
+##### [[已推送]Android 手把手带你玩转自定义相机 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821322&idx=1&sn=41ccbbea68a1d3b4e355b025d8969aef&chksm=80b78654b7c00f42b80c09003e53cb509d83fe2fbdfe3a224e6dbb9cd68071695132c9cb0e51&scene=4#wechat_redirect)
+
+>作者：[一口仨馍](http://blog.csdn.net/qq_17250009/)<br/>
+>推送时间:2016-10-26
+
+* 作者将多日的研究以及踩过的坑，一次性送给大家。
+
+<hr/>
+
+##### [[已推送]是时候来了解android7了:shortcuts(快捷方式) ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821321&idx=1&sn=57499b72cc94b6725b390f770e79a00b&chksm=80b78657b7c00f41a8df33d16980c04d2db6f27f80ff132cc88c7c908561888c4451075f43c2&scene=4#wechat_redirect)
+
+>作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
+>推送时间:2016-10-25
+
+* Android 7.1，神奇的shortcuts，给用户一个极致的体验。
+
+<hr/>
+
+##### [[已推送]冰冻三尺非一日之寒-自学篇 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821315&idx=1&sn=3d3626ff738f00c70f565b389de76b3d&chksm=80b7865db7c00f4b288267cbda393a338989ddfb2b4ab609d51ae94bbc9b24c998127f916e71&scene=4#wechat_redirect)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-10-24
+
+* 1024，献给你的礼物~~
+
+<hr/>
+
+##### [[已推送]Android中子线程真的不能更新UI吗？ ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821257&idx=1&sn=681163dc64fbb7b0fb079a2bd97173b3&chksm=80b78617b7c00f01ea806f94407aa3a858aab80c5ce49682bfc20f0c32aa16e4eab1cfeed6c6&scene=4#wechat_redirect)
+
+>作者：[无比耿直的程序猿](http://blog.csdn.net/xyh269)<br/>
+>推送时间:2016-10-21
+
+* 挺有意思的一个话题，作为面试题能坑到你吗？
+
+<hr/>
+
 ##### [[已推送]Android 打造炫酷的3D画廊 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821256&idx=1&sn=6389f3d2c802f54f43fa9dd146abb738&chksm=80b78616b7c00f00197766cfb3f78f39dc7240c38d15180c834778fd7bb0a94197fcc53ea964&scene=4#wechat_redirect)
 
 >作者：[戎码之路](http://www.cnblogs.com/libertycode/)<br/>
