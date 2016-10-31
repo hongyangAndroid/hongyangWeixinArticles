@@ -11,6 +11,15 @@
 ## 已推送文章列表
 
 
+##### [[已推送]使用辅助服务打造自己的智能视频监控系统 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821392&idx=1&sn=0ad445a96323f6c3c1658c7de3af1b3c&chksm=80b7878eb7c00e98bb21fe8d02831bd04165ac0007d2d86cc14e217bdd8ac62ed6cad043f035&scene=4#wechat_redirect)
+
+>作者：[HelloCsl](http://www.jianshu.com/users/08d470f08fbf/)<br/>
+>推送时间:2016-10-31
+
+* Android程序员如何利用废弃的手机打造一个监控系统~太酷了~
+
+<hr/>
+
 ##### [[已推送]仿墨迹天气的折线图控件，效果杠杠滴 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821324&idx=1&sn=60e5539a139e7d5b2ccfdce95a5f61c6&chksm=80b78652b7c00f44e359a1b8b2e8e4bbc3e8b3b2a55d1f85d7e483c519f1e536210af3bdf69b&scene=4#wechat_redirect)
 
 >作者：[ComputerBlue](http://blog.csdn.net/acmnickzhang)<br/>
