@@ -11,6 +11,15 @@
 ## 已推送文章列表
 
 
+##### [[已推送]Android拆轮子-唯美细腻的夕阳海浪动画 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821393&idx=1&sn=4106295c865daa0aadaebd2936a61a37&chksm=80b7878fb7c00e9972d50b6e47c125725b5ff6792eedb610bc777aeb895ae844247404cda8be&scene=4#wechat_redirect)
+
+>作者：[immortalz](http://immortalz.me/559.html)<br/>
+>推送时间:2016-11-01
+
+* 一个唯美细腻的夕阳海浪动画是如何打造的呢？没听说过Canvas.drawBitmapMesh的还不快来~
+
+<hr/>
+
 ##### [[已推送]使用辅助服务打造自己的智能视频监控系统 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821392&idx=1&sn=0ad445a96323f6c3c1658c7de3af1b3c&chksm=80b7878eb7c00e98bb21fe8d02831bd04165ac0007d2d86cc14e217bdd8ac62ed6cad043f035&scene=4#wechat_redirect)
 
 >作者：[HelloCsl](http://www.jianshu.com/users/08d470f08fbf/)<br/>
