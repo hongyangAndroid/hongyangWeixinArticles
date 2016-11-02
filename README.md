@@ -11,6 +11,15 @@
 ## 已推送文章列表
 
 
+##### [[已推送]Activity 全屏，沉浸式模式这一篇就够了 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821396&idx=1&sn=dc779021ca94a989ecb2a1173145d2e7&chksm=80b7878ab7c00e9c94f740ab778a14ad400489e3aa62dcd8170dd9a0bbcfacf96be75c96517c&scene=4#wechat_redirect)
+
+>作者：[小钙](http://blog.csdn.net/zhangqinghuazhangzhe)<br/>
+>推送时间:2016-11-02
+
+* 非常的细致和有条理~
+
+<hr/>
+
 ##### [[已推送]Android拆轮子-唯美细腻的夕阳海浪动画 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821393&idx=1&sn=4106295c865daa0aadaebd2936a61a37&chksm=80b7878fb7c00e9972d50b6e47c125725b5ff6792eedb610bc777aeb895ae844247404cda8be&scene=4#wechat_redirect)
 
 >作者：[immortalz](http://immortalz.me/559.html)<br/>
