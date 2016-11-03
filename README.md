@@ -11,6 +11,15 @@
 ## 已推送文章列表
 
 
+##### [[Android 中的转场动画及兼容处理 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821397&idx=1&sn=c3fd1ff20c493493a6badf79ec665d2c&chksm=80b7878bb7c00e9dfa9d85e8c335810026ff2aca3dc55a66a73c4bd6e89e678d28521c3dcf81&scene=4#wechat_redirect)
+
+>作者：[湫水](http://blog.csdn.net/wl9739)<br/>
+>推送时间:2016-11-03
+
+* 这么炫酷的动画，可以考虑项目中去支持了~
+
+<hr/>
+
 ##### [[已推送]Activity 全屏，沉浸式模式这一篇就够了 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821396&idx=1&sn=dc779021ca94a989ecb2a1173145d2e7&chksm=80b7878ab7c00e9c94f740ab778a14ad400489e3aa62dcd8170dd9a0bbcfacf96be75c96517c&scene=4#wechat_redirect)
 
 >作者：[小钙](http://blog.csdn.net/zhangqinghuazhangzhe)<br/>
