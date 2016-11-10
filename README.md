@@ -11,6 +11,51 @@
 ## 已推送文章列表
 
 
+##### [[当关闭通知消息权限后无法显示系统Toast的解决方案 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821437&idx=1&sn=b2f9687d6edea1c3965a415e8d8becd8&chksm=80b787a3b7c00eb5e758e2432c2dfb28df00541b6c1b90bd9eb97303820310d851205a750b66&scene=4#wechat_redirect)
+
+>作者：[yiguo_blin](http://blog.csdn.net/qq_25867141)<br/>
+>推送时间:2016-11-10
+
+* 我在考虑要不要也加上这块的适配~
+
+<hr/>
+
+##### [[Weex快速入门指南 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821435&idx=1&sn=ebe7a2e723cd4afe13a0ed49f8177d1f&chksm=80b787a5b7c00eb3e3ab41d1d027cd4311ea9a62588d708f311086465fd26d496fd2ecb550dd&scene=4#wechat_redirect)
+
+>作者：[TinyX](http://blog.tinyx.cc/)<br/>
+>推送时间:2016-11-09
+
+* Cross-Platform & Native Speed 多么向往~
+
+<hr/>
+
+##### [[Android一些你需要知道的布局优化技巧 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821434&idx=1&sn=dd404347eb5f953f7a5737a31ae864e8&chksm=80b787a4b7c00eb297a81316483f2fe5b90a598ddb0c18840f758a8b35384872a552e3a57758&scene=4#wechat_redirect)
+
+>作者：[唯鹿](http://blog.csdn.net/qq_17766199)<br/>
+>推送时间:2016-11-08
+
+* 一系列的小优化技巧，你值得拥有。
+
+<hr/>
+
+##### [[让你的app无法使用截图的探究 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821433&idx=1&sn=14564267baa838695bee8da9b2db4e4b&chksm=80b787a7b7c00eb15350df4d1781e676a0d97e471ecc7699e0574afc74853f0155f7ea6a5788&scene=4#wechat_redirect)
+
+>作者：[S_H_I_E_L_D](http://www.jianshu.com/users/41ca3bf3ac92)<br/>
+>推送时间:2016-11-07
+
+* 我也学到了新姿势~
+
+<hr/>
+
+##### [[Realm for Android详细教程 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821398&idx=1&sn=ce8e329c1cee68b43da8bf448bf45699&chksm=80b78788b7c00e9eabbcd800779af3800f9de36da08522be2ba2700dd381476ba9807ca35b9b&scene=4#wechat_redirect)
+
+>作者：[RaphetS](http://www.jianshu.com/users/6b5e6dce74c5/)<br/>
+>推送时间:2016-11-04
+
+* 如果你正要了解Realm或者准备作为知识储备，不要错过该文，作者花了一周写了这篇文章，避免重复踩坑。
+
+<hr/>
+
 ##### [[Android 中的转场动画及兼容处理 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821397&idx=1&sn=c3fd1ff20c493493a6badf79ec665d2c&chksm=80b7878bb7c00e9dfa9d85e8c335810026ff2aca3dc55a66a73c4bd6e89e678d28521c3dcf81&scene=4#wechat_redirect)
 
 >作者：[湫水](http://blog.csdn.net/wl9739)<br/>
