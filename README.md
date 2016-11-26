@@ -11,6 +11,78 @@
 ## 已推送文章列表
 
 
+##### [[已推送]Android自定义控件 仿芝麻信用曲线图 ](http://mp.weixin.qq.com/s/amj_SnN6xs2YniQa98wrkw)
+
+>作者：[w空灵画师w](http://blog.csdn.net/qq199208)<br/>
+>推送时间:2016-11-24
+
+* 仿芝麻信用控件三部曲之二。
+
+<hr/>
+
+##### [[已推送]一些你可能需要的okhttp实现 ](http://mp.weixin.qq.com/s/zuZbsZGbeBeMe-HeEg6Otw)
+
+>作者：[唯鹿](http://blog.csdn.net/qq_17766199)<br/>
+>推送时间:2016-11-23
+
+* okhttp强大的拦截器~~
+
+<hr/>
+
+##### [[已推送]Android 无需权限即可触发震动 HapticFeedback（震动反馈） ](http://mp.weixin.qq.com/s/8OD2i8zSaM9w_6j-7dzufQ)
+
+>作者：[HarryWeasley](http://blog.csdn.net/harryweasley)<br/>
+>推送时间:2016-11-22
+
+* 震动~不需要权限的震动~
+
+<hr/>
+
+##### [[已推送]Android Webp 完全解析 快来缩小apk的大小吧 ](http://mp.weixin.qq.com/s/anzcTJ6hCLzLyk9YS3EDNA)
+
+>作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+>推送时间:2016-11-21
+
+* 鸿洋的Webp探寻之旅~~
+
+<hr/>
+
+##### [[已推送]重识Retrofit ](http://mp.weixin.qq.com/s/T65HiCUoRbv8m4LMXCvWSQ)
+
+>作者：[闯梦者](http://www.jianshu.com/users/ec7d4b8dd871)<br/>
+>推送时间:2016-11-18
+
+* 重识Retrofit会有什么体会呢？
+
+<hr/>
+
+##### [[已推送]Android自定义控件 芝麻信用分雷达图 ](http://mp.weixin.qq.com/s/PztpG8QGxBhWVW8C1XZs0Q)
+
+>作者：[容华谢后](http://blog.csdn.net/kong_gu_you_lan)<br/>
+>推送时间:2016-11-17
+
+* 自定义控件已经挡不住地球人了~~
+
+<hr/>
+
+##### [[已推送]Android 传感器开发 完全解析 ](http://mp.weixin.qq.com/s/j1oHk5fOv9DoPjcBZulllw)
+
+>作者：[郭朝](http://blog.csdn.net/smartbetter)<br/>
+>推送时间:2016-11-16
+
+* 有需要使用传感器的同学嘛？
+
+<hr/>
+
+##### [[已推送]一句代码实现标题栏、导航栏滑动隐藏 ](http://mp.weixin.qq.com/s/HMmOZqhgl6HAwGOH34RTVg)
+
+>作者：[旋转跳跃就团灭的wing](http://androidwing.net/index.php)<br/>
+>推送时间:2016-11-15
+
+* 挺常见的效果~~CoordinatorLayout.Behavior还真是蛮合适的~
+
+<hr/>
+
 ##### [[已推送]当关闭通知消息权限后无法显示系统Toast的解决方案 ](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650821437&idx=1&sn=b2f9687d6edea1c3965a415e8d8becd8&chksm=80b787a3b7c00eb5e758e2432c2dfb28df00541b6c1b90bd9eb97303820310d851205a750b66&scene=4#wechat_redirect)
 
 >作者：[yiguo_blin](http://blog.csdn.net/qq_25867141)<br/>
