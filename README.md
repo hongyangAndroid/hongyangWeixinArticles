@@ -7,8 +7,286 @@
 
 
 
-
 ## 已推送文章列表
+
+##### [[已推送] Android性能优化-过渡绘制解决方案](http://mp.weixin.qq.com/s/G9Ppkf_VVWE2wE08jGLhdw)
+
+> 作者：[libraryboy](http://blog.csdn.net/a740169405)<br/>
+> 推送时间:2017-01-10
+
+- Android 性能优化永不过时的话题
+
+<hr/>
+
+##### [[已推送] 是时候来了解android7了:通知直接回复](http://mp.weixin.qq.com/s/Vg85EpNCJr3gdAfI9TR88g)
+
+> 作者：[亓斌](http://blog.csdn.net/qibin0506/)<br/>
+> 推送时间:2017-01-09
+
+- Android 7 带来的又一体验的提升~
+
+<hr/>
+
+##### [[已推送] 《云阅》一个仿网易云音乐UI，使用Gank.Io及豆瓣Api开发的开源项目](http://mp.weixin.qq.com/s/jsDov5TFGO2DBywZ8QHlYQ)
+
+> 作者：[景彬](http://www.jianshu.com/users/e43c6e979831)<br/>
+> 推送时间:2017-01-06
+
+- 想要一个完整项目学习的朋友不妨抽空学习一下~
+
+<hr/>
+
+##### [[已推送] 从客户端的角度设计后端的接口](http://mp.weixin.qq.com/s/l0CbwPwUiBzNCoR6SJluZw)
+
+> 作者：[listen](http://www.jianshu.com/users/a9b2be9f854d)<br/>
+> 推送时间:2017-01-05
+
+- 文章真的非常非常棒~~很多方案大家在工作中一定深有体会~
+
+<hr/>
+
+##### [[已推送] 使用gradle打包多个变体（variant）](http://mp.weixin.qq.com/s/s6GwCPT6OVE1xQ3DWYNCHw)
+
+> 作者：[junerver](http://www.jianshu.com/users/5246e1822cf5)<br/>
+> 推送时间:2017-01-04
+
+- 内容还是非常有必要了解的，可以考虑记在笔记本上~
+
+<hr/>
+
+##### [[已推送] 2016一路有你，2017一起同行](http://mp.weixin.qq.com/s/LsIeAl5bm5s5iiJlEN0TBQ)
+
+> 作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-01-01
+
+- 2016坚持初心，不负梦想；2017，让我们一起并肩战斗~
+
+<hr/>
+
+##### [[已推送] App组件化与业务拆分那些事](http://mp.weixin.qq.com/s/pH1zSzTozuiNdNvJqLdtoA)
+
+> 作者：[键盘男](http://www.jianshu.com/users/0ef3dc77079c)<br/>
+> 推送时间:2016-12-30
+
+- 本文会从业务的角度，给大家讲讲为什么要拆分 App 业务，如何拆分，以及优点等等~
+
+<hr/>
+
+##### [[已推送] Android自定义View--自己撸一个柱状图也没那么难]()
+
+> 作者：[Hankkin](http://mp.weixin.qq.com/s/NWgpDAaImaIKm3lpZ0EraA)<br/>
+> 推送时间:2016-12-29
+
+- 自定义 View 慢慢的已经成为基础知识点了~~
+
+<hr/>
+
+##### [[已推送] Android Studio 调试技巧](http://mp.weixin.qq.com/s/RzZ8rhYWZQ9ncdci1cRvJA)
+
+> 作者：[tinyx](http://blog.tinyx.cc/)<br/>
+> 推送时间:2016-12-28
+
+- 调试的技巧可以帮助你省下大量的时间~
+
+<hr/>
+
+##### [[已推送] Android如何实现茄子快传](http://mp.weixin.qq.com/s/V_KH5hlRXMP1WKLsw7uMww)
+
+> 作者：[yubaoma2014](http://blog.csdn.net/yubaoma2014)<br/>
+> 推送时间:2016-12-27
+
+- 文件传输相关的非常好的学习资料~
+
+<hr/>
+
+##### [[已推送] 这交互炸了:一分钟让你拥有微信拖拽透明返回PhotoView](http://mp.weixin.qq.com/s/dW6t1hoVl_mqPx6mO_Tssg)
+
+> 作者：[三精-大精wing](http://blog.csdn.net/wingichoy)<br/>
+> 推送时间:2016-12-26
+
+- 这交互炸了系列文章，这次是微信朋友圈的一个效果~~
+
+<hr/>
+
+##### [[已推送] Android 第一行代码赠书 [全球限量版]](http://mp.weixin.qq.com/s/PoLAKIE-x4mviB9djVDNUw)
+
+> 作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2016-12-23
+
+- 全球仅有几本包含老郭和我签名的书~
+
+<hr/>
+
+##### [[已推送] Android 蓝牙技术 带你实现终端间数据传输](http://mp.weixin.qq.com/s/ib5E5zxcg4oHAyRvwEr4iQ)
+
+> 作者：[郭朝](http://blog.csdn.net/smartbetter)<br/>
+> 推送时间:2016-12-22
+
+- 有没有正在开发蓝牙相关的~
+
+<hr/>
+
+##### [[已推送] 对于有多种可替代解决方案的业务逻辑，提供一种快速更换的思路](http://mp.weixin.qq.com/s/3EqKvZ-gYgUOv6DQETHOsQ)
+
+> 作者：[Jianwei](https://v1sk.github.io/archives/)<br/>
+> 推送时间:2016-12-21
+
+- 这件事应该每个项目中都会做的，如果你们项目还没有，尝试去推动吧~
+
+<hr/>
+
+##### [[已推送] Android 如何实现一个平滑过渡的ViewPager广告条](http://mp.weixin.qq.com/s/2ZPkI_uk2iZK3Lhsf2tWeQ)
+
+> 作者：[郭朝](http://blog.csdn.net/smartbetter)<br/>
+> 推送时间:2016-12-20
+
+- 从无线循环的 banner 来看，这种方式还是不错的~
+
+<hr/>
+
+##### [[已推送] Android中一些你可能没注意的小效果实现](http://mp.weixin.qq.com/s/OWOcVtb59Q5R49HBAWBC6w)
+
+> 作者：[唯鹿](http://blog.csdn.net/qq_17766199)<br/>
+> 推送时间:2016-12-19
+
+- 有时候一个小技巧会帮助你省下非常多的时间~
+
+<hr/>
+
+##### [[已推送] Android动画之萌萌哒蜡烛吹蜡烛动画](http://mp.weixin.qq.com/s/nhB_pL6QAeFrBMPR6CuJPQ)
+
+> 作者：[BIGPiePieTree](http://www.jianshu.com/users/21661f4652e1)<br/>
+> 推送时间:2016-12-16
+
+- 这动画萌到我了~
+
+<hr/>
+
+##### [[已推送] 【Android】 给我一个Path，还你一个酷炫动画](http://mp.weixin.qq.com/s/r9O4VrFg7J8qERwtBBF7lw)
+
+> 作者：[张旭童](http://blog.csdn.net/zxt0601)<br/>
+> 推送时间:2016-12-15
+
+- 给他一个 Path，他会给你一个动画~~
+
+<hr/>
+
+##### [[已推送] 利用百度地图实现支付宝“到位”功能（地图模式）](http://mp.weixin.qq.com/s/nQbLTcK98TB318th6u199w)
+
+> 作者：[恋猫月亮](http://www.jianshu.com/users/6e613846e1ea)<br/>
+> 推送时间:2016-12-14
+
+- 到位才出来多久，就被作者仿了~~
+
+<hr/>
+
+##### [[已推送] Android NFC标签 开发深度解析 触碰的艺术](http://mp.weixin.qq.com/s/Nxf0YD8esByCTa4IqSZO9g)
+
+> 作者：[郭朝](http://blog.csdn.net/smartbetter)<br/>
+> 推送时间:2016-12-13
+
+- Android NFC 开发深度好文~
+
+<hr/>
+
+##### [[已推送] 无需root权限调试Android UI的工具，兼容所有版本](http://mp.weixin.qq.com/s/sil17D7Cd9ROETR7GHjYFw)
+
+> 作者：[Young](https://android-notes.github.io)<br/>
+> 推送时间:2016-12-12
+
+- 有些东西真的不是做不到，而是想不到~
+
+<hr/>
+
+##### [[已推送] 这交互炸了：饿了么是怎么让Image变成详情页的](http://mp.weixin.qq.com/s/yiNpYvTwnAJparVd4egr4g)
+
+> 作者：[旋转跳跃就团灭的wing](http://blog.csdn.net/wingichoy)<br/>
+> 推送时间:2016-12-09
+
+- 真是逆天的交互体验~看一眼就炸了~
+
+<hr/>
+
+##### [[已推送] Android Service不能再详细的教程](http://mp.weixin.qq.com/s/qj3lXfsWe76txyDMigStLw)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2016-12-08
+
+- 下次面试要是问你说说 Android Service..
+
+<hr/>
+
+##### [[已推送] Android组件化核心之路由实现](http://mp.weixin.qq.com/s/grEgDlQO7TKIbK4b4qcmSg)
+
+> 作者：[亓斌](http://blog.csdn.net/qibin0506)<br/>
+> 推送时间:2016-12-07
+
+- 组件化热火朝天，路由机制还是值得学习的~
+
+<hr/>
+
+##### [[已推送] 一个Demo带你彻底掌握View的滑动冲突 ](http://mp.weixin.qq.com/s/QFe6HHXOLADvsaRABETy4g)
+
+> 作者：[Young_Kai](http://blog.csdn.net/tyk0910)<br/>
+> 推送时间:2016-12-06
+
+- 滑动冲突你遇到过吗？当时是怎么解决的？
+
+<hr/>
+
+##### [[已推送] Android 反编译初探 应用是如何被注入广告的](http://mp.weixin.qq.com/s/sTidikOsNuIBHjHOQ4-qBg)
+
+> 作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2016-12-05
+
+- 鸿洋带你看看应用是如何被注入广告的，学学野路子是怎么玩的~
+
+<hr/>
+
+##### [[已推送] Android自定义Transition动画](http://mp.weixin.qq.com/s/O_tR7Y2V6UVuBK2uyRyq3A)
+
+> 作者：[亓斌](http://blog.csdn.net/qibin0506)<br/>
+> 推送时间:2016-12-02
+
+- 只要是自定义都觉得好厉害~~
+
+<hr/>
+
+##### [[已推送] [Android进阶]学习AccessibilityService实现微信抢红包插件 ](http://mp.weixin.qq.com/s/SXO-bk8W503LvG7-9TXOHA)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2016-12-01
+
+- 看技术宅如何抢红包~
+
+<hr/>
+
+##### [[已推送] 芝麻信用，你想要多少分？](http://mp.weixin.qq.com/s/gvFpETNpSqFmeqxN8wDvGQ)
+
+> 作者：[陈朝勇](http://blog.csdn.net/ccy0122)<br/>
+> 推送时间:2016-11-30
+
+- 想要多少分就有多少分~~
+
+<hr/>
+
+##### [[已推送] 你所不知道的Activity转场动画——ActivityOptions](http://mp.weixin.qq.com/s/D4q-_EaqeNLPEEyJ0q0YEA)
+
+> 作者：[亓斌](http://blog.csdn.net/qibin0506)<br/>
+> 推送时间:2016-11-28
+
+- 越来越好的用户体验~
+
+<hr/>
+
+##### [[已推送] Android单元测试——初探 ](http://mp.weixin.qq.com/s/put5uxN1p8tk36ONcbA5pA)
+
+> 作者：[红灰李](http://www.jianshu.com/users/6ca395ea7e3e)<br/>
+> 推送时间:2016-11-25
+
+- 测试有的时候是非常重要的~
+
+<hr/>
 
 
 ##### [[已推送]Android自定义控件 仿芝麻信用曲线图 ](http://mp.weixin.qq.com/s/amj_SnN6xs2YniQa98wrkw)
@@ -1270,7 +1548,7 @@
 * 知识点1：完成RecyclerView的通用的Adapter的编写
 * 知识点2：支持单种Item多种Item布局类型
 * 知识点3：支持轻松的为Item添加header分类
-<hr/>
+  <hr/>
 
 ##### [[已推送]Android 五子连珠背后的故事](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=402946490&idx=1&sn=1ddacffd0f861fa0ab50921a71639a2f&scene=23&srcid=0506KP9VHEecMo3bfl61x98Y#rd)
 
@@ -1291,7 +1569,7 @@
 * 知识点1：Android 6.0权限机制的变化介绍，以及处理方案
 * 知识点2：提供对处理方案的疯狂方案的介绍
 * 知识点3：给出了一个基于注解的处理方案
-<hr/>
+  <hr/>
 
 
 ## 公众号二维码
