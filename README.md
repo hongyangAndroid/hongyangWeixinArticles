@@ -9,6 +9,33 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 如何实现一个平滑过渡的ViewPager广告条](http://mp.weixin.qq.com/s/0egXO42vlAx7qbUcQfiGgA)
+
+> 作者：[郭朝](http://blog.csdn.net/smartbetter)<br/>
+> 推送时间:2017-01-13
+
+- 从无线循环的 banner 来看，这种方式还是不错的~
+
+<hr/>
+
+##### [[已推送] 优雅的实现多类型列表的Adapter](http://mp.weixin.qq.com/s/RGwQYxdUQIhRUZpm1XK0lQ)
+
+> 作者：[红灰李](http://www.jianshu.com/u/6ca395ea7e3e)<br/>
+> 推送时间:2017-01-12
+
+- 天天写 Adapter，那么如何写的更优雅一些呢？
+
+<hr/>
+
+##### [[已推送] 热更新Tinker的初次集成使用](http://mp.weixin.qq.com/s/EkDvR9Z4HYcuWDzbOrAYXg)
+
+> 作者：[AndroidMsky](http://blog.csdn.net/AndroidMsky)<br/>
+> 推送时间:2017-01-11
+
+- 快来了解下 Tinker 是如何集成到项目中的吧~
+
+<hr/>
+
 ##### [[已推送] Android性能优化-过渡绘制解决方案](http://mp.weixin.qq.com/s/G9Ppkf_VVWE2wE08jGLhdw)
 
 > 作者：[libraryboy](http://blog.csdn.net/a740169405)<br/>
