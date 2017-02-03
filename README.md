@@ -9,6 +9,60 @@
 
 ## 已推送文章列表
 
+##### [[已推送] 2016的文章都在这里，2017年加油~](http://mp.weixin.qq.com/s/lgJ7DZyZfsr5jlhAGiybSg)
+
+> 作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-01-22
+
+- 不要想念我，除夕夜见~
+
+<hr/>
+
+##### [[已推送] Android 实战——GreenDao3.2的使用，爱不释手](http://mp.weixin.qq.com/s/4Nx2DacsK65O5LanPZUszA)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-01-20
+
+- greenDao 速成笔记
+
+<hr/>
+
+##### [[已推送] Android Path酷炫动画，极速get花式Path](http://mp.weixin.qq.com/s/h0KgI7zX1kGwFAbcGd_yvA)
+
+> 作者：[张旭童](http://blog.csdn.net/zxt0601)<br/>
+> 推送时间:2017-01-19
+
+- I have a pic. I have a view. Oh~,Path(Anim)View
+
+<hr/>
+
+##### [[已推送] Android硬编码——音频编码、视频编码及音视频混合](http://mp.weixin.qq.com/s/30jn8b3Ru-V-2QC5taI-6w)
+
+> 作者：[湖广午王](http://blog.csdn.net/junzia)<br/>
+> 推送时间:2017-01-18
+
+- 深入好文，以备后用~
+
+<hr/>
+
+##### [[已推送] Android仿淘宝头条垂直滚动广告条](http://mp.weixin.qq.com/s/t2Evx8ejM064q76B9tSkXg)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-01-17
+
+- 有时候一些被我们忽视的空间也有其发挥的场景~
+
+<hr/>
+
+##### [[已推送] [Android]五行代码实现 炫动滑动 卡片层叠布局](http://mp.weixin.qq.com/s/jn5JUfKhJGfoLJv88_a5qg)
+
+> 作者：[张旭童](http://blog.csdn.net/zxt0601)<br/>
+> 推送时间:2017-01-16
+
+- RecycleView 真被玩的出神入化了~~
+
+<hr/>
+
 ##### [[已推送] Android 如何实现一个平滑过渡的ViewPager广告条](http://mp.weixin.qq.com/s/0egXO42vlAx7qbUcQfiGgA)
 
 > 作者：[郭朝](http://blog.csdn.net/smartbetter)<br/>
