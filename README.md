@@ -9,6 +9,65 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android View相关核心知识问答](http://mp.weixin.qq.com/s/d9KYCnccwR4EqSWGzNpgaQ)
+
+> 作者：[乆_丩](http://www.jianshu.com/u/c1b4a5542220)<br/>
+> 推送时间:2017-02-13
+
+- View 相关的知识分享~
+
+<hr/>
+
+##### [[已推送] Android Camera使用总结与那些坑](http://mp.weixin.qq.com/s/MVcFCbHlG4PeCutDJwZ75Q)
+
+> 作者：[宇是我](http://www.jianshu.com/u/04d328e48fb5)<br/>
+> 推送时间:2017-02-10
+
+- 从实战角度去看拍照需要注意的事项~
+  包含自动对焦、闪光灯、分辨率、权限等。
+  赶紧来了解吧~
+
+<hr/>
+
+##### [[已推送] 给所有开发者的 React Native 详细入门指南](http://mp.weixin.qq.com/s/xwSy2d8KmGPH03G4VmSnYA)
+
+> 作者：[Marno](http://www.jianshu.com/u/174a09ba6c25)<br/>
+> 推送时间:2017-02-09
+
+- 作者总结了整个自己的学习经历，并提供了总结、实例；
+  是我见过的非常良心的教程~
+  如果对 RN 感兴趣，千万不要错过~
+
+<hr/>
+
+##### [[已推送] Android 提高代码质量 之 多种检测方案]()
+
+> 作者：[宇是我](http://www.jianshu.com/u/04d328e48fb5)<br/>
+> 推送时间:2017-02-08
+
+- 利用插件检测代码，提升代码质量~
+  lint、findBugs、PMD、CheckStyles 你值得拥有。
+
+<hr/>
+
+##### [[已推送] Android 使用 WindowManager 实现悬浮窗及源码解析](http://mp.weixin.qq.com/s/B6ouTWxBboVA5Opoa_IO3A)
+
+> 作者：[一口仨馍](http://blog.csdn.net/qq_17250009)<br/>
+> 推送时间:2017-02-07
+
+- 一篇文章带你玩转桌面悬浮窗
+
+<hr/>
+
+##### [[已推送] Android 热修复 Tinker 接入及源码浅析](http://mp.weixin.qq.com/s/WHYA4aTWIHcd8CQ95StwDg)
+
+> 作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-02-06
+
+- 公众号开业了，有我先给大家起个头~
+
+<hr/>
+
 ##### [[已推送] 2016的文章都在这里，2017年加油~](http://mp.weixin.qq.com/s/lgJ7DZyZfsr5jlhAGiybSg)
 
 > 作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
