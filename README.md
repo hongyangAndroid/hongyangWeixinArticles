@@ -9,6 +9,101 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 6.0 自定义文本选择操作 咕咚翻译的体验优化](http://mp.weixin.qq.com/s/fhr3u2iA-R8J4WdRtMqWGA)
+
+> 作者：[大侠咕咚](http://www.jianshu.com/u/203065de3ced)<br/>
+> 推送时间:2017-02-17
+
+- 利用新特性为高版本的手机提供更加的体验~
+
+<hr/>
+
+##### [[已推送] Android View的事件分发机制和滑动冲突解决方案](http://mp.weixin.qq.com/s/fhr3u2iA-R8J4WdRtMqWGA)
+
+> 作者：[陈添](http://www.jianshu.com/u/f7fa41541bf9)<br/>
+> 推送时间:2017-02-16
+
+- 各种实例详解滑动冲突解决方案~
+
+<hr/>
+
+##### [[已推送] Android实战 Jsoup实现网络爬虫,糗事百科项目的起步](http://mp.weixin.qq.com/s/1xtmH9EZHwC-3_d-x-oINw)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-02-15
+
+- 很多时候想做一个 app 却没有数据源支持，我想 jsoup 应该可以帮你~
+
+<hr/>
+
+##### [[已推送] Android性能优化系列 之 apk瘦身](http://mp.weixin.qq.com/s/LlF5Z0tgTKHf4Vs5YjOYiA)
+
+> 作者：[首席套路管](http://blog.csdn.net/u012124438)<br/>
+> 推送时间:2017-02-14
+
+- 提供了23种方式帮助你完成 apk 瘦身，总有一种适合你。
+
+<hr/>
+
+##### [[已推送] Android View相关核心知识问答](http://mp.weixin.qq.com/s/d9KYCnccwR4EqSWGzNpgaQ)
+
+> 作者：[乆_丩](http://www.jianshu.com/u/c1b4a5542220)<br/>
+> 推送时间:2017-02-13
+
+- View 相关的知识分享~
+
+<hr/>
+
+##### [[已推送] Android Camera使用总结与那些坑](http://mp.weixin.qq.com/s/MVcFCbHlG4PeCutDJwZ75Q)
+
+> 作者：[宇是我](http://www.jianshu.com/u/04d328e48fb5)<br/>
+> 推送时间:2017-02-10
+
+- 从实战角度去看拍照需要注意的事项~
+  包含自动对焦、闪光灯、分辨率、权限等。
+  赶紧来了解吧~
+
+<hr/>
+
+##### [[已推送] 给所有开发者的 React Native 详细入门指南](http://mp.weixin.qq.com/s/xwSy2d8KmGPH03G4VmSnYA)
+
+> 作者：[Marno](http://www.jianshu.com/u/174a09ba6c25)<br/>
+> 推送时间:2017-02-09
+
+- 作者总结了整个自己的学习经历，并提供了总结、实例；
+  是我见过的非常良心的教程~
+  如果对 RN 感兴趣，千万不要错过~
+
+<hr/>
+
+##### [[已推送] Android 提高代码质量 之 多种检测方案]()
+
+> 作者：[宇是我](http://www.jianshu.com/u/04d328e48fb5)<br/>
+> 推送时间:2017-02-08
+
+- 利用插件检测代码，提升代码质量~
+  lint、findBugs、PMD、CheckStyles 你值得拥有。
+
+<hr/>
+
+##### [[已推送] Android 使用 WindowManager 实现悬浮窗及源码解析](http://mp.weixin.qq.com/s/B6ouTWxBboVA5Opoa_IO3A)
+
+> 作者：[一口仨馍](http://blog.csdn.net/qq_17250009)<br/>
+> 推送时间:2017-02-07
+
+- 一篇文章带你玩转桌面悬浮窗
+
+<hr/>
+
+##### [[已推送] Android 热修复 Tinker 接入及源码浅析](http://mp.weixin.qq.com/s/WHYA4aTWIHcd8CQ95StwDg)
+
+> 作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-02-06
+
+- 公众号开业了，有我先给大家起个头~
+
+<hr/>
+
 ##### [[已推送] 2016的文章都在这里，2017年加油~](http://mp.weixin.qq.com/s/lgJ7DZyZfsr5jlhAGiybSg)
 
 > 作者：[张鸿洋](http://blog.csdn.net/lmj623565791)<br/>
