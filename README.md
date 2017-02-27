@@ -3,11 +3,61 @@
 
 >如果想要得到推送通知可以点下watch或者关注下公众号
 
-
+![hongyangAndroid](http://img.my.csdn.net/uploads/201607/19/1468942304_6791.jpg)
 
 
 
 ## 已推送文章列表
+
+##### [[已推送] Android 广播相关的都在这儿](http://mp.weixin.qq.com/s/khUeEW0CRaSlWAt2ZNLJKw)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-02-24
+- 普通广播（自定义广播）、有序广播、拦截广播、本地广播、Stick 广播、系统广播都在这儿~
+
+- [今日推荐：当你在浏览器中输入 google.com 并且按下回车之后发生了什么?](https://github.com/skyline75489/what-happens-when-zh_CN)
+
+  <hr/>
+
+##### [[已推送] Android 高级动画开发系列 矢量图动画](http://mp.weixin.qq.com/s/enmKJ7S-acYQSOkEL-k6kg)
+
+> 作者：[郭朝](http://blog.csdn.net/smartbetter)<br/>
+> 推送时间:2017-02-23
+- 各种动画都在这里~
+
+- [今日推荐：如何利用 nexus 搭建私有仓库](http://blog.csdn.net/smartbetter/article/details/55116889)
+
+  <hr/>
+
+##### [[已推送] Android 一些RxBinding使用场景](http://mp.weixin.qq.com/s/q6HeugJgjleLGgM59kkvNA)
+
+> 作者：[唯鹿](http://blog.csdn.net/qq_17766199)<br/>
+> 推送时间:2017-02-22
+- 学习知识很重要的一个环节就是把握场景~
+
+- [今日推荐：打不死的小强，永不 crash 的 Android](https://github.com/android-notes/Cockroach)
+
+  <hr/>
+
+##### [[已推送] Android 两行代码实现换肤 从appcompat-v7原理出发](http://mp.weixin.qq.com/s/vYb77cnrK6iIY8EcLb1Ffg)
+
+> 作者：[ximsfei](http://blog.csdn.net/ximsfei)<br/>
+> 推送时间:2017-02-21
+
+- 值得学习的换肤方案~
+- [今日推荐：超级好用的文件、图片选择器](https://github.com/fishwjy/MultiType-FilePicker)
+
+<hr/>
+
+##### [[已推送] 对称加密方案学习 DES / 3DES / AES](http://mp.weixin.qq.com/s/wmBqL2PtLqkZZO5EKsJTJw)
+
+> 作者：[郭朝](http://blog.csdn.net/smartbetter)<br/>
+> 推送时间:2017-02-20
+
+- 加密的掌握先从会开始~
+- [今日推荐：一个非常 nice 的动画](https://github.com/Yalantis/ToDoList)
+
+<hr/>
 
 ##### [[已推送] Android 6.0 自定义文本选择操作 咕咚翻译的体验优化](http://mp.weixin.qq.com/s/fhr3u2iA-R8J4WdRtMqWGA)
 
