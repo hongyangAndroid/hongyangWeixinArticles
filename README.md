@@ -9,6 +9,40 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 不要错过的7个完整项目学习](http://mp.weixin.qq.com/s/xJtFkhEzKJGoOFQoSzqL5Q)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-03-04
+- 为大家尽心挑选的多媒体类、IM 通讯类、阅读类、商城类以及官方开源的7个开源完整的 APP~~
+
+<hr/>
+
+##### [[已推送] Android插件化框架系列之类加载器](http://mp.weixin.qq.com/s/iBYe1bkTJom8cGMXukFSZw)
+
+> 作者：[jjlanbupt](http://www.jianshu.com/u/d4c81f4599d6)<br/>
+> 推送时间:2017-03-03
+- 类加载相关是黑科技的门槛之一
+- [今日推荐：非常多的面试相关题目，正在找工作的话不要错过~](https://github.com/GeniusVJR/LearningNotes)
+
+<hr/>
+
+##### [[已推送] Android UI性能优化 检测应用中的UI卡顿](http://mp.weixin.qq.com/s/O6rnz2sqBTP8u2lfpa75rg)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-03-01
+- 3种方式帮你检测应用中的卡顿~~
+
+<hr/>
+
+##### [[已推送] Android 系统自带DownloadManager详解](http://mp.weixin.qq.com/s/NGgTISnxYRHPW4aWwUXLUg)
+
+> 作者：[DX_Demi](http://blog.csdn.net/u012209506/)<br/>
+> 推送时间:2017-02-27
+- 很多时候 DownloadManager 就能满足需求了~
+- [今日推荐：蘑菇街的热修复方案~](https://github.com/meili/Aceso)
+
+<hr/>
+
 ##### [[已推送] Android 广播相关的都在这儿](http://mp.weixin.qq.com/s/khUeEW0CRaSlWAt2ZNLJKw)
 
 > 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
