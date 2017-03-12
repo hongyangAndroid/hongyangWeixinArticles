@@ -9,6 +9,55 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android性能优化系列之App启动优化](http://mp.weixin.qq.com/s/4k1ShM6xp0ldARg7uQUD8g)
+
+> 作者：[首席套路管](http://blog.csdn.net/u012124438)<br/>
+> 推送时间:2017-03-10
+
+- 面对应用的启动速度缓慢如何应对~
+- [今日推荐：安居客 Android 项目架构演进](http://blog.csdn.net/baron_leizhang/article/details/58071773)
+
+<hr/>
+
+##### [[已推送] Android 热修复 Tinker 源码分析之DexDiff / DexPatch](http://mp.weixin.qq.com/s/Fdxf_NQcDlyc1HPItAx9lA)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-03-09
+
+- tinker 的核心算法 dex diff 剖析，不要错过了解这么神奇的算法的机会~
+- [今日推荐：关于 Material Design 的一切资料都在这里~](https://github.com/Luosunce/material-design-data)
+
+<hr/>
+
+##### [[已推送] 微信终端跨平台组件 Mars 在移动网络的探索和实践](http://mp.weixin.qq.com/s/JloIuzcsBTYsxACwc7ulGQ)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-03-08
+
+- mars 课程推荐
+
+<hr/>
+
+##### [[已推送] Android性能优化系列之内存优化](http://mp.weixin.qq.com/s/RV0NHClnpD9xMVLGdcUYDg)
+
+> 作者：[首席套路管](http://blog.csdn.net/u012124438)<br/>
+> 推送时间:2017-03-07
+
+- 本文主要介绍了内存泄漏的检测，包含：DDMS、MAT、LeakCanary 等工具的详细用法。
+- [今日推荐：一些非常不错的 Android 相关导图，一图胜千言，千万别错过](http://www.jianshu.com/p/e2b464c13815#)
+
+<hr/>
+
+##### [[已推送] Android StatusLayout 多状态视图切换](http://mp.weixin.qq.com/s/WzqvhN5B3skDveAg-ZYmRQ)
+
+> 作者：[伪文艺大叔](http://www.jianshu.com/u/030d732a71d2)<br/>
+> 推送时间:2017-03-06
+
+- 统一管理，loading 界面、network error 界面、retry 界面等等~
+- [今日推荐：遵循MD，使用 MVP + RxJava + Retrofit + Okttp + Dagger2 的一个开源项目~](https://github.com/spring2613/Daily)
+
+<hr/>
+
 ##### [[已推送] Android 不要错过的7个完整项目学习](http://mp.weixin.qq.com/s/xJtFkhEzKJGoOFQoSzqL5Q)
 
 > 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
