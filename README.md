@@ -9,6 +9,56 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android进阶系列之源码分析AlertDialog建造者模式](http://mp.weixin.qq.com/s/9D3EC419q2M5BNIDp3jkSg)
+
+> 作者：[SingleShu888](http://blog.csdn.net/sw5131899)<br/>
+> 推送时间:2017-03-17
+
+- 应该熟练掌握的一个设计模式~
+- [今日推荐：Android 构建过程分析，掌握资源合并、AAPT 打包、dex 生成的详细规则](http://t.cn/RikHa6l)
+
+<hr/>
+
+##### [[已推送] Android 自定义控件 PickerView 源码解析 带你剖析3D滚轮效果](http://mp.weixin.qq.com/s/3GdXZPc26P0T48swjT5B_Q)
+
+> 作者：[丶小嵩](http://blog.csdn.net/qq_22393017)<br/>
+> 推送时间:2017-03-16
+
+- Android-PickerView 维护者来给你们分析其源码实现~
+- [今日推荐：【热修复】号称修复率99.9%的热修项目Robust 开源了，赶紧来看看吧~](https://github.com/Meituan-Dianping/Robust)
+
+<hr/>
+
+##### [[已推送] Android Glide库使用，一句话完成图片加载、gif、高斯模糊等 && 【菜鸟窝的三个实战项目推荐】](http://mp.weixin.qq.com/s/RjkZAo77qxmc_zVlGaA2cQ)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-03-15
+
+- 一行代码完成图片的加载，gif，高斯模糊等特效~~Glide 真的让人感觉很赞！
+- [今日推荐：手淘技术团队开源的 atlas](https://github.com/alibaba/atlas)
+
+<hr/>
+
+##### [[已推送] Android进阶系列之Support Annotation Library使用详解](http://mp.weixin.qq.com/s/f24JJRS8JeDKbE3q5zH8_w)
+
+> 作者：[SingleShu888](http://blog.csdn.net/sw5131899)<br/>
+> 推送时间:2017-03-14
+
+- 让 Support Annotation Library 帮你发现嵌在的问题吧~
+- [今日推荐：一个优秀的个人博客~张涛](https://www.kymjs.com/index.html)
+
+<hr/>
+
+##### [[已推送] Android MVP Plugin，一键完成MVP结构代码编写](http://mp.weixin.qq.com/s/fo34hyvjzNSURSh_V8y4oQ)
+
+> 作者：[蚂蚁](http://yugai.github.io/archives/)<br/>
+> 推送时间:2017-03-13
+
+- 合理的使用插件可以提升开发效率。如果能够使用自己开发的插件，会改善工作心情~
+- [今日推荐：关于 Gradle 相关知识介绍并不多，推荐个 Gradle 的系列学习文章~](http://www.cnblogs.com/davenkin/p/gradle-learning-1.html)
+
+<hr/>
+
 ##### [[已推送] Android性能优化系列之App启动优化](http://mp.weixin.qq.com/s/4k1ShM6xp0ldARg7uQUD8g)
 
 > 作者：[首席套路管](http://blog.csdn.net/u012124438)<br/>
