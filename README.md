@@ -9,6 +9,66 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 加快apk的构建速度，如何把编译时间从130秒降到17秒 ](http://mp.weixin.qq.com/s/M89FZnP7FFVnkZEVz2DqAQ)
+
+> 作者：[typ0520](http://www.jianshu.com/u/99c659a8bb36)<br/>
+> 推送时间:2017-03-27
+
+- 学习 Gradle、以及构建过程的一篇好文~
+
+<hr/>
+
+##### [[已推送] Android 你应该注意的开发规范 ](http://mp.weixin.qq.com/s/Xn7fM4zsNrvpDW8xW2m_hQ)
+
+> 作者：[Blankj](http://www.jianshu.com/u/46702d5c6978)<br/>
+> 推送时间:2017-03-24
+
+- 无规矩不成方圆，有一套适合自己团队的就好~
+- [今日推荐：Bugly的好文，Android 内存优化总结 & 实践~](http://mp.weixin.qq.com/s/2MsEAR9pQfMr1Sfs7cPdWQ)
+
+<hr/>
+
+##### [[已推送] Android 改造SwipeRefreshLayout 支持上拉加载 ](http://mp.weixin.qq.com/s/r1J6789mowPqZ1BGiLHwew)
+
+> 作者：[Get_Zoom](http://blog.csdn.net/Get_Zoom)<br/>
+> 推送时间:2017-03-23
+
+- 改造 SwipeRefreshLayout 为需求所用~
+- [今日推荐：我的好朋友的之前在创业公司的一个项目(已开源，已允许)](https://github.com/pinguo-sunjianfei/Android-Application-ZJB)
+
+<hr/>
+
+##### [[已推送] Android实战自定义控件 仿华为天气预报UI ](http://mp.weixin.qq.com/s/cQ2EGfjfvhgyR2ABHc-CDQ)
+
+> 作者：[小码哥_WS](http://blog.csdn.net/king1425)<br/>
+> 推送时间:2017-03-22
+
+- 好久不见自定义 View 的文章了~~
+- [今日推荐：这么多的安卓开发 Tips(原文) ~](https://github.com/nisrulz/android-tips-tricks)
+- [这么多的安卓开发 Tips (修改后) ~](https://github.com/cctanfujun/android-tips-tricks-cn)
+
+<hr/>
+
+##### [[已推送] Android 自己动手生成 Apk 了解Apk生成的种种细节](http://mp.weixin.qq.com/s/rJ3TawFf6ww_7lfmQzxu5w)
+
+> 作者：[ChuckChenLw](http://blog.csdn.net/chenkai19920410)<br/>
+> 推送时间:2017-03-21
+
+- 即使有了自动化工具，也不要忘了其中的细节~
+- [今日推荐：一款非常优美的开源相册程序 LeafPic ~](https://github.com/HoraApps/LeafPic)
+
+<hr/>
+
+##### [[已推送] Android自定义键盘之汉字键盘](http://mp.weixin.qq.com/s/qHUWnVj_O-Y2LEjxA4hgow)
+
+> 作者：[lintax](http://blog.csdn.net/lintax)<br/>
+> 推送时间:2017-03-20
+
+- 老板麻烦上个汉字键盘~
+- [今日推荐：Google 开源的 guetzli ~](https://github.com/google/guetzli)
+
+<hr/>
+
 ##### [[已推送] Android进阶系列之源码分析AlertDialog建造者模式](http://mp.weixin.qq.com/s/9D3EC419q2M5BNIDp3jkSg)
 
 > 作者：[SingleShu888](http://blog.csdn.net/sw5131899)<br/>
