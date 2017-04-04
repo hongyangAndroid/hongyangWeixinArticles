@@ -9,6 +9,44 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android DiffUtil新工具类，让你的RecyclerView飞一会 ](http://mp.weixin.qq.com/s/KFK3JJhASojyjMiwntdyYw)
+
+> 作者：[BlinCheng](http://blog.csdn.net/qq_25867141)<br/>
+> 推送时间:2017-03-31
+
+- 更加高效的刷新 RecycleView 方式
+
+<hr/>
+
+##### [[已推送] Android 快速开发之定制 BaseTemplate ](http://mp.weixin.qq.com/s/CPbL-lBKT_5IyIlVIZ_YMA)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689/)<br/>
+> 推送时间:2017-03-30
+
+- BaseActivity~BaseFragment~
+
+<hr/>
+
+##### [[已推送] Android EventBus 3 源码解析 把控事件总线 ](http://mp.weixin.qq.com/s/ptOCbs32jt-JvEC7saeemw)
+
+> 作者：[Burjal](http://www.jianshu.com/u/7f8d85055cd1)<br/>
+> 推送时间:2017-03-29
+
+- EventBus 3 比 EventBus 2 改进了哪些呢
+- [今日推荐：一个 nice 的转场动画库](https://github.com/lgvalle/Material-Animations)
+
+<hr/>
+
+##### [[已推送] Android EditText 方框验证码 短信验证码攻略](http://mp.weixin.qq.com/s/kUByQ2Ls2mG5IJzaG19twQ)
+
+> 作者：[xiawe_i](http://www.jianshu.com/u/fa9f03a240c6)<br/>
+> 推送时间:2017-03-28
+
+- 灵活的利用系统控件~
+- [今日推荐：其实你不知道 MultiDex 到底有多坑](http://www.open-open.com/lib/view/open1452264136714.html)
+
+<hr/>
+
 ##### [[已推送] Android 加快apk的构建速度，如何把编译时间从130秒降到17秒 ](http://mp.weixin.qq.com/s/M89FZnP7FFVnkZEVz2DqAQ)
 
 > 作者：[typ0520](http://www.jianshu.com/u/99c659a8bb36)<br/>
