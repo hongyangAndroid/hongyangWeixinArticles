@@ -9,6 +9,45 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 自定义录音、播放动画View，让你的录音浪起来 ](http://mp.weixin.qq.com/s/7b-zJtIjgIwoqcuBTspIIw)
+
+> 作者：[BlinCheng](http://blog.csdn.net/qq_25867141)<br/>
+> 推送时间:2017-04-10
+
+- 优雅的录音效果~
+- [今日推荐：《易读》一个模仿网易云音乐UI，Rxjava+Retrofit+dagger2+MVP的开源项目](https://github.com/laotan7237/EasyReader)
+
+<hr/>
+
+##### [[已推送] Android Shader 实战 各种炫酷效果的基石 ](http://mp.weixin.qq.com/s/YZGXHh6y0k2fq6JQ_8qcxw)
+
+> 作者：[凶残的程序员](http://blog.csdn.net/qian520ao)<br/>
+> 推送时间:2017-04-07
+
+- 雷达、多边形裁切、霓虹灯文字实战、图片倒影实战都在这儿~
+- [今日推荐：自建Maven仓库 - Artifactory](http://www.jianshu.com/p/fa5bbb512c48)
+
+<hr/>
+
+##### [[已推送] Glide 源码详解 ](http://mp.weixin.qq.com/s/m3L9aDC50Tt44Uur8-Qc5A)
+
+> 作者：[夏雨_](http://blog.csdn.net/yulyu)<br/>
+> 推送时间:2017-04-06
+
+- 不仅是源码解析，包含一整个系列~
+
+<hr/>
+
+##### [[已推送] 我们为什么要把Dagger2,MVP以及Rxjava引入项目中? ](http://mp.weixin.qq.com/s/ij07k3AAQUJTbYfb4B8KdA)
+
+> 作者：[jessyan](http://www.jianshu.com/u/1d0c0bc634db)<br/>
+> 推送时间:2017-04-05
+
+- MVP、Dagger、RxJava 这些都是什么，为什么要学他们~
+- [今日推荐：如何构建自己的笔记系统？](https://www.zhihu.com/question/23427617)
+
+<hr/>
+
 ##### [[已推送] Android DiffUtil新工具类，让你的RecyclerView飞一会 ](http://mp.weixin.qq.com/s/KFK3JJhASojyjMiwntdyYw)
 
 > 作者：[BlinCheng](http://blog.csdn.net/qq_25867141)<br/>
