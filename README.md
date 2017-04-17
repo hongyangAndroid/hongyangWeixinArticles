@@ -9,6 +9,52 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 自定义View----BezierViewPager](http://mp.weixin.qq.com/s/_GMjkZcTTh4vmTXstR5RDQ)
+
+> 作者：[凶残的程序员](http://blog.csdn.net/qian520ao)<br/>
+> 推送时间:2017-04-17
+
+- 贝塞尔曲线玩的666~
+
+<hr/>
+
+##### [[已推送] Android实战 RxJava2+Retrofit+RxBinding解锁各种新姿势](http://mp.weixin.qq.com/s/Iggi0qplKrrXg9rzOTek_Q)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-04-14
+
+- 有需求的话可以学习学习~
+
+<hr/>
+
+##### [[已推送] Android性能优化-内存泄漏的8个Case](http://mp.weixin.qq.com/s/zswNArUj8PqPXmVHMUUxuA)
+
+> 作者：[黄俊彬](http://www.jianshu.com/u/466f8b75f81c)<br/>
+> 推送时间:2017-04-13
+
+- 错误示例加解决方案来说明问题~
+
+<hr/>
+
+##### [[已推送] Android语音识别之模糊匹配 特定需求的语音识别优化](http://mp.weixin.qq.com/s/fQ4Bphpfstv5ug2oLt99-w)
+
+> 作者：[lintax](http://blog.csdn.net/lintax)<br/>
+> 推送时间:2017-04-12
+
+- 看完后很有启发的一篇文章~
+- [今日推荐：LFilePicker---文件选择利器，各种样式有它就够了。](https://github.com/leonHua/LFilePicker)
+
+<hr/>
+
+##### [[已推送] 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑](https://mp.weixin.qq.com/s/8OibDPrLxUupLfE6ktFdjQ)
+
+> 作者：[Zhaoss](http://www.jianshu.com/u/f481598cc619)<br/>
+> 推送时间:2017-04-11
+
+- 非常值得学习的案例~
+
+<hr/>
+
 ##### [[已推送] Android 自定义录音、播放动画View，让你的录音浪起来 ](http://mp.weixin.qq.com/s/7b-zJtIjgIwoqcuBTspIIw)
 
 > 作者：[BlinCheng](http://blog.csdn.net/qq_25867141)<br/>
