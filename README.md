@@ -9,6 +9,45 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 面试攻略 之 微信扫码登录内部实现原理](http://mp.weixin.qq.com/s/GYp2ptku3MaNQHSG7CIfMw)
+
+> 作者：[马伟奇](http://www.jianshu.com/u/53e5012c55a3)<br/>
+> 推送时间:2017-04-21
+
+- 很佩服的一位作者~
+
+<hr/>
+
+##### [[已推送] 一步步实现打开相机连续拍照拿到多张照片](http://mp.weixin.qq.com/s/nwdBS-ag1h1vgOWm9FqmJg)
+
+> 作者：[哦罢了]()<br/>
+> 推送时间:2017-04-20
+
+- 有时候可以换个角度考虑问题~
+- [今日推荐：Gradle配置最佳实践](https://juejin.im/post/582d606767f3560063320b21)
+
+<hr/>
+
+##### [[已推送] 如何优雅地实现RecyclerView Adapter多布局列表](http://mp.weixin.qq.com/s/3J2pjHIwXxrO85YLR56jdg)
+
+> 作者：[陈志鹏](http://zpayh.xyz/)<br/>
+> 推送时间:2017-04-19
+
+- 人人都来封装个 baseAdapter 吧~
+- [今日推荐：传统MVP用在项目中是真的方便还是累赘?](https://juejin.im/post/58b25e588d6d810057ed3659)
+
+<hr/>
+
+##### [[已推送] Android AutoWrapTextView 解决中英文排版问题](http://mp.weixin.qq.com/s/lk6RQKU83CikFKhcM-gVCQ)
+
+> 作者：[伪文艺大叔](http://www.jianshu.com/u/030d732a71d2)<br/>
+> 推送时间:2017-04-18
+
+- 挺常见的需求~
+- [今日推荐：Android 源码解析开源项目](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/README.md)
+
+<hr/>
+
 ##### [[已推送] Android 自定义View----BezierViewPager](http://mp.weixin.qq.com/s/_GMjkZcTTh4vmTXstR5RDQ)
 
 > 作者：[凶残的程序员](http://blog.csdn.net/qian520ao)<br/>
