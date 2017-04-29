@@ -9,6 +9,178 @@
 
 ## 已推送文章列表
 
+##### [[已推送] MVVM，RxJava和Retrofit的一次实践 ](http://mp.weixin.qq.com/s/PspA4DYPhzLtsJGJykGY0w)
+
+> 作者：[haohao](http://haohaochang.cn/)<br/>
+> 推送时间:2017-04-28
+
+- 通过实战来介绍知识点~
+- [今日推荐：Android安全开发之安全使用HTTPS](http://www.cnblogs.com/alisecurity/p/5939336.html)
+
+<hr/>
+
+##### [[已推送] Android 快速开发（一），封装一个 TopBarBaseActivity ](http://mp.weixin.qq.com/s/-cImCCR8hnMPVzpCw2rLfA)
+
+> 作者：[陈铭卓](https://blog.ifmvo.cn)<br/>
+> 推送时间:2017-04-27
+
+- 写得细致入微~可以合理的举一反三~
+
+<hr/>
+
+##### [[已推送] 仿微信朋友圈9图上传选择器 ](http://mp.weixin.qq.com/s/3xLMuv-cK8fIDiuHd_y2Zg)
+
+> 作者：[姚智胜](http://blog.csdn.net/a243981326)<br/>
+> 推送时间:2017-04-26
+
+- 封装一次，随处使用~
+- [今日推荐：使用WebView监控网页加载状况，PerformanceMonitor，WebViewClient生命周期](http://www.cnblogs.com/s-xq/p/6700996.html)
+
+<hr/>
+
+##### [[已推送] 利用FFmpeg仿微信小视频录制与压缩处理 ](http://mp.weixin.qq.com/s/2rhY0q9qskz51tBmleiSKw)
+
+> 作者：[马北剑西](http://blog.csdn.net/mabeijianxi/)<br/>
+> 推送时间:2017-04-25
+
+- 小视频，小视频~
+- [今日推荐：Android 蓝牙 pbap 获取通话记录以及通话日期时间](http://www.jianshu.com/p/cf2b7d8651b5)
+
+<hr/>
+
+##### [[已推送] Android 利用Gradle实现差异化构建 ](http://mp.weixin.qq.com/s/H306PkuT9fC2irNVFlXVeg)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-04-24
+
+- 短小精悍的文章，非常有用~
+
+<hr/>
+
+##### [[已推送] Android 面试攻略 之 微信扫码登录内部实现原理](http://mp.weixin.qq.com/s/GYp2ptku3MaNQHSG7CIfMw)
+
+> 作者：[马伟奇](http://www.jianshu.com/u/53e5012c55a3)<br/>
+> 推送时间:2017-04-21
+
+- 很佩服的一位作者~
+
+<hr/>
+
+##### [[已推送] 一步步实现打开相机连续拍照拿到多张照片](http://mp.weixin.qq.com/s/nwdBS-ag1h1vgOWm9FqmJg)
+
+> 作者：[哦罢了]()<br/>
+> 推送时间:2017-04-20
+
+- 有时候可以换个角度考虑问题~
+- [今日推荐：Gradle配置最佳实践](https://juejin.im/post/582d606767f3560063320b21)
+
+<hr/>
+
+##### [[已推送] 如何优雅地实现RecyclerView Adapter多布局列表](http://mp.weixin.qq.com/s/3J2pjHIwXxrO85YLR56jdg)
+
+> 作者：[陈志鹏](http://zpayh.xyz/)<br/>
+> 推送时间:2017-04-19
+
+- 人人都来封装个 baseAdapter 吧~
+- [今日推荐：传统MVP用在项目中是真的方便还是累赘?](https://juejin.im/post/58b25e588d6d810057ed3659)
+
+<hr/>
+
+##### [[已推送] Android AutoWrapTextView 解决中英文排版问题](http://mp.weixin.qq.com/s/lk6RQKU83CikFKhcM-gVCQ)
+
+> 作者：[伪文艺大叔](http://www.jianshu.com/u/030d732a71d2)<br/>
+> 推送时间:2017-04-18
+
+- 挺常见的需求~
+- [今日推荐：Android 源码解析开源项目](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/README.md)
+
+<hr/>
+
+##### [[已推送] Android 自定义View----BezierViewPager](http://mp.weixin.qq.com/s/_GMjkZcTTh4vmTXstR5RDQ)
+
+> 作者：[凶残的程序员](http://blog.csdn.net/qian520ao)<br/>
+> 推送时间:2017-04-17
+
+- 贝塞尔曲线玩的666~
+
+<hr/>
+
+##### [[已推送] Android实战 RxJava2+Retrofit+RxBinding解锁各种新姿势](http://mp.weixin.qq.com/s/Iggi0qplKrrXg9rzOTek_Q)
+
+> 作者：[Hensen_](http://blog.csdn.net/qq_30379689)<br/>
+> 推送时间:2017-04-14
+
+- 有需求的话可以学习学习~
+
+<hr/>
+
+##### [[已推送] Android性能优化-内存泄漏的8个Case](http://mp.weixin.qq.com/s/zswNArUj8PqPXmVHMUUxuA)
+
+> 作者：[黄俊彬](http://www.jianshu.com/u/466f8b75f81c)<br/>
+> 推送时间:2017-04-13
+
+- 错误示例加解决方案来说明问题~
+
+<hr/>
+
+##### [[已推送] Android语音识别之模糊匹配 特定需求的语音识别优化](http://mp.weixin.qq.com/s/fQ4Bphpfstv5ug2oLt99-w)
+
+> 作者：[lintax](http://blog.csdn.net/lintax)<br/>
+> 推送时间:2017-04-12
+
+- 看完后很有启发的一篇文章~
+- [今日推荐：LFilePicker---文件选择利器，各种样式有它就够了。](https://github.com/leonHua/LFilePicker)
+
+<hr/>
+
+##### [[已推送] 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑](https://mp.weixin.qq.com/s/8OibDPrLxUupLfE6ktFdjQ)
+
+> 作者：[Zhaoss](http://www.jianshu.com/u/f481598cc619)<br/>
+> 推送时间:2017-04-11
+
+- 非常值得学习的案例~
+
+<hr/>
+
+##### [[已推送] Android 自定义录音、播放动画View，让你的录音浪起来 ](http://mp.weixin.qq.com/s/7b-zJtIjgIwoqcuBTspIIw)
+
+> 作者：[BlinCheng](http://blog.csdn.net/qq_25867141)<br/>
+> 推送时间:2017-04-10
+
+- 优雅的录音效果~
+- [今日推荐：《易读》一个模仿网易云音乐UI，Rxjava+Retrofit+dagger2+MVP的开源项目](https://github.com/laotan7237/EasyReader)
+
+<hr/>
+
+##### [[已推送] Android Shader 实战 各种炫酷效果的基石 ](http://mp.weixin.qq.com/s/YZGXHh6y0k2fq6JQ_8qcxw)
+
+> 作者：[凶残的程序员](http://blog.csdn.net/qian520ao)<br/>
+> 推送时间:2017-04-07
+
+- 雷达、多边形裁切、霓虹灯文字实战、图片倒影实战都在这儿~
+- [今日推荐：自建Maven仓库 - Artifactory](http://www.jianshu.com/p/fa5bbb512c48)
+
+<hr/>
+
+##### [[已推送] Glide 源码详解 ](http://mp.weixin.qq.com/s/m3L9aDC50Tt44Uur8-Qc5A)
+
+> 作者：[夏雨_](http://blog.csdn.net/yulyu)<br/>
+> 推送时间:2017-04-06
+
+- 不仅是源码解析，包含一整个系列~
+
+<hr/>
+
+##### [[已推送] 我们为什么要把Dagger2,MVP以及Rxjava引入项目中? ](http://mp.weixin.qq.com/s/ij07k3AAQUJTbYfb4B8KdA)
+
+> 作者：[jessyan](http://www.jianshu.com/u/1d0c0bc634db)<br/>
+> 推送时间:2017-04-05
+
+- MVP、Dagger、RxJava 这些都是什么，为什么要学他们~
+- [今日推荐：如何构建自己的笔记系统？](https://www.zhihu.com/question/23427617)
+
+<hr/>
+
 ##### [[已推送] Android DiffUtil新工具类，让你的RecyclerView飞一会 ](http://mp.weixin.qq.com/s/KFK3JJhASojyjMiwntdyYw)
 
 > 作者：[BlinCheng](http://blog.csdn.net/qq_25867141)<br/>
