@@ -9,6 +9,54 @@
 
 ## 已推送文章列表
 
+##### [[已推送] MVVM，RxJava和Retrofit的一次实践 ](http://mp.weixin.qq.com/s/PspA4DYPhzLtsJGJykGY0w)
+
+> 作者：[haohao](http://haohaochang.cn/)<br/>
+> 推送时间:2017-04-28
+
+- 通过实战来介绍知识点~
+- [今日推荐：Android安全开发之安全使用HTTPS](http://www.cnblogs.com/alisecurity/p/5939336.html)
+
+<hr/>
+
+##### [[已推送] Android 快速开发（一），封装一个 TopBarBaseActivity ](http://mp.weixin.qq.com/s/-cImCCR8hnMPVzpCw2rLfA)
+
+> 作者：[陈铭卓](https://blog.ifmvo.cn)<br/>
+> 推送时间:2017-04-27
+
+- 写得细致入微~可以合理的举一反三~
+
+<hr/>
+
+##### [[已推送] 仿微信朋友圈9图上传选择器 ](http://mp.weixin.qq.com/s/3xLMuv-cK8fIDiuHd_y2Zg)
+
+> 作者：[姚智胜](http://blog.csdn.net/a243981326)<br/>
+> 推送时间:2017-04-26
+
+- 封装一次，随处使用~
+- [今日推荐：使用WebView监控网页加载状况，PerformanceMonitor，WebViewClient生命周期](http://www.cnblogs.com/s-xq/p/6700996.html)
+
+<hr/>
+
+##### [[已推送] 利用FFmpeg仿微信小视频录制与压缩处理 ](http://mp.weixin.qq.com/s/2rhY0q9qskz51tBmleiSKw)
+
+> 作者：[马北剑西](http://blog.csdn.net/mabeijianxi/)<br/>
+> 推送时间:2017-04-25
+
+- 小视频，小视频~
+- [今日推荐：Android 蓝牙 pbap 获取通话记录以及通话日期时间](http://www.jianshu.com/p/cf2b7d8651b5)
+
+<hr/>
+
+##### [[已推送] Android 利用Gradle实现差异化构建 ](http://mp.weixin.qq.com/s/H306PkuT9fC2irNVFlXVeg)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-04-24
+
+- 短小精悍的文章，非常有用~
+
+<hr/>
+
 ##### [[已推送] Android 面试攻略 之 微信扫码登录内部实现原理](http://mp.weixin.qq.com/s/GYp2ptku3MaNQHSG7CIfMw)
 
 > 作者：[马伟奇](http://www.jianshu.com/u/53e5012c55a3)<br/>
