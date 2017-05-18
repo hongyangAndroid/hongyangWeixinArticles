@@ -10,6 +10,58 @@
 ## 已推送文章列表
 
 
+##### [[已推送] Android 实现"透明屏幕"](http://mp.weixin.qq.com/s/aoWMf-f8ouLENEro6L5Nug)
+
+> 作者：[songx](http://www.jianshu.com/u/befb61deec9c)<br/>
+> 推送时间:2017-05-12
+- 装逼神器~
+
+<hr/>
+
+##### [[已推送] Android 仿iOS滚轮选择控件](https://mp.weixin.qq.com/s/SQKsH2xwkKPpKO41Ff2RqA)
+
+> 作者：[wozuihaole](http://blog.csdn.net/wozuihaole)<br/>
+> 推送时间:2017-05-11
+- 制造滚轮控件的两种方式~
+- 今日推荐：JNI 实战系列
+  - [Android的JNI【实战教程】java和c／c++的那些事](http://blog.csdn.net/github_33304260/article/details/62891137)
+  - [Android的JNI【实战教程】AS下NDK环境配置及第一个工程](http://blog.csdn.net/github_33304260/article/details/62891083)
+  - [Android的JNI【实战教程】Java调用C代码](http://blog.csdn.net/github_33304260/article/details/65440561)
+  - [Android的JNI【实战教程】C调用Java代码](http://blog.csdn.net/github_33304260/article/details/71213921)
+
+<hr/>
+
+##### [[已推送] 探索Android半透明状态栏](http://mp.weixin.qq.com/s/NHDnWQHNVxy3KeASgXSnFQ)
+
+> 作者：[kyleduo](https://blog.kyleduo.com)<br/>
+> 推送时间:2017-05-10
+- 从原理出发，彻底说清楚问题~
+- [今日推荐：非常优质的资源合集~](https://github.com/aritraroy/UltimateAndroidReference)
+
+<hr/>
+
+##### [[已推送] 我一行代码都不写实现Toolbar!你却还在封装BaseActivity?](http://mp.weixin.qq.com/s/Acv2bulKbiJR9dKakaHZEw)
+
+> 作者：[jessyan](http://www.jianshu.com/u/1d0c0bc634db)<br/>
+> 推送时间:2017-05-09
+- 说不定有一天大家就开发分享自己写的 ActivityLifeCycleCallback~
+- [今日推荐：悦跑圈Android单业务开发，提高编译效率15倍](http://www.jianshu.com/p/452367cbb7be#)
+
+<hr/>
+
+##### [[已推送] 你真的了解SharedPreferences吗？](http://mp.weixin.qq.com/s/vJLqcSM-1v4LYs8Vzv1NoA)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-05-08
+- 分享才踩坑经验~
+- 今日推荐：JNI 进阶文
+  - [JNI学习积累之一 ---- 常用函数大全](http://blog.csdn.net/qinjuning/article/details/7595104)
+  - [JNI学习积累之二 ---- 数据类型映射、域描述符说明](http://blog.csdn.net/qinjuning/article/details/7599796)
+  - [JNI学习积累之三 ---- 操作JNI函数以及复杂对象传递](http://blog.csdn.net/qinjuning/article/details/7607214)
+  - [JNI 实战全面解析](http://blog.csdn.net/banketree/article/details/40535325)
+
+<hr/>
+
 ##### [[已推送] Lottie -- 轻松实现动态加载直播礼物动画](http://mp.weixin.qq.com/s/58wX7cWiab-AXFnw3l1pcQ)
 
 > 作者：[liujun（大脑好饿）](http://www.liujun.info/)<br/>
