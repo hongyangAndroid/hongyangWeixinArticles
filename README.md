@@ -9,6 +9,47 @@
 
 ## 已推送文章列表
 
+##### [[已推送] 学习 Kotlin 吗?](http://mp.weixin.qq.com/s/8vGvKJ10XchRGYVXHBc1kA)
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-19
+- 我也要为 Kotlin 刷屏贡献一份力了~
+
+<hr/>
+
+##### [[已推送] Android性能优化-电量优化](http://mp.weixin.qq.com/s/Q__TSgrx72Iq80nxceytBQ)
+
+> 作者：[黄俊彬](http://www.jianshu.com/u/466f8b75f81c)<br/>
+> 推送时间:2017-05-18
+- 从如何检测到如何优化电量~
+- [今日推荐：阿里开源无限循环的 ViewPager](https://github.com/alibaba/UltraViewPager)
+
+<hr/>
+
+##### [[已推送] Android自定义View之密码输入框](https://mp.weixin.qq.com/s/QZCtE2e9a6n3I5hhNZWZ4A)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-05-17
+- 考虑的非常细致~
+- [今日推荐：“吐槽网”第三方客户端](https://github.com/blackbbc/Tucao)
+
+<hr/>
+
+##### [[已推送] Android 仿火萤视频桌面 神奇的LiveWallPaper](http://mp.weixin.qq.com/s/o6_Ol9mk2wDPXD9FQ6jQdg)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-16
+- 鸿洋有话说系列~
+
+<hr/>
+
+##### [[已推送] Android 快速开发（二），封装一个 BottomTabBaseActivity](http://mp.weixin.qq.com/s/Jq4VX2Dm8koMD49b2sTm3Q)
+
+> 作者：[陈序员](https://blog.ifmvo.cn/)<br/>
+> 推送时间:2017-05-15
+- 我很期待下一篇是什么~
+- [今日推荐：爱吖妹纸——Retrofit+Rx+MVP架构APP体验](https://github.com/nanchen2251/AiYaGirl)
+
+<hr/>
 
 ##### [[已推送] Android 实现"透明屏幕"](http://mp.weixin.qq.com/s/aoWMf-f8ouLENEro6L5Nug)
 
