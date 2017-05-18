@@ -9,6 +9,49 @@
 
 ## 已推送文章列表
 
+
+##### [[已推送] Lottie -- 轻松实现动态加载直播礼物动画](http://mp.weixin.qq.com/s/58wX7cWiab-AXFnw3l1pcQ)
+
+> 作者：[liujun（大脑好饿）](http://www.liujun.info/)<br/>
+> 推送时间:2017-05-05
+- 使用 Lottie 来实现神奇的动画吧~
+- 今日推荐：NDK 初学三部曲
+  - [Android NDK之旅（一），不使用ndk-build命令来创建jni](http://blog.csdn.net/qq_35071078/article/details/70338637)
+  - [Android NDK之旅（二），使用ndk-build构建Jni](http://blog.csdn.net/qq_35071078/article/details/70502481)
+  - [Android NDK之旅（三），使用cmake来构建Jni](http://blog.csdn.net/qq_35071078/article/details/70544766)
+
+<hr/>
+
+##### [[已推送] Android双缓冲绘图技术分析](http://mp.weixin.qq.com/s/6m4OCyS6g8zlhlob9Nx0FQ)
+
+> 作者：[wensefu](http://www.jianshu.com/u/4d74dd2268af)<br/>
+> 推送时间:2017-05-04
+- 掌握这些细节，更好的开发~
+- [今日推荐：DiyCode 客户端开源啦](https://github.com/GcsSloop/diycode)
+
+<hr/>
+
+##### [[已推送]  （已拿offer）腾讯/百度/今日头条/美团2017Android开发实习生面经](http://mp.weixin.qq.com/s/Twx50aJpVy7fGuioOwyB3A)
+
+> 作者：[bboylin](https://github.com/bboylin/MyNotebook)<br/>
+> 推送时间:2017-05-03
+- 校招对于大多学生来说一定要把握住~
+- 今日推荐：FFmpeg 的一切，包含：编译、使用、源码分析
+  - [ffmpeg必知道的知识点](http://blog.csdn.net/king1425/article/details/70348374)
+  - [windows下编译最新版ffmpeg3.3-android，并通过CMake方式移植到Android studio2.3中](http://blog.csdn.net/king1425/article/details/70338674)
+  - [ffmpeg源码简析（一）结构总览](http://blog.csdn.net/king1425/article/details/70597642)
+
+<hr/>
+##### [[已推送]  写给Android开发者的Java 8简单入门教程](http://mp.weixin.qq.com/s/79xazMldw3ba51aUfcrTQA)
+
+> 作者：[tangpj](http://tangpj.com/archives/)<br/>
+> 推送时间:2017-05-02
+- Android Studio 带着 Java 8 来啦~
+- 今日推荐：有 2 篇
+  - [Picasso，Glide，Fresco对比分析](http://blog.csdn.net/github_33304260/article/details/70213300)
+  - [Picasso，Glide，Fresco对比分析](http://www.jianshu.com/p/ca5ce4444c37#)
+
+<hr/>
 ##### [[已推送] MVVM，RxJava和Retrofit的一次实践 ](http://mp.weixin.qq.com/s/PspA4DYPhzLtsJGJykGY0w)
 
 > 作者：[haohao](http://haohaochang.cn/)<br/>
