@@ -9,6 +9,142 @@
 
 ## 已推送文章列表
 
+##### [[已推送] 学习 Kotlin 吗?](http://mp.weixin.qq.com/s/8vGvKJ10XchRGYVXHBc1kA)
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-19
+- 我也要为 Kotlin 刷屏贡献一份力了~
+
+<hr/>
+
+##### [[已推送] Android性能优化-电量优化](http://mp.weixin.qq.com/s/Q__TSgrx72Iq80nxceytBQ)
+
+> 作者：[黄俊彬](http://www.jianshu.com/u/466f8b75f81c)<br/>
+> 推送时间:2017-05-18
+- 从如何检测到如何优化电量~
+- [今日推荐：阿里开源无限循环的 ViewPager](https://github.com/alibaba/UltraViewPager)
+
+<hr/>
+
+##### [[已推送] Android自定义View之密码输入框](https://mp.weixin.qq.com/s/QZCtE2e9a6n3I5hhNZWZ4A)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-05-17
+- 考虑的非常细致~
+- [今日推荐：“吐槽网”第三方客户端](https://github.com/blackbbc/Tucao)
+
+<hr/>
+
+##### [[已推送] Android 仿火萤视频桌面 神奇的LiveWallPaper](http://mp.weixin.qq.com/s/o6_Ol9mk2wDPXD9FQ6jQdg)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-16
+- 鸿洋有话说系列~
+
+<hr/>
+
+##### [[已推送] Android 快速开发（二），封装一个 BottomTabBaseActivity](http://mp.weixin.qq.com/s/Jq4VX2Dm8koMD49b2sTm3Q)
+
+> 作者：[陈序员](https://blog.ifmvo.cn/)<br/>
+> 推送时间:2017-05-15
+- 我很期待下一篇是什么~
+- [今日推荐：爱吖妹纸——Retrofit+Rx+MVP架构APP体验](https://github.com/nanchen2251/AiYaGirl)
+
+<hr/>
+
+##### [[已推送] Android 实现"透明屏幕"](http://mp.weixin.qq.com/s/aoWMf-f8ouLENEro6L5Nug)
+
+> 作者：[songx](http://www.jianshu.com/u/befb61deec9c)<br/>
+> 推送时间:2017-05-12
+- 装逼神器~
+
+<hr/>
+
+##### [[已推送] Android 仿iOS滚轮选择控件](https://mp.weixin.qq.com/s/SQKsH2xwkKPpKO41Ff2RqA)
+
+> 作者：[wozuihaole](http://blog.csdn.net/wozuihaole)<br/>
+> 推送时间:2017-05-11
+- 制造滚轮控件的两种方式~
+- 今日推荐：JNI 实战系列
+  - [Android的JNI【实战教程】java和c／c++的那些事](http://blog.csdn.net/github_33304260/article/details/62891137)
+  - [Android的JNI【实战教程】AS下NDK环境配置及第一个工程](http://blog.csdn.net/github_33304260/article/details/62891083)
+  - [Android的JNI【实战教程】Java调用C代码](http://blog.csdn.net/github_33304260/article/details/65440561)
+  - [Android的JNI【实战教程】C调用Java代码](http://blog.csdn.net/github_33304260/article/details/71213921)
+
+<hr/>
+
+##### [[已推送] 探索Android半透明状态栏](http://mp.weixin.qq.com/s/NHDnWQHNVxy3KeASgXSnFQ)
+
+> 作者：[kyleduo](https://blog.kyleduo.com)<br/>
+> 推送时间:2017-05-10
+- 从原理出发，彻底说清楚问题~
+- [今日推荐：非常优质的资源合集~](https://github.com/aritraroy/UltimateAndroidReference)
+
+<hr/>
+
+##### [[已推送] 我一行代码都不写实现Toolbar!你却还在封装BaseActivity?](http://mp.weixin.qq.com/s/Acv2bulKbiJR9dKakaHZEw)
+
+> 作者：[jessyan](http://www.jianshu.com/u/1d0c0bc634db)<br/>
+> 推送时间:2017-05-09
+- 说不定有一天大家就开发分享自己写的 ActivityLifeCycleCallback~
+- [今日推荐：悦跑圈Android单业务开发，提高编译效率15倍](http://www.jianshu.com/p/452367cbb7be#)
+
+<hr/>
+
+##### [[已推送] 你真的了解SharedPreferences吗？](http://mp.weixin.qq.com/s/vJLqcSM-1v4LYs8Vzv1NoA)
+
+> 作者：[EoniJJ](http://www.jianshu.com/u/a453837f8802)<br/>
+> 推送时间:2017-05-08
+- 分享才踩坑经验~
+- 今日推荐：JNI 进阶文
+  - [JNI学习积累之一 ---- 常用函数大全](http://blog.csdn.net/qinjuning/article/details/7595104)
+  - [JNI学习积累之二 ---- 数据类型映射、域描述符说明](http://blog.csdn.net/qinjuning/article/details/7599796)
+  - [JNI学习积累之三 ---- 操作JNI函数以及复杂对象传递](http://blog.csdn.net/qinjuning/article/details/7607214)
+  - [JNI 实战全面解析](http://blog.csdn.net/banketree/article/details/40535325)
+
+<hr/>
+
+##### [[已推送] Lottie -- 轻松实现动态加载直播礼物动画](http://mp.weixin.qq.com/s/58wX7cWiab-AXFnw3l1pcQ)
+
+> 作者：[liujun（大脑好饿）](http://www.liujun.info/)<br/>
+> 推送时间:2017-05-05
+- 使用 Lottie 来实现神奇的动画吧~
+- 今日推荐：NDK 初学三部曲
+  - [Android NDK之旅（一），不使用ndk-build命令来创建jni](http://blog.csdn.net/qq_35071078/article/details/70338637)
+  - [Android NDK之旅（二），使用ndk-build构建Jni](http://blog.csdn.net/qq_35071078/article/details/70502481)
+  - [Android NDK之旅（三），使用cmake来构建Jni](http://blog.csdn.net/qq_35071078/article/details/70544766)
+
+<hr/>
+
+##### [[已推送] Android双缓冲绘图技术分析](http://mp.weixin.qq.com/s/6m4OCyS6g8zlhlob9Nx0FQ)
+
+> 作者：[wensefu](http://www.jianshu.com/u/4d74dd2268af)<br/>
+> 推送时间:2017-05-04
+- 掌握这些细节，更好的开发~
+- [今日推荐：DiyCode 客户端开源啦](https://github.com/GcsSloop/diycode)
+
+<hr/>
+
+##### [[已推送]  （已拿offer）腾讯/百度/今日头条/美团2017Android开发实习生面经](http://mp.weixin.qq.com/s/Twx50aJpVy7fGuioOwyB3A)
+
+> 作者：[bboylin](https://github.com/bboylin/MyNotebook)<br/>
+> 推送时间:2017-05-03
+- 校招对于大多学生来说一定要把握住~
+- 今日推荐：FFmpeg 的一切，包含：编译、使用、源码分析
+  - [ffmpeg必知道的知识点](http://blog.csdn.net/king1425/article/details/70348374)
+  - [windows下编译最新版ffmpeg3.3-android，并通过CMake方式移植到Android studio2.3中](http://blog.csdn.net/king1425/article/details/70338674)
+  - [ffmpeg源码简析（一）结构总览](http://blog.csdn.net/king1425/article/details/70597642)
+
+<hr/>
+##### [[已推送]  写给Android开发者的Java 8简单入门教程](http://mp.weixin.qq.com/s/79xazMldw3ba51aUfcrTQA)
+
+> 作者：[tangpj](http://tangpj.com/archives/)<br/>
+> 推送时间:2017-05-02
+- Android Studio 带着 Java 8 来啦~
+- 今日推荐：有 2 篇
+  - [Picasso，Glide，Fresco对比分析](http://blog.csdn.net/github_33304260/article/details/70213300)
+  - [Picasso，Glide，Fresco对比分析](http://www.jianshu.com/p/ca5ce4444c37#)
+
+<hr/>
 ##### [[已推送] MVVM，RxJava和Retrofit的一次实践 ](http://mp.weixin.qq.com/s/PspA4DYPhzLtsJGJykGY0w)
 
 > 作者：[haohao](http://haohaochang.cn/)<br/>
