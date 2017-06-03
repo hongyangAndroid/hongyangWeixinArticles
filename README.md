@@ -9,7 +9,79 @@
 
 ## 已推送文章列表
 
+##### [[已推送] 一行代码实现Android软键盘与EditText的交互](http://mp.weixin.qq.com/s/q-kEr_4JWT-LKIXaXskIoA)
+
+> 作者：[会煎蛋的猿](http://blog.csdn.net/zybieku)<br/>
+> 推送时间:2017-06-02
+- 小技巧 get~
+
+<hr/>
+
+##### [[已推送] 如何使用Android自带的资源](http://mp.weixin.qq.com/s/cG4E9VVp-G35zsK-4O5ONw)
+
+> 作者：[iJero](http://www.jianshu.com/u/aff729e04f65)<br/>
+> 推送时间:2017-06-01
+- 学习下解决问题的思路~解锁一个隐藏技能~
+
+<hr/>
+
+##### [[已推送] 用MediaPlayer+TextureView封装一个完美实现全屏、小窗口的视频播放器](http://mp.weixin.qq.com/s/61xxNbRgpF1j1ZtHxG7slw)
+
+> 作者：[xiaoyanger](http://www.jianshu.com/u/25c3b13f87ce)<br/>
+> 推送时间:2017-05-31
+- 深度好文~ 了解 TextureView 的使用姿势~
+
+<hr/>
+
+##### [[已推送] Android 开发者应该知道的学习站点（一）](http://mp.weixin.qq.com/s/5iIyBtGKCeRqdbWU4TU_cg)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-27
+- 端午快乐~
+
+<hr/>
+
+##### [[已推送] Android 下玩 JNI 的新老三种姿势~](http://mp.weixin.qq.com/s/_qwK5VNI40TO44eonDLo2A)
+> 作者：[马北剑西](http://blog.csdn.net/mabeijianxi)<br/>
+> 推送时间:2017-05-26
+- 工具不断优化主键减少一些步骤性的工作~
+
+<hr/>
+
+##### [[已推送] Android共享元素场景切换动画的实现](http://mp.weixin.qq.com/s/UB9YQf-r67UrL9YhKF_0Rg)
+
+> 作者：[huzenan0412](http://blog.csdn.net/u012199331)<br/>
+> 推送时间:2017-05-25
+- 我一直想写个这样的小库拖延了很久~
+
+<hr/>
+
+##### [[已推送] Android 热修复 Tinker Gradle Plugin解析](http://mp.weixin.qq.com/s/4Y1m66zpMWV3WX_spaKSaw)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-05-24
+- 终于写到最后一篇啦~~ 也算是有始有终啦~
+
+<hr/>
+
+##### [[已推送] 抢鲜下载 | 阿里Java开发手册最新完美版，千锤百炼始出炉！](http://mp.weixin.qq.com/s/fHh6CRljz4LCq9ZDtErNPQ)
+
+> 作者：[ 阿里技术]<br/>
+> 推送时间:2017-05-22
+- 除了手册外, 阿里还要出 GitHub 开源版、IDE 智能扫描插件! 简直业界良心!
+
+<hr/>
+
+##### [[已推送] MaterialDesign之SearchView解锁 仿网易云音乐搜索](https://mp.weixin.qq.com/s/wVcwebCfPcpPcKTYmA7F-w)
+
+> 作者：[CSDN_LQR](http://www.jianshu.com/u/f9de259236a3CSDN_LQR)<br/>
+> 推送时间:2017-05-22
+- 非常用心的一篇文章, 作者肯定花了不少时间 ~
+
+<hr/>
+
 ##### [[已推送] 学习 Kotlin 吗?](http://mp.weixin.qq.com/s/8vGvKJ10XchRGYVXHBc1kA)
+
 > 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 > 推送时间:2017-05-19
 - 我也要为 Kotlin 刷屏贡献一份力了~
