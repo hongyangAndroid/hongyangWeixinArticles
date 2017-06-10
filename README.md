@@ -9,6 +9,48 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 7.0 行为变更 通过FileProvider在应用间共享文件吧](http://mp.weixin.qq.com/s/0BFFoyJdrzkfk6k66tHtyA)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-06-09
+- 每次看着自己的 TODO 上的文章完成, 都很开心~
+
+<hr/>
+
+##### [[已推送] AndroidStudio 插件 之 Findbugs 安装与简单使用教程](http://mp.weixin.qq.com/s/ZuZNZy6FN9eVbyCgo0btqA)
+
+> 作者：[紫雾凌寒](http://blog.csdn.net/u013132758)<br/>
+> 推送时间:2017-06-08
+- Findbugs 非常值得使用的插件~
+
+<hr/>
+
+##### [[已推送] 打造轻量级的安卓滚轮选择控件](http://mp.weixin.qq.com/s/EMq9O6uKM0NsaRCGDCjkWQ)
+
+> 作者：[huzenan0412](http://blog.csdn.net/u012199331)<br/>
+> 推送时间:2017-06-07
+- 简洁 配图解释的非常细致~~~   话说,这图画的好清爽, like
+- [今日推荐：OpenGL ES的系列文章](http://blog.csdn.net/junzia/article/category/6462864)
+
+<hr/>
+
+##### [[已推送] Android视频开发进阶（一）关于视频的那些术语](http://mp.weixin.qq.com/s/f4X4gVQJwf_ff3qWC4TBMg)
+
+> 作者：[qing的世界](http://www.jianshu.com/u/a32db45d4859)<br/>
+> 推送时间:2017-06-06
+- 这次我要连载一些系列的深入了解视频的文章了~
+
+<hr/>
+
+##### [[已推送] ViewPager系列之 打造一个通用的ViewPager](http://mp.weixin.qq.com/s/I2gY4Xp_JGrE4YpjWQ3cag)
+
+> 作者：[依然范特稀西](http://www.jianshu.com/u/35167a70aa39)<br/>
+> 推送时间:2017-06-05
+- 封装变化~ 寻找事物间的共性
+- [今日推荐：MockNet 用于快速搭建本地服务器](https://github.com/5A59/MockNet)
+
+<hr/>
+
 ##### [[已推送] 一行代码实现Android软键盘与EditText的交互](http://mp.weixin.qq.com/s/q-kEr_4JWT-LKIXaXskIoA)
 
 > 作者：[会煎蛋的猿](http://blog.csdn.net/zybieku)<br/>
