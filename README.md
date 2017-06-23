@@ -9,6 +9,72 @@
 
 ## 已推送文章列表
 
+##### [[已推送] 教你如何实现 Splash 页面三秒跳转和动态下载最新背景图](https://mp.weixin.qq.com/s/liblthMxrykuRb76TlJhvw)
+
+> 作者：[我姓王叫叔叔](http://www.jianshu.com/p/b38ec0bfee7d)<br/>
+> 推送时间:2017-06-21
+- 项目的必备功能之一~
+
+<hr/>
+
+##### [[已推送] 打造一个高逼格的android开源项目 | 小白全攻略](http://mp.weixin.qq.com/s/6hXdzobjoGB9LLHPsGwwHQ)
+
+> 作者：[孤独狂饮](http://www.jianshu.com/u/0b682654ad9f)<br/>
+> 推送时间:2017-06-20
+- 终于知道开源项目这些小徽章怎么来的了~
+
+<hr/>
+
+##### [[已推送] 实战 | Android中文图混排时文图的居中对齐 FontMetrics以及自定义ImageSpan实现](http://mp.weixin.qq.com/s/2TTc-KucG6nH2upHqiZeOw)
+
+> 作者：[CnPeng](http://www.jianshu.com/p/2650357f7547)<br/>
+> 推送时间:2017-06-19
+- 也是巧了~上周刚讨论这事
+- [今日推荐：kotlin-jvm编译过程](http://www.jianshu.com/p/e6512f39f7c7)
+
+<hr/>
+
+##### [[已推送] 炫酷 | 自定义实现神奇的卡片切换效果](http://mp.weixin.qq.com/s/Gd1G6SYrMvyMBABKjfzyTw)
+
+> 作者：[BakerJ](http://bakerjq.com/)<br/>
+> 推送时间:2017-06-16
+- 当实现某个东西遇到困难时, 不妨想想 Android 系统自身的一些实现方式, 总会有意想不到的启发~
+
+<hr/>
+
+##### [[已推送] 实战 | 封装解决WebView的那些坑](http://mp.weixin.qq.com/s/Md8xkC-fQ9hmJ80IBsejlw)
+
+> 作者：[Justson](http://www.jianshu.com/u/a52f305fac1c)<br/>
+> 推送时间:2017-06-15
+- 以前也被 WebView 坑过~
+
+<hr/>
+
+##### [[已推送] ViewPager系列之 仿魅族应用的广告BannerView](https://mp.weixin.qq.com/s/RZ_IWvlHcWD1erJrRff_lA)
+
+> 作者：[依然范特稀西](http://www.jianshu.com/u/35167a70aa39)<br/>
+> 推送时间:2017-06-14
+- 模仿 拓展 封装
+
+<hr/>
+
+##### [[已推送] Android视频开发进阶（二）MP4文件的解析](http://mp.weixin.qq.com/s/uH4zQY9abdFWEXYnX6Zsgg)
+
+> 作者：[qing的世界](http://www.jianshu.com/u/a32db45d4859)<br/>
+> 推送时间:2017-06-12
+- 今日推荐：
+  - [利用FFmpeg仿微信小视频录制与压缩处理](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822766&idx=1&sn=51073a8a6ac9c8930c103f54d4d84a84&chksm=80b78cf0b7c005e6491697a3eb5a4299e4aa01671bf104274603fd96ff37e302889b9677fb05&scene=21#wechat_redirect)
+  - [Android下玩JNI的新老三种姿势](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650823124&idx=1&sn=7bb627c2bcf6447f9bf7824bef30c387&chksm=80b78d4ab7c0045c811126d8e4a5132d71d4416c7d842c9f3e8dd077248c62350d3b9fa08a23&scene=21#wechat_redirect)
+  - [利用FFmpeg玩转Android视频录制与压缩（二）](http://blog.csdn.net/mabeijianxi/article/details/72983362)
+
+<hr/>
+
+##### [[已推送] IT校招笔试面试（一）面试流程](http://mp.weixin.qq.com/s/LZO20_NniiAIznkZchXA-g)
+
+> 作者：启舰<br/>
+> 推送时间:2017-06-12
+<hr/>
+
 ##### [[已推送] Android 7.0 行为变更 通过FileProvider在应用间共享文件吧](http://mp.weixin.qq.com/s/0BFFoyJdrzkfk6k66tHtyA)
 
 > 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
