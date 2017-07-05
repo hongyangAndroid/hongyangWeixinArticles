@@ -9,6 +9,88 @@
 
 ## 已推送文章列表
 
+##### [[已推送] 深度 | 重新理解响应式编程](http://mp.weixin.qq.com/s/8t_01rrEewBBSNUfXba13A)
+
+> 作者：[拉丁吴](http://www.jianshu.com/u/1d8042233f67)<br/>
+> 推送时间:2017-07-05
+- 深入理解响应式编程~
+
+<hr/>
+
+##### [[已推送] 高仿哔哩哔哩客户端的SearchView](http://mp.weixin.qq.com/s/X7l4aVY0Y_yfmec5rF4HCQ)
+
+> 作者：[三年二班王尼玛](http://www.jianshu.com/u/35e3fd5d8158)<br/>
+> 推送时间:2017-07-04
+- 短小精悍的文章~要不是看到这篇文章 ViewAnimationUtils 这个类我都忘记了。。
+
+<hr/>
+
+##### [[已推送] 免费下载！业界首部安卓热修复原理宝典出炉，阿里技术大牛联袂推荐](http://mp.weixin.qq.com/s/TdYWjMth5sgwfrfWbUTqHw)
+
+> 作者：[ 阿里技术]()<br/>
+> 推送时间:2017-07-03
+- 阿里技术送上的又一份重磅大礼; 业界首部安卓热修复原理宝典——《**深入探索Android热修复技术原理**》。五大章160页，深入系统底层，带你进阶成为移动开发高手。
+
+<hr/>
+
+##### [[已推送] 酷炫的外部开启Activity新姿势](http://mp.weixin.qq.com/s/yEi3SzwcC0enXbol4VqA1A)
+
+> 作者：[相濡以沫灬](http://blog.csdn.net/github_33304260)<br/>
+> 推送时间:2017-06-30
+- [今日推荐：滴滴的插件化方案开源啦](https://github.com/didi/VirtualAPK)
+
+<hr/>
+
+##### [[已推送] 一行代码实现Okhttp,Retrofit,Glide下载上传进度监听](http://mp.weixin.qq.com/s/bopDUFMB7EiK-MhLc3KDXQ)
+
+> 作者：[jessyan](http://www.jianshu.com/u/1d0c0bc634db)<br/>
+> 推送时间:2017-06-29
+- 不断积累和借鉴优秀的思想在创作时, 灵感才会源源不断~
+
+<hr/>
+
+##### [[已推送] 2017年Android百大框架排行榜](https://mp.weixin.qq.com/s/O8YucJaKOC4mNVfBrgho9A)
+
+> 作者：[金诚](http://www.cnblogs.com/jincheng-yangchaofan)<br/>
+> 推送时间:2017-06-28
+- 这个真的好有毅力哇, 编辑的我痛不欲生~~
+
+<hr/>
+
+##### [[已推送] WebView 自定义长按选择，实现收藏 / 分享选中文本](http://mp.weixin.qq.com/s/DH0gKuR2JP87FHAYV3TlNg)
+
+> 作者：[恋猫月亮](http://www.jianshu.com/u/6e613846e1ea)<br/>
+> 推送时间:2017-06-27
+- 很实用的小功能~
+- [今日推荐：优雅地刷新Recyclerview](https://github.com/crazysunj/MultiTypeRecyclerViewAdapter)
+
+<hr/>
+
+##### [[已推送] 最新特效 | 模仿手机QQ底部导航栏Icon拖拽效果](http://mp.weixin.qq.com/s/KtLTTIvNoAq1mE4rZyNtEw)
+
+> 作者：[kobeyxd123](http://blog.csdn.net/kobeyxd123)<br/>
+> 推送时间:2017-06-26
+- 最喜欢这种思路简单, 效果酷炫的啦~
+
+<hr/>
+
+##### [[已推送] 入门 | 从Android到React Native开发](http://mp.weixin.qq.com/s/09LmhWQVSLJtaJW3wydlOg)
+
+> 作者：[恋猫月亮](http://www.jianshu.com/u/6e613846e1ea)<br/>
+> 推送时间:2017-06-23
+- 从 Android 开发角度来理解 React Native ~
+- [今日推荐：给初学者的RxJava2.0教程(一)](http://www.jianshu.com/p/464fa025229e)
+
+<hr/>
+
+##### [[已推送] Android使用RecycleView实现魅族手机通讯录界面](http://mp.weixin.qq.com/s/uqhq5afkvoGvPzSL3DMrQg)
+
+> 作者：[_小马快跑_](http://www.jianshu.com/u/185028550381)<br/>
+> 推送时间:2017-06-22
+- 作者一定是王者荣耀超级玩家~
+
+<hr/>
+
 ##### [[已推送] 教你如何实现 Splash 页面三秒跳转和动态下载最新背景图](https://mp.weixin.qq.com/s/liblthMxrykuRb76TlJhvw)
 
 > 作者：[我姓王叫叔叔](http://www.jianshu.com/p/b38ec0bfee7d)<br/>
@@ -73,7 +155,7 @@
 
 > 作者：启舰<br/>
 > 推送时间:2017-06-12
-<hr/>
+> <hr/>
 
 ##### [[已推送] Android 7.0 行为变更 通过FileProvider在应用间共享文件吧](http://mp.weixin.qq.com/s/0BFFoyJdrzkfk6k66tHtyA)
 
