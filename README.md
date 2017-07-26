@@ -9,11 +9,66 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android Camera2 使用总结](http://mp.weixin.qq.com/s/T-f7iC9pc6Lq6Lmj-_BL2w)
+
+> 作者：[_小河马](http://www.jianshu.com/p/73fed068a795)<br/>
+> 推送时间:2017-07-26
+<hr/>
+
+##### [[已推送] 带你一步步实现带有多彩阴影的ImageView](https://mp.weixin.qq.com/s/4h_buOJt7yvnc6youh2pFA)
+
+> 作者：[钉某人](http://blog.csdn.net/xiaochuanding/article/details/75092828)<br/>
+> 推送时间:2017-07-25
+- [今日推荐：Android Studio快捷键这篇就够了](http://halohoop.com/2017/07/16/snacks_shortcuts_of_as/)
+
+<hr/>
+
+##### [[已推送] 开发App没有数据源？不存在的！国内值得关注的API集合](https://mp.weixin.qq.com/s/xmAvD9r4ocWTxhfO2w1YmQ)
+
+> 作者：[TonnyL](http://www.jianshu.com/p/ecf037476603)<br/>
+> 推送时间:2017-07-24
+<hr/>
+
+##### [[已推送] Android ConstraintLayout详解](https://mp.weixin.qq.com/s/8KDmWV_IU2NyP8DwQV52AQ)
+
+> 作者：[_小河马](http://www.jianshu.com/u/14354bcb0e09)<br/>
+> 推送时间:2017-07-21
+<hr/>
+
+##### [[已推送] 安卓开发中必备的那些神器APP](http://mp.weixin.qq.com/s/INlxVT8ZyoR0Wfc_gMGYQA)
+
+> 作者：[追风917](http://www.jianshu.com/u/8cb49b5ad78b)<br/>
+> 推送时间:2017-07-20
+<hr/>
+
+##### [[已推送] Android 仿小米开源日历 SuperCalendar]()
+
+> 作者：[神奇的小蘑菇](http://www.jianshu.com/u/0c3ec6ad316e)<br/>
+> 推送时间:2017-07-19
+<hr/>
+
+##### [[已推送] 如何优雅地管理Retrofit请求的生命周期](http://mp.weixin.qq.com/s/C4EA1FZ9kuGNb8BsIakHwQ)
+
+> 作者：[andydev](http://andydev.me/2017/07/03/retrofit-lifecycle-management/)<br/>
+> 推送时间:2017-07-18
+
+- [今日推荐：编译Android下可执行命令的FFmpeg](http://blog.csdn.net/mabeijianxi/article/details/72904694)
+
+<hr/>
+
+##### [[已推送] Android 你可能忽略的提高敲代码效率的方式](http://mp.weixin.qq.com/s/ZUXB2BdRYh0AGv9Ba41ZHQ)
+
+> 作者：[大力-哥](http://blog.csdn.net/qq137722697)<br/>
+> 推送时间:2017-07-17
+- [今日推荐：Eyepetizer-in-Kotlin:一款简约的小视频app，带你走进kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
+
+<hr/>
+
 ##### [[已推送] RecyclerView实现双列表联动](http://mp.weixin.qq.com/s/AJytrzv2Vo-2NisSXufttA)
 
 > 作者：[fatchao](http://www.jianshu.com/u/94dc45995a85)<br/>
 > 推送时间:2017-07-14
-<hr/>
+> <hr/>
 
 ##### [[已推送] 封装并实现统一的图片加载架构](http://mp.weixin.qq.com/s/J98L9WiXkIrn4fnhu8wcnA)
 
@@ -27,19 +82,19 @@
 
 > 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 > 推送时间:2017-07-12
-<hr/>
+> <hr/>
 
 ##### [[已推送] 实现传言中的黑科技——“1像素页面保活”](http://mp.weixin.qq.com/s/rgm9EoIcqbI-amzPlBqjrg)
 
 > 作者：[见事迟](http://www.jianshu.com/u/b52297ae09e7)<br/>
 > 推送时间:2017-07-11
-<hr/>
+> <hr/>
 
 ##### [[已推送] 来来来，随老夫撸一个支付宝玩玩—自定义Behavior的正确打开方式](http://mp.weixin.qq.com/s/hfV0FdOatUJ2VM_QbfWPDw)
 
 > 作者：[桑小年](http://www.jianshu.com/u/f0fae5ff900a)<br/>
 > 推送时间:2017-07-10
-- [今日推荐：轻量可扩展 Android WebView 和 Javascript 双向交互框架]https://github.com/pengwei1024/JsBridge)
+- [今日推荐：轻量可扩展 Android WebView 和 Javascript 双向交互框架](https://github.com/pengwei1024/JsBridge)
 
 <hr/>
 
