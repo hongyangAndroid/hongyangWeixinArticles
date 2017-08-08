@@ -9,11 +9,77 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android 项目最新架构](http://mp.weixin.qq.com/s/3VfsKgqJBHvzwd8e_JPSGw)
+
+> 作者：[拉丁吴](http://www.jianshu.com/p/7fa7679572cc)<br/>
+> 推送时间:2017-08-08
+- [今日推荐：Android仿今日头条下拉刷新中的vector动画](http://blog.csdn.net/coderder/article/details/76034426)
+
+<hr/>
+
+##### [[已推送] Android安全防护](http://mp.weixin.qq.com/s/40f3aDTty9GeNaQoDRl4cw)
+
+> 作者：[LOVEmaodoudou](http://blog.csdn.net/u013409903/article/details/76686155)<br/>
+> 推送时间:2017-08-07
+- [今日推荐：MVVMArms - MVVM 与 Android Architecture Components 的最佳实战](https://github.com/xiaobailong24/MVVMArms)
+
+<hr/>
+
+##### [[已推送] 仿金融APP收益曲线图](http://mp.weixin.qq.com/s/EzsYt86HqDALo-un1iZuHw)
+
+> 作者：[binbinqq86](http://blog.csdn.net/binbinqq86/article/details/74127768)<br/>
+> 推送时间:2017-08-04
+- [今日推荐：解决Retrofit多BaseUrl及运行时动态改变BaseUrl](http://www.jianshu.com/p/2919bdb8d09a)
+
+<hr/>
+
+##### [[已推送] 一文彻底搞懂CoordinatorLayout 和 AppbarLayout 联动](http://mp.weixin.qq.com/s/9GZJI56l3AR9P-W7dC-GnA)
+
+> 作者：[南尘2251](http://www.jianshu.com/p/640f4ef05fb2)<br/>
+> 推送时间:2017-07-2
+- [今日推荐：一种基于ARouter的使用封装方案，实现对ARouter的Retrofit式使用。](https://github.com/MondyXue/XRouter)
+
+<hr/>
+
+##### [[已推送] Android注解快速入门和实用解析](http://mp.weixin.qq.com/s/uctPBAp95-lNEmYJthM-hQ)
+
+> 作者：[恋猫月亮](http://www.jianshu.com/p/9ca78aa4ab4d)<br/>
+> 推送时间:2017-08-02
+<hr/>
+
+##### [[已推送] 仿新浪微博导航条](http://mp.weixin.qq.com/s/asH-9_U3R-2pXeBnCqTuYQ)
+
+> 作者：[徐爱卿](http://www.jianshu.com/p/77e811e1c987)<br/>
+> 推送时间:2017-08-01
+<hr/>
+
+##### [[已推送] Google新推Lifecycle-aware Components 源码分析](http://mp.weixin.qq.com/s/PuDA4MIb6lo-FVujNWQVhw)
+
+> 作者：[ChaosLeong](https://chaosleong.github.io/2017/05/27/How-Lifecycle-aware-Components-actually-works/)<br/>
+> 推送时间:2017-07-31
+- [今日推荐：当关闭通知权限后无法显示Toast的解决方案V2.0](http://blog.csdn.net/qq_25867141/article/details/74194503)
+
+<hr/>
+
+##### [[已推送] 快速实现炫酷的ViewPager卡片效果](http://mp.weixin.qq.com/s/P8Slyl7i1gyWGZXcvccYTQ)
+
+> 作者：[crazysunj](http://crazysunj.com/)<br/>
+> 推送时间:2017-07-28
+<hr/>
+
+##### [[已推送] 这可能是最好的RxJava 2.x 教程（完结版）](https://mp.weixin.qq.com/s/pHqyX_cgGLNM_fVdcojZ7A)
+
+> 作者：[南尘2251](http://www.jianshu.com/u/f690947ed5a6)<br/>
+> 推送时间:2017-07-27
+- 这可能是最好的RxJava 2.x入门教程系列专栏
+
+<hr/>
+
 ##### [[已推送] Android Camera2 使用总结](http://mp.weixin.qq.com/s/T-f7iC9pc6Lq6Lmj-_BL2w)
 
 > 作者：[_小河马](http://www.jianshu.com/p/73fed068a795)<br/>
 > 推送时间:2017-07-26
-<hr/>
+> <hr/>
 
 ##### [[已推送] 带你一步步实现带有多彩阴影的ImageView](https://mp.weixin.qq.com/s/4h_buOJt7yvnc6youh2pFA)
 
@@ -27,25 +93,25 @@
 
 > 作者：[TonnyL](http://www.jianshu.com/p/ecf037476603)<br/>
 > 推送时间:2017-07-24
-<hr/>
+> <hr/>
 
 ##### [[已推送] Android ConstraintLayout详解](https://mp.weixin.qq.com/s/8KDmWV_IU2NyP8DwQV52AQ)
 
 > 作者：[_小河马](http://www.jianshu.com/u/14354bcb0e09)<br/>
 > 推送时间:2017-07-21
-<hr/>
+> <hr/>
 
 ##### [[已推送] 安卓开发中必备的那些神器APP](http://mp.weixin.qq.com/s/INlxVT8ZyoR0Wfc_gMGYQA)
 
 > 作者：[追风917](http://www.jianshu.com/u/8cb49b5ad78b)<br/>
 > 推送时间:2017-07-20
-<hr/>
+> <hr/>
 
 ##### [[已推送] Android 仿小米开源日历 SuperCalendar]()
 
 > 作者：[神奇的小蘑菇](http://www.jianshu.com/u/0c3ec6ad316e)<br/>
 > 推送时间:2017-07-19
-<hr/>
+> <hr/>
 
 ##### [[已推送] 如何优雅地管理Retrofit请求的生命周期](http://mp.weixin.qq.com/s/C4EA1FZ9kuGNb8BsIakHwQ)
 
