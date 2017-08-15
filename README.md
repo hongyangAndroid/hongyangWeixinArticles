@@ -9,6 +9,36 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android实现APP在线下载更新](http://mp.weixin.qq.com/s/4wl_oBG7Zzsddu_RR3O3IQ)
+
+> 作者：[Teprinciple](http://www.jianshu.com/p/c089e222f820)<br/>
+> 推送时间:2017-08-15
+<hr/>
+
+##### [[已推送] 最近开发的一款应用，我选择了哪些框架 & 第三方库](http://mp.weixin.qq.com/s/qqZ39W2gdlTIRimz8dmpXQ)
+
+> 作者：[OCNYang](http://www.jianshu.com/p/3442a0b2eee1)<br/>
+> 推送时间:2017-08-14
+<hr/>
+
+##### [[已推送] [Digging] 实现支付宝首页交互效果](http://mp.weixin.qq.com/s/ddTe5gu0orSIM1oG_BDblA)
+
+> 作者：[kyleduo](https://blog.kyleduo.com/2017/07/21/alipay-home-3-alipay-home/)<br/>
+> 推送时间:2017-08-11
+<hr/>
+
+##### [[已推送] Android插件化快速入门与实例解析（VirtualApk）](http://mp.weixin.qq.com/s/eRQwaJUr9y93ANEIfjktnQ)
+
+> 作者：[恋猫月亮](http://www.jianshu.com/p/a7b36d682b6f)<br/>
+> 推送时间:2017-08-10
+<hr/>
+
+##### [[已推送] 自定义控件 | 仿《最美有物》点赞效果](https://mp.weixin.qq.com/s/poQBEjggCEkyAUuKypYXxQ)
+
+> 作者：[岱zy](http://www.jianshu.com/p/818116513dc3)<br/>
+> 推送时间:2017-08-09
+<hr/>
+
 ##### [[已推送] Android 项目最新架构](http://mp.weixin.qq.com/s/3VfsKgqJBHvzwd8e_JPSGw)
 
 > 作者：[拉丁吴](http://www.jianshu.com/p/7fa7679572cc)<br/>
@@ -45,13 +75,13 @@
 
 > 作者：[恋猫月亮](http://www.jianshu.com/p/9ca78aa4ab4d)<br/>
 > 推送时间:2017-08-02
-<hr/>
+> <hr/>
 
 ##### [[已推送] 仿新浪微博导航条](http://mp.weixin.qq.com/s/asH-9_U3R-2pXeBnCqTuYQ)
 
 > 作者：[徐爱卿](http://www.jianshu.com/p/77e811e1c987)<br/>
 > 推送时间:2017-08-01
-<hr/>
+> <hr/>
 
 ##### [[已推送] Google新推Lifecycle-aware Components 源码分析](http://mp.weixin.qq.com/s/PuDA4MIb6lo-FVujNWQVhw)
 
@@ -65,7 +95,7 @@
 
 > 作者：[crazysunj](http://crazysunj.com/)<br/>
 > 推送时间:2017-07-28
-<hr/>
+> <hr/>
 
 ##### [[已推送] 这可能是最好的RxJava 2.x 教程（完结版）](https://mp.weixin.qq.com/s/pHqyX_cgGLNM_fVdcojZ7A)
 
