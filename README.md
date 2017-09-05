@@ -9,35 +9,83 @@
 
 ## 已推送文章列表
 
+##### [[已推送] 最近很火的全景图功能是如何实现的？](http://mp.weixin.qq.com/s/XxzM3YIR-V2BD2M833qlhQ)
+
+> 作者：[张鹏辉_道长](http://www.jianshu.com/p/adfab8201660)<br/>
+> 推送时间:2017-09-05
+<hr/>
+
+##### [[已推送] 如何设计一个靠谱的MVP架构？](http://mp.weixin.qq.com/s/8RF0dDeQduwtFPqIOk_AHg)
+
+> 作者：[学妹晚上好]()<br/>
+> 推送时间:2017-09-04
+<hr/>
+
+##### [[已推送] RxJava2 学习资料推荐](http://mp.weixin.qq.com/s/UAEgdC2EtqSpEqvog0aoZQ)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-09-01
+<hr/>
+
+##### [[已推送] 巨大福利来袭，还记得去年的那个“玩Android”网站么？](http://mp.weixin.qq.com/s/3IvKj4D78MVVJQT4ApHl9Q)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-08-31
+<hr/>
+
+##### [[已推送] 动手打造史上最简单的 Recycleview 侧滑菜单](http://mp.weixin.qq.com/s/UKs8nsDGHN1wyAb5LazPOA)
+
+> 作者：[王英豪](http://blog.csdn.net/yhaolpz/article/details/77366154)<br/>
+> 推送时间:2017-08-30
+- [今日推荐：推荐一个Aspect的系列](http://t.cn/RCPqgPn)
+
+<hr/>
+
+##### [[已推送] 自定义View | 丝滑的引导用户输入验证码](http://mp.weixin.qq.com/s/fvrake6AAMzjWFpJ7AiR8g)
+
+> 作者：[MrAllRight_Liu](http://www.jianshu.com/p/610c770d8898)<br/>
+> 推送时间:2017-08-29
+- [今日推荐：Android 集成 FFmpeg (一）基础知识及简单调用](http://blog.csdn.net/yhaolpz/article/details/76408829)
+
+<hr/>
+
+##### [[已推送] Android 避免踩坑 之 7.0脱坑指南](http://mp.weixin.qq.com/s/DtQcYROR1Dc2WCYQ-UvRsg)
+
+> 作者：[唯鹿](http://blog.csdn.net/qq_17766199/article/details/77404712)<br/>
+> 推送时间:2017-08-28
+- [今日推荐：AS+phoneGap+Cordova把网站打包签名成apk](http://blog.csdn.net/qq_30552993/article/details/77319775)
+
+<hr/>
+
 ##### [[已推送] 现有Android项目引入ReactNative--九步大法](http://mp.weixin.qq.com/s/cGaWTdtIOt6yCXka0HhMgw)
 
 > 作者：[相濡以沫灬](http://blog.csdn.net/github_33304260/article/details/76571961)<br/>
 > 推送时间:2017-08-25
-<hr/>
+> <hr/>
 
 ##### [[已推送] 自定义View之仿小米MIUI天气24小时预报折线图](https://mp.weixin.qq.com/s/V6Hfp9dDFXDuhuKX3jopMw)
 
 > 作者：[勇朝陈](http://blog.csdn.net/ccy0122/article/details/76464825)<br/>
 > 推送时间:2017-08-24
-<hr/>
+> <hr/>
 
 ##### [[已推送] Android 必备而又容易忽视的知识 Gradle的高级用法](http://mp.weixin.qq.com/s/GT1P-bj5ljlEgrj6QyxK7w)
 
 > 作者：[_Janus](http://www.jianshu.com/p/ce50e5c74a48)<br/>
 > 推送时间:2017-08-23
-<hr/>
+> <hr/>
 
 ##### [[已推送] Android工程师之Android面试大纲](http://mp.weixin.qq.com/s/bvB2U0-6ZJ1j06iVV4NmjQ)
 
 > 作者：[Hensen_](http://blog.csdn.net/qq_30379689/article/details/73698192)<br/>
 > 推送时间:2017-08-22
-<hr/>
+> <hr/>
 
 ##### [[已推送] 文末送书 | 自定义View之添加银行卡动画 丝滑的页面切换](http://mp.weixin.qq.com/s/qpmkdsZb8BANrTmoGLfHNA)
 
 > 作者：[MrAllRight_Liu](http://www.jianshu.com/p/610c770d8898)<br/>
 > 推送时间:2017-08-21
-<hr/>
+> <hr/>
 
 ##### [[已推送] 如何打造一个 Android 编译时注解框架](http://mp.weixin.qq.com/s/x-PXFx7LuClOU9UTsk_0zQ)
 
@@ -51,7 +99,7 @@
 
 > 作者：[rokudol](http://blog.rokudol.cn/%E8%87%AA%E5%AE%9A%E4%B9%89view---%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%AF%86%E7%A0%81%E8%BE%93%E5%85%A5%E6%A1%86.html)<br/>
 > 推送时间:2017-08-16
-<hr/>
+> <hr/>
 
 ##### [[已推送] Android实现APP在线下载更新](http://mp.weixin.qq.com/s/4wl_oBG7Zzsddu_RR3O3IQ)
 
