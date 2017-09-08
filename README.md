@@ -9,29 +9,47 @@
 
 ## 已推送文章列表
 
+##### [[已推送] RecyclerView 梳理：点击&长按事件、分割线、拖曳排序、滑动删除](http://mp.weixin.qq.com/s/LsxYOGnp6Yq_9rFHUDAL9A)
+
+> 作者：[OCNYang](http://www.jianshu.com/p/70788a7a5547)<br/>
+> 推送时间:2017-09-08
+> <hr/>
+
+##### [[已推送] 详尽的Android编译时注解处理器教程](http://mp.weixin.qq.com/s/pVCVGBQOL_Trsdx6ys864Q)
+
+> 作者：[yuweigup](http://www.jianshu.com/p/50d95fbf635c)<br/>
+> 推送时间:2017-09-07
+> <hr/>
+
+##### [[已推送] 基于开源项目搭建属于自己的技术堆栈](http://mp.weixin.qq.com/s/vuOiOBOpjlJaaZ6Mp7nPLg)
+
+> 作者：[jiamengfei](http://www.jianshu.com/p/42d45998117f)<br/>
+> 推送时间:2017-09-06
+> <hr/>
+
 ##### [[已推送] 最近很火的全景图功能是如何实现的？](http://mp.weixin.qq.com/s/XxzM3YIR-V2BD2M833qlhQ)
 
 > 作者：[张鹏辉_道长](http://www.jianshu.com/p/adfab8201660)<br/>
 > 推送时间:2017-09-05
-<hr/>
+> <hr/>
 
 ##### [[已推送] 如何设计一个靠谱的MVP架构？](http://mp.weixin.qq.com/s/8RF0dDeQduwtFPqIOk_AHg)
 
 > 作者：[学妹晚上好]()<br/>
 > 推送时间:2017-09-04
-<hr/>
+> <hr/>
 
 ##### [[已推送] RxJava2 学习资料推荐](http://mp.weixin.qq.com/s/UAEgdC2EtqSpEqvog0aoZQ)
 
 > 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 > 推送时间:2017-09-01
-<hr/>
+> <hr/>
 
 ##### [[已推送] 巨大福利来袭，还记得去年的那个“玩Android”网站么？](http://mp.weixin.qq.com/s/3IvKj4D78MVVJQT4ApHl9Q)
 
 > 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 > 推送时间:2017-08-31
-<hr/>
+> <hr/>
 
 ##### [[已推送] 动手打造史上最简单的 Recycleview 侧滑菜单](http://mp.weixin.qq.com/s/UKs8nsDGHN1wyAb5LazPOA)
 
