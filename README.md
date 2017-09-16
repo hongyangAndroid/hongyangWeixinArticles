@@ -9,29 +9,73 @@
 
 ## 已推送文章列表
 
+##### [[已推送] 推荐一些值得订阅的 Android 技术专栏](http://mp.weixin.qq.com/s/sVbQ7Yxqn7Mv4isTlZS_Tw)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-09-15
+<hr/>
+
+##### [[已推送] 仿乐视LIVE App主界面的TabLayout](http://mp.weixin.qq.com/s/SZgyf9f9L24fHgPXpXTg5Q)
+
+> 作者：[唯鹿](http://blog.csdn.net/qq_17766199/article/details/68941610)<br/>
+> 推送时间:2017-09-14
+<hr/>
+
+##### [[已推送] 将一个网站撸成App很简单,实战无接口写安卓巴士博客App端](http://mp.weixin.qq.com/s/Yv8r7RVVQJc9Rw1XNWxTew)
+
+> 作者：[香脆的大鸡排](http://www.jianshu.com/p/553d973bee40)<br/>
+> 推送时间:2017-09-13
+<hr/>
+
+##### [[已推送] 轻松入门直播相关技术 带你从0搭建直播系统](http://mp.weixin.qq.com/s/-GMchAP9WUrOK4WTDHjoMg)
+
+> 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
+> 推送时间:2017-09-12
+<hr/>
+
+##### [[已推送] RecyclerView 梳理：点击&长按事件、分割线、拖曳排序、滑动删除](http://mp.weixin.qq.com/s/LsxYOGnp6Yq_9rFHUDAL9A)
+
+> 作者：[OCNYang](http://www.jianshu.com/p/70788a7a5547)<br/>
+> 推送时间:2017-09-08
+<hr/>
+
+##### [[已推送] 详尽的Android编译时注解处理器教程](https://mp.weixin.qq.com/s/pVCVGBQOL_Trsdx6ys864Q)
+
+> 作者：[yuweigup](http://www.jianshu.com/p/50d95fbf635c)<br/>
+> 推送时间:2017-09-07
+- [今日推荐：学习组件化的好文](http://www.jianshu.com/p/59822a7b2fad)
+
+<hr/>
+
+##### [[已推送] 基于开源项目搭建属于自己的技术堆栈](http://mp.weixin.qq.com/s/vuOiOBOpjlJaaZ6Mp7nPLg)
+
+> 作者：[jiamengfei](http://www.jianshu.com/p/42d45998117f)<br/>
+> 推送时间:2017-09-06
+<hr/>
+
 ##### [[已推送] 最近很火的全景图功能是如何实现的？](http://mp.weixin.qq.com/s/XxzM3YIR-V2BD2M833qlhQ)
 
 > 作者：[张鹏辉_道长](http://www.jianshu.com/p/adfab8201660)<br/>
 > 推送时间:2017-09-05
-<hr/>
+> <hr/>
 
 ##### [[已推送] 如何设计一个靠谱的MVP架构？](http://mp.weixin.qq.com/s/8RF0dDeQduwtFPqIOk_AHg)
 
 > 作者：[学妹晚上好]()<br/>
 > 推送时间:2017-09-04
-<hr/>
+> <hr/>
 
 ##### [[已推送] RxJava2 学习资料推荐](http://mp.weixin.qq.com/s/UAEgdC2EtqSpEqvog0aoZQ)
 
 > 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 > 推送时间:2017-09-01
-<hr/>
+> <hr/>
 
 ##### [[已推送] 巨大福利来袭，还记得去年的那个“玩Android”网站么？](http://mp.weixin.qq.com/s/3IvKj4D78MVVJQT4ApHl9Q)
 
 > 作者：[鸿洋](http://blog.csdn.net/lmj623565791)<br/>
 > 推送时间:2017-08-31
-<hr/>
+> <hr/>
 
 ##### [[已推送] 动手打造史上最简单的 Recycleview 侧滑菜单](http://mp.weixin.qq.com/s/UKs8nsDGHN1wyAb5LazPOA)
 
