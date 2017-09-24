@@ -9,10 +9,39 @@
 
 ## 已推送文章列表
 
+##### [[已推送] Android自定义View - 仿淘宝淘抢购进度条](http://mp.weixin.qq.com/s/72cSlz9HJq_bNFziOtjwbQ)
+
+> 作者：[luckyzh](http://www.jianshu.com/p/18240ea99f6e)<br/>
+> 推送时间:2017-09-22
+> <hr/>
+
+##### [[已推送] 一步步搞定Android换肤框架 从Debug 7.1.1源码开始](http://mp.weixin.qq.com/s/MSLsoMGHyxiZ0q7fxR3zvg)
+
+> 作者：[徐爱卿](http://www.jianshu.com/p/c8748fbf6f60)<br/>
+> 推送时间:2017-09-21
+> <hr/>
+
+##### [[已推送] 推荐几个你应该知道的Studio插件](http://mp.weixin.qq.com/s/fb69X2BUt5J0d8CEWRzMAw)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/fb69X2BUt5J0d8CEWRzMAw)<br/>
+> 推送时间:2017-09-20
+> <hr/>
+
+##### [[已推送] Android多点触控最佳实践](http://mp.weixin.qq.com/s/vtDGJAdA8FNlvrJ_2k05Yw)
+
+> 作者：[mundane](http://www.jianshu.com/p/f8ef2685716d)<br/>
+> 推送时间:2017-09-19
+> <hr/>
+
+##### [[已推送] 拒绝拖拽 使用ConstraintLayout优化你的布局吧](http://mp.weixin.qq.com/s/vI-fPaNoJ7ZBlZcMkEGdLQ)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/vI-fPaNoJ7ZBlZcMkEGdLQ)<br/>
+> 推送时间:2017-09-18
+> <hr/>
 
 ##### [[已推送] 推荐一些值得订阅的 Android 技术专栏](https://mp.weixin.qq.com/s/sVbQ7Yxqn7Mv4isTlZS_Tw)
 
-> 作者：[ 鸿洋](https://mp.weixin.qq.com/s/sVbQ7Yxqn7Mv4isTlZS_Tw)<br/>
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/sVbQ7Yxqn7Mv4isTlZS_Tw)<br/>
 > 推送时间:2017-09-15
 > <hr/>
 
