@@ -9,6 +9,37 @@
 
 ## 已推送文章列表
 
+
+##### [[已推送] 努力做一个Android开发者必看的网站（二）](https://mp.weixin.qq.com/s/rtOMgjerXX1JcSjzeNOPJw)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/rtOMgjerXX1JcSjzeNOPJw)<br/>
+> 推送时间:2017-09-30
+> <hr/>
+
+##### [[搞定 RecycleView 自动加载更多、侧滑菜单、添加头部底部](http://mp.weixin.qq.com/s/njuMVCr9q4UDoi5DmVA3oA)
+
+> 作者：[王英豪](http://blog.csdn.net/yhaolpz/article/details/77891594)<br/>
+> 推送时间:2017-09-29
+> <hr/>
+
+##### [[已推送] Android上展示word、excel、pdf、ppt~](http://mp.weixin.qq.com/s/3PtD0kk2ckc5TkV-GpUCBA)
+
+> 作者：[钟离四郎](http://www.jianshu.com/p/3f57d640b24d)<br/>
+> 推送时间:2017-09-27
+> <hr/>
+
+##### [[已推送] 优雅的处理加载中(loading)、重试(retry)和无数据(empty)](http://mp.weixin.qq.com/s/B-yzq3XaTccg-PwfaEeieg)
+
+> 作者：[KingJA](http://www.jianshu.com/p/2d3537101281)<br/>
+> 推送时间:2017-09-26
+> <hr/>
+
+##### [[已推送] 去阿里面试JAVA，最可能被问的题目竟是……](http://mp.weixin.qq.com/s/vm3bl6HxH4YEGH0QwpGRFg)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/vm3bl6HxH4YEGH0QwpGRFg)<br/>
+> 推送时间:2017-09-25
+> <hr/>
+
 ##### [[已推送] Android自定义View - 仿淘宝淘抢购进度条](http://mp.weixin.qq.com/s/72cSlz9HJq_bNFziOtjwbQ)
 
 > 作者：[luckyzh](http://www.jianshu.com/p/18240ea99f6e)<br/>
