@@ -10,13 +10,44 @@
 ## 已推送文章列表
 
 
+##### [[已推送]2017 Android秋招面试总结 && 面试资源推荐](https://mp.weixin.qq.com/s/Do31xX8FfWBFdG2lkWf72w)
+
+> 作者：[Ruheng](http://www.jianshu.com/p/1149636d841a)<br/>
+> 推送时间:2017-10-13
+> <hr/>
+
+##### [[已推送]成为抢手的 Android 工程师，只用6个月的业余时间？](https://mp.weixin.qq.com/s/I9_gLL29eub3w-879usfXw)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/I9_gLL29eub3w-879usfXw)<br/>
+> 推送时间:2017-10-12
+> <hr/>
+
+##### [[已推送]让 Support-Annotations帮你发现潜在的问题吧](https://mp.weixin.qq.com/s/o9LmdsFk-IdFpMEYTG2HNQ)
+
+> 作者：[Airsaid](https://juejin.im/post/59bf5e1c518825397176d126)<br/>
+> 推送时间:2017-10-11
+- [今日推荐：MVVMArms系列 - 最新的 Dagger2.11(Dagger.Android) 多 Module 实战详解 ](https://xiaobailong24.me/2017/09/17/Android-MVVMArms-Dagger.Android/)
+> <hr/>
+
+##### [[已推送]谈谈Sdk迭代开发设计需要考虑的方面](https://mp.weixin.qq.com/s/mXFBaoRHGnzb3DIlCeeEzA)
+
+> 作者：[Trilen](http://blog.csdn.net/u010019468/article/details/75425742)<br/>
+> 推送时间:2017-10-10
+- [今日推荐：三分设计感的纯React-Native项目](https://github.com/mochixuan/Mung)
+> <hr/>
+
+##### [[已推送]Android 茫茫9个月求职路 已拿满意offer](https://mp.weixin.qq.com/s/sN_i_IaLUpFBbX9UHIX4NA)
+
+> 作者：[猿来是9527](http://blog.csdn.net/moyinghui/article/details/78114604)<br/>
+> 推送时间:2017-10-09
+> <hr/>
 ##### [[已推送] 努力做一个Android开发者必看的网站（二）](https://mp.weixin.qq.com/s/rtOMgjerXX1JcSjzeNOPJw)
 
 > 作者：[鸿洋](https://mp.weixin.qq.com/s/rtOMgjerXX1JcSjzeNOPJw)<br/>
 > 推送时间:2017-09-30
 > <hr/>
 
-##### [[搞定 RecycleView 自动加载更多、侧滑菜单、添加头部底部](http://mp.weixin.qq.com/s/njuMVCr9q4UDoi5DmVA3oA)
+##### [[已推送]搞定 RecycleView 自动加载更多、侧滑菜单、添加头部底部](http://mp.weixin.qq.com/s/njuMVCr9q4UDoi5DmVA3oA)
 
 > 作者：[王英豪](http://blog.csdn.net/yhaolpz/article/details/77891594)<br/>
 > 推送时间:2017-09-29
