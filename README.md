@@ -10,6 +10,38 @@
 ## 已推送文章列表
 
 
+##### [[已推送]我们添加了几个令人振奋人心的功能 | 玩Android](http://mp.weixin.qq.com/s/3pa_ZN7TeBR17y5YFioUUg)
+
+> 作者：[鸿洋](http://wanandroid.com)<br/>
+> 推送时间:2017-10-20
+> <hr/>
+
+##### [[已推送]还记得如何将你的程序放到桌面吗？](http://mp.weixin.qq.com/s/dgcIkU4-gi7hU2w-8vnWgw)
+
+> 作者：[Wing_Li](http://www.jianshu.com/p/1eec51bf74be)<br/>
+> 推送时间:2017-10-19
+- [今日推荐：PopsTabView是个filter容器,他可以快速,构建不同筛选样式,自由组合PopWindow成一组tab.](https://github.com/ccj659/PopsTabView)
+> <hr/>
+
+##### [[已推送]可能是目前最精准的Android开源计步器](http://mp.weixin.qq.com/s/paZHmJp9-YP-Gn29UKicQg)
+
+> 作者：[码农一颗颗](http://www.jianshu.com/p/cfc2a200e46d)<br/>
+> 推送时间:2017-10-18
+> <hr/>
+
+##### [[已推送]Android 这文字有点浪之自定义控件](http://mp.weixin.qq.com/s/cwCduwDyJESHzmfVFY9JCw)
+
+> 作者：[Halohoop](http://halohoop.com/2017/08/08/snacks-wave_float_text_view/)<br/>
+> 推送时间:2017-10-17
+- [今日推荐：一个支持自定义布局和直播 手势 亮度，音量，快进，等手势 ，广告视频预览 ，清晰度切换 ， 边播放缓存视频， 自定义各种数据源加载，列表播放的播放器 ](https://github.com/yangchaojiang/yjPlay)
+> <hr/>
+
+##### [[已推送]Android 优雅展示填空题 拖拽完成选词](http://mp.weixin.qq.com/s/sRCM_EK4ZM0g6sH1jojI6w)
+
+> 作者：[容华谢后](http://www.jianshu.com/p/28b7082b7563)<br/>
+> 推送时间:2017-10-16
+> <hr/>
+
 ##### [[已推送]2017 Android秋招面试总结 && 面试资源推荐](https://mp.weixin.qq.com/s/Do31xX8FfWBFdG2lkWf72w)
 
 > 作者：[Ruheng](http://www.jianshu.com/p/1149636d841a)<br/>
