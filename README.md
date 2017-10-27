@@ -10,6 +10,36 @@
 ## 已推送文章列表
 
 
+##### [[已推送]必会 | 手把手带你体验Android Studio 3.0的新功能](http://mp.weixin.qq.com/s/2XmVG4mKEDX6-bvZ0vvmcw)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/2XmVG4mKEDX6-bvZ0vvmcw)<br/>
+> 推送时间:2017-10-27
+> <hr/>
+
+##### [[已推送]搞定热修复与插件化，秒杀80%的同岗竞争者](http://mp.weixin.qq.com/s/45yNiRd_7MsetnrBF3yB-w)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/45yNiRd_7MsetnrBF3yB-w)<br/>
+> 推送时间:2017-10-26
+> <hr/>
+
+##### [[已推送]一款纯Kotlin编写的开源安卓应用 "Smile"](http://mp.weixin.qq.com/s/d_vujdBRp4wHZV4EWfvlSQ)
+
+> 作者：[王英豪](http://blog.csdn.net/yhaolpz/article/details/77922521)<br/>
+> 推送时间:2017-10-25
+> <hr/>
+
+##### [[已推送]1024 送你几个用起来很爽的Studio插件](http://mp.weixin.qq.com/s/KW4XevKN9X3CjDSO4ZJDog)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/KW4XevKN9X3CjDSO4ZJDog)<br/>
+> 推送时间:2017-10-24
+> <hr/>
+
+##### [[已推送]Android 拍照自动识别手机号 | OCR](http://mp.weixin.qq.com/s/xceXfGGLgfF-2rZ4d_wmKw)
+
+> 作者：[唯鹿](http://blog.csdn.net/qq_17766199/article/details/77963278)<br/>
+> 推送时间:2017-10-23
+> <hr/>
+
 ##### [[已推送]我们添加了几个令人振奋人心的功能 | 玩Android](http://mp.weixin.qq.com/s/3pa_ZN7TeBR17y5YFioUUg)
 
 > 作者：[鸿洋](http://wanandroid.com)<br/>
