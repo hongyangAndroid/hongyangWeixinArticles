@@ -10,6 +10,18 @@
 ## 已推送文章列表
 
 
+##### [[已推送]TextView 图文混排 & 炫酷的段落级Span解析](http://mp.weixin.qq.com/s/ZvmIHlIitu4O_c5QQK7b9Q)
+
+> 作者：[风从影](http://www.jianshu.com/p/72d31b7da85b)<br/>
+> 推送时间:2017-11-03
+> <hr/>
+
+##### [[已推送]探讨Android6.0及以上系统APP保活实现](http://mp.weixin.qq.com/s/d3scy-dC46NW9sz7wc3YLQ)
+
+> 作者：[裂缝中的阳光dg](http://blog.csdn.net/andrexpert/article/details/75045678)<br/>
+> 推送时间:2017-10-30
+> <hr/>
+
 ##### [[已推送]必会 | 手把手带你体验Android Studio 3.0的新功能](http://mp.weixin.qq.com/s/2XmVG4mKEDX6-bvZ0vvmcw)
 
 > 作者：[鸿洋](http://mp.weixin.qq.com/s/2XmVG4mKEDX6-bvZ0vvmcw)<br/>
