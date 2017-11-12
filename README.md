@@ -10,6 +10,36 @@
 ## 已推送文章列表
 
 
+##### [[已推送]自定义View 之 LOL能力七星图](http://mp.weixin.qq.com/s/aZ8lZzF9AG_MWmZV3uvIKw)
+
+> 作者：[呆萌小王子丶](http://blog.csdn.net/fu908323236/article/details/78356344)<br/>
+> 推送时间:2017-11-10
+> <hr/>
+
+##### [[已推送]我的 Android 面试故事 | 13家面试记录](http://mp.weixin.qq.com/s/N_3jUA1C-W1B-X6DQSXVTQ)
+
+> 作者：[剑西](http://blog.csdn.net/mabeijianxi/article/details/78452325)<br/>
+> 推送时间:2017-11-09
+> <hr/>
+
+##### [[已推送]Android 仿猿题库巧用Span实现填空题 & 技术分享资料下载](https://mp.weixin.qq.com/s/KOkVIYbbSN2en7BwoTMgWA)
+
+> 作者：[文艺的程序狗](http://www.jianshu.com/p/29605bceea86)<br/>
+> 推送时间:2017-11-08
+> <hr/>
+
+##### [[已推送]封装RecyclerView自动加载更多 & 下拉刷新](http://mp.weixin.qq.com/s/Jnr3MOZ7e1XU1o-uRxWjNA)
+
+> 作者：[容华谢后](http://www.jianshu.com/p/b502c5b59998)<br/>
+> 推送时间:2017-11-06
+> <hr/>
+
+##### [[已推送]不要错过 | 给大家推荐一些提升技能的好书](https://mp.weixin.qq.com/s/YwExm18w-qk9bJVNdDP0NA)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/YwExm18w-qk9bJVNdDP0NA)<br/>
+> 推送时间:2017-11-04
+> <hr/>
+
 ##### [[已推送]TextView 图文混排 & 炫酷的段落级Span解析](http://mp.weixin.qq.com/s/ZvmIHlIitu4O_c5QQK7b9Q)
 
 > 作者：[风从影](http://www.jianshu.com/p/72d31b7da85b)<br/>
