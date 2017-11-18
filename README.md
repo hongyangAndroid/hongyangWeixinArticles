@@ -9,6 +9,35 @@
 
 ## 已推送文章列表
 
+##### [[已推送]必知必会 | Android 性能优化的方面方面都在这儿](http://mp.weixin.qq.com/s/QVOYF2nfoWMCbM5YsxQgRQ)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/QVOYF2nfoWMCbM5YsxQgRQ)<br/>
+> 推送时间:2017-11-18
+> <hr/>
+
+##### [[已推送]Android 应用架构组件（Architecture Components）实践](http://mp.weixin.qq.com/s/mDG-EEJAiEvC3cm-xJA5ng)
+
+> 作者：[lijiankun24](http://lijiankun24.com/archives/)<br/>
+> 推送时间:2017-11-17
+> <hr/>
+
+##### [[已推送]手把手教你在Android Studio 3.0上分析内存泄漏](https://mp.weixin.qq.com/s/L2Btdvfhd5yesDfBVwkcug)
+
+> 作者：[容华谢后](http://www.jianshu.com/p/bdfd2a6b2681)<br/>
+> 推送时间:2017-11-16
+> <hr/>
+
+##### [[已推送]Android 轻松实现横向、纵向拖拽刷新](http://mp.weixin.qq.com/s/hslk3j5GPQaz1Pnn_-G4IA)
+
+> 作者：[huzenan0412](http://blog.csdn.net/u012199331/article/details/77014607)<br/>
+> 推送时间:2017-11-14
+> <hr/>
+
+##### [[已推送][源码] 推荐几个优质的完整项目学习](http://mp.weixin.qq.com/s/mK5NvLjvIPS4_lAOQlhifA)
+
+> 作者：[鸿洋](http://www.wanandroid.com/article/list/0?cid=254)<br/>
+> 推送时间:2017-11-13
+> <hr/>
 
 ##### [[已推送]自定义View 之 LOL能力七星图](http://mp.weixin.qq.com/s/aZ8lZzF9AG_MWmZV3uvIKw)
 
