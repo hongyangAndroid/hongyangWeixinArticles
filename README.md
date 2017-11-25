@@ -9,6 +9,31 @@
 
 ## 已推送文章列表
 
+
+##### [[已推送]Android 应用内悬浮控件实践总结](http://mp.weixin.qq.com/s/FT7z-U7xo9ZtMNbdA268AQ)
+
+> 作者：[王英豪](http://blog.csdn.net/yhaolpz/article/details/78527803)<br/>
+> 推送时间:2017-11-24
+> <hr/>
+
+##### [[已推送]全方位带你彻底搞懂Android内存泄露 | 案例分析](http://mp.weixin.qq.com/s/KOpA9-Q8luyd7Kc8QQbMCA)
+
+> 作者：[编程之乐](http://www.jianshu.com/p/efec4c77e265)<br/>
+> 推送时间:2017-11-23
+> <hr/>
+
+##### [[已推送]Android 超炫酷的空气净化器控件 | 自定义控件](http://mp.weixin.qq.com/s/df-y-hiGUDWZwwIvyk94lg)
+
+> 作者：[mochixuan](https://juejin.im/post/5a0904376fb9a044fe45da34)<br/>
+> 推送时间:2017-11-22
+> <hr/>
+
+##### [[已推送]超详细Android面试的准备与经历分享 | 百度(offer)](http://mp.weixin.qq.com/s/YVvV3-RUjbqYo-DYY3E6nA)
+
+> 作者：[gexinzhao](http://www.jianshu.com/p/251b1bf72cd8)<br/>
+> 推送时间:2017-11-21
+> <hr/>
+
 ##### [[已推送]必知必会 | Android 性能优化的方面方面都在这儿](http://mp.weixin.qq.com/s/QVOYF2nfoWMCbM5YsxQgRQ)
 
 > 作者：[鸿洋](http://mp.weixin.qq.com/s/QVOYF2nfoWMCbM5YsxQgRQ)<br/>
