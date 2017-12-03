@@ -10,6 +10,25 @@
 ## 已推送文章列表
 
 
+##### [[已推送]开发一款商业级Banner控件](http://mp.weixin.qq.com/s/X615qrAXzVXVlsYtmXTj1w)
+
+> 作者：[wenld_](http://www.jianshu.com/p/a175a6bd80ca)<br/>
+> 推送时间:2017-12-01
+- [今日推荐：拓展性极高类似微信图片浏览,常见应用场景如微信朋友圈照片九宫格和微信聊天图片预览](https://github.com/yangchaojiang/ZoomPreviewPicture)
+> <hr/>
+
+##### [[已推送]有关Android应用桌面角标(BadgeNumber)实现的探讨](http://mp.weixin.qq.com/s/rbctlwu0mGzTXHMn9LPf_g)
+
+> 作者：[小强](http://www.jianshu.com/p/199a9238015f)<br/>
+> 推送时间:2017-11-29
+> <hr/>
+
+##### [[已推送]精通Span 轻松玩转各种文本特效](http://mp.weixin.qq.com/s/EmHVZwTEOpal6QgdRWlEHA)
+
+> 作者：[风从影](http://www.jianshu.com/p/deb28c22852a)<br/>
+> 推送时间:2017-11-27
+> <hr/>
+
 ##### [[已推送]Android 应用内悬浮控件实践总结](http://mp.weixin.qq.com/s/FT7z-U7xo9ZtMNbdA268AQ)
 
 > 作者：[王英豪](http://blog.csdn.net/yhaolpz/article/details/78527803)<br/>
