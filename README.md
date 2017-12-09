@@ -10,6 +10,30 @@
 ## 已推送文章列表
 
 
+##### [[已推送]Android 滑动选择控件 & MVP+Retrofit+RxJava资源](http://mp.weixin.qq.com/s/TlBMPd_pKej-_micjVodCQ)
+
+> 作者：[超神的菠萝](http://www.jianshu.com/p/baf143364e04)<br/>
+> 推送时间:2017-12-08
+> <hr/>
+
+##### [[已推送]高级MVP架构封装演变全过程](http://mp.weixin.qq.com/s/63CD7d2uE-OZKooZU3RN5Q)
+
+> 作者：[刘镓旗](http://blog.csdn.net/yulong0809/article/details/78622428)<br/>
+> 推送时间:2017-12-07
+> <hr/>
+
+##### [[已推送]Android 仿知乎创意广告 还能这么玩?](https://mp.weixin.qq.com/s/BHbmtfUzg3XTaGrGcX5-bg)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/BHbmtfUzg3XTaGrGcX5-bg)<br/>
+> 推送时间:2017-12-05
+> <hr/>
+
+##### [[已推送]让人欲罢不能的空指针（NullPointerException）](http://mp.weixin.qq.com/s/SB6haifl3sIKJTGSjbeNaw)
+
+> 作者：[keliuyue](http://dwz.cn/6WC4Fm)<br/>
+> 推送时间:2017-12-04
+> <hr/>
+
 ##### [[已推送]开发一款商业级Banner控件](http://mp.weixin.qq.com/s/X615qrAXzVXVlsYtmXTj1w)
 
 > 作者：[wenld_](http://www.jianshu.com/p/a175a6bd80ca)<br/>
