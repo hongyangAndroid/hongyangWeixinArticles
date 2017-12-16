@@ -9,6 +9,38 @@
 
 ## 已推送文章列表
 
+##### [[已推送]开发SDK和平时写代码体验不同吗? | 经验分享](http://mp.weixin.qq.com/s/8WSUEPPpHexswhcVj090gA)
+
+> 作者：[brucevanfdm](http://www.jianshu.com/p/8f39919cd4e5)<br/>
+> 推送时间:2017-12-15
+- [今日推荐：Android BLE蓝牙框架](https://github.com/Alex-Jerry/BleDemo)
+> <hr/>
+
+##### [[已推送]WebView截长图解决方案](http://mp.weixin.qq.com/s/uVB93iuSRs_nDKsnwbIKDg)
+
+> 作者：[Windin 贝聊移动Android工程师](http://www.jianshu.com/p/0faa70e88441)<br/>
+> 推送时间:2017-12-14
+> <hr/>
+
+##### [[已推送]用RecyclerView打造一个轮播图](http://mp.weixin.qq.com/s/znjGPRO7cM5gAKJY2IZ9rA)
+
+> 作者：[大头呆](http://www.jianshu.com/p/1e2baec44e0d)<br/>
+> 推送时间:2017-12-13
+- [今日推荐：《"放弃Jni"愉快的奔向JNA》](http://www.jianshu.com/p/fdd7777ca522)
+> <hr/>
+
+##### [[已推送]Android APP 性能优化的一些思考](http://mp.weixin.qq.com/s/YPwApikK57BMu-FbnxbSHg)
+
+> 作者：[斜杠Allen](http://www.jianshu.com/p/9755da0f4e8f)<br/>
+> 推送时间:2017-12-12
+- [今日推荐：基于DataBinding框架，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流库，满足日常开发需求。](https://github.com/goldze/MVVMHabit)
+> <hr/>
+
+##### [[已推送]基于MVP+RxJava2+Retrofit2的资讯类App](http://mp.weixin.qq.com/s/2c5aIgGkOTCHbA7fCoT3Ww)
+
+> 作者：[Horrarndoo](http://www.jianshu.com/p/6ef9e3804395)<br/>
+> 推送时间:2017-12-10
+> <hr/>
 
 ##### [[已推送]Android 滑动选择控件 & MVP+Retrofit+RxJava资源](http://mp.weixin.qq.com/s/TlBMPd_pKej-_micjVodCQ)
 
