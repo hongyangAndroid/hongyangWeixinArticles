@@ -9,6 +9,26 @@
 
 ## 已推送文章列表
 
+##### [[已推送]ava反射以及在Android中的特殊应用](http://mp.weixin.qq.com/s/bDe-6KiTbazC5FhUi-Z65A)
+
+> 作者：[stormWen](https://juejin.im/post/5a2c1c5bf265da431956334c)<br/>
+> 推送时间:2017-12-21
+- [今日推荐：改造 Android 官方架构组件 ViewModel](https://juejin.im/post/5a31f6b951882503eb4b4b21)
+> <hr/>
+
+##### [[ViewPager 超详解：玩出十八般花样](http://mp.weixin.qq.com/s/RCwValRyk96DPc0qLrUCfQ)
+
+> 作者：[OCNYang](http://www.jianshu.com/p/f8bf9e8b0a39)<br/>
+- [今日推荐一款仿miui，仿小米，日历，周日历，月日历，月视图、周视图滑动切换，农历,Andriod Calendar , MIUI Calendar,小米日历。](https://github.com/yannecer/NCalendar)
+> 推送时间:2017-12-20
+> <hr/>
+
+##### [[已推送]推荐3个开源项目](https://mp.weixin.qq.com/s/2VQsf4icbLzPPzQT8z1SjA)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/2VQsf4icbLzPPzQT8z1SjA)<br/>
+> 推送时间:2017-12-18
+> <hr/>
+
 ##### [[已推送]开发SDK和平时写代码体验不同吗? | 经验分享](http://mp.weixin.qq.com/s/8WSUEPPpHexswhcVj090gA)
 
 > 作者：[brucevanfdm](http://www.jianshu.com/p/8f39919cd4e5)<br/>
