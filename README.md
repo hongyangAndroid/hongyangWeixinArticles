@@ -9,6 +9,31 @@
 
 ## 已推送文章列表
 
+##### [[已推送]用RecyclerView做一个小清新的Gallery效果](http://mp.weixin.qq.com/s/M5jsXTR82tyHQg_UpfSXZw)
+
+> 作者：[Ryane](https://juejin.im/post/5a30fe5a6fb9a045132ab1bf)<br/>
+> 推送时间:2017-12-29
+> <hr/>
+
+##### [[已推送]回顾下今年使用过的好用的插件、工具等](http://mp.weixin.qq.com/s/O6rErRjSOyPSt7DMFyYKUg)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/O6rErRjSOyPSt7DMFyYKUg)<br/>
+> 推送时间:2017-12-28
+> <hr/>
+
+##### [[已推送]必知必会 | WebView 的一切都在这儿](http://mp.weixin.qq.com/s/Rn7s31nxxY3vWnFRyjyjiA)
+
+> 作者：[reezy](https://www.jianshu.com/p/a6f7b391a0b8)<br/>
+> 推送时间:2017-12-26
+> <hr/>
+
+##### [[已推送]开源一款超级好用的mp3剪切器app](http://mp.weixin.qq.com/s/9OK1gJgsctnt6WA04LCYCA)
+
+> 作者：[zyl409214686](https://juejin.im/post/5a324f3f5188253da72e7956)<br/>
+> 推送时间:2017-12-25
+- [今日推荐：设计自己的ImageLoader图片加载框架](http://blog.csdn.net/wozuihaole/article/details/78812411)
+> <hr/>
+
 ##### [[已推送]ava反射以及在Android中的特殊应用](http://mp.weixin.qq.com/s/bDe-6KiTbazC5FhUi-Z65A)
 
 > 作者：[stormWen](https://juejin.im/post/5a2c1c5bf265da431956334c)<br/>
@@ -19,8 +44,8 @@
 ##### [[ViewPager 超详解：玩出十八般花样](http://mp.weixin.qq.com/s/RCwValRyk96DPc0qLrUCfQ)
 
 > 作者：[OCNYang](http://www.jianshu.com/p/f8bf9e8b0a39)<br/>
-- [今日推荐一款仿miui，仿小米，日历，周日历，月日历，月视图、周视图滑动切换，农历,Andriod Calendar , MIUI Calendar,小米日历。](https://github.com/yannecer/NCalendar)
 > 推送时间:2017-12-20
+- [今日推荐一款仿miui，仿小米，日历，周日历，月日历，月视图、周视图滑动切换，农历,Andriod Calendar , MIUI Calendar,小米日历。](https://github.com/yannecer/NCalendar)
 > <hr/>
 
 ##### [[已推送]推荐3个开源项目](https://mp.weixin.qq.com/s/2VQsf4icbLzPPzQT8z1SjA)
