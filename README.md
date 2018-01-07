@@ -9,6 +9,27 @@
 
 ## 已推送文章列表
 
+##### [[已推送]实战版本更新(okhttp3、service、notification)](http://mp.weixin.qq.com/s/nB5AnvltKfaF0yJNErOUFg)
+
+> 作者：[BmobSnail](https://www.jianshu.com/p/b669940c9f3e)<br/>
+> 推送时间:2018-01-05
+- [今日推荐：跟miui一样的自动滚动截屏](https://github.com/android-notes/auto-scroll-capture)
+> <hr/>
+
+##### [[已推送]教你如何一套源码编译多个APP，不同的签名，包名，界面，字段...](http://mp.weixin.qq.com/s/cjvPVG6ifry6VsLkAu6JEQ)
+
+> 作者：[隔壁王较瘦](https://www.jianshu.com/p/4a5625a00f8d)<br/>
+> 推送时间:2018-01-04
+- [今日推荐：支持gif图片的Load反馈框架](https://github.com/NoEndToLF/Gif-Load-ReTry-Refresh)
+> <hr/>
+
+##### [[已推送]滚动截屏，RecyclerView截屏，ScrollView截屏，ListView截屏](http://mp.weixin.qq.com/s/JPVZtErFTzJ5PDuTAPk0DA)
+
+> 作者：[BoBoMEe](http://www.cnblogs.com/BoBoMEe/p/4556917.html)<br/>
+> 推送时间:2018-01-03
+- [今日推荐：android插件自定义之多渠道打包插件（支持微信资源混淆andResGuard）](https://www.jianshu.com/p/3e56303fb375)
+> <hr/>
+
 ##### [[已推送]用RecyclerView做一个小清新的Gallery效果](http://mp.weixin.qq.com/s/M5jsXTR82tyHQg_UpfSXZw)
 
 > 作者：[Ryane](https://juejin.im/post/5a30fe5a6fb9a045132ab1bf)<br/>
