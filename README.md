@@ -9,6 +9,32 @@
 
 ## 已推送文章列表
 
+##### [[已推送]推荐3个优质学习项目)](http://mp.weixin.qq.com/s/nTo7rqt0Y839r6O28uQW8Q)
+
+> 作者：[鸿洋](http://mp.weixin.qq.com/s/nTo7rqt0Y839r6O28uQW8Q)<br/>
+> 推送时间:2018-01-26
+> <hr/>
+
+##### [[已推送]仿天猫、京东拖拽商品详情)](http://mp.weixin.qq.com/s/tHkltAvN1Ila8L3brdAYGQ)
+
+> 作者：[看书的小蜗牛](https://www.jianshu.com/p/db3643115521)<br/>
+- [今日推荐：视频播放器封装库案例。](https://github.com/yangchong211/YCVideoPlayer)
+> 推送时间:2018-01-25
+> <hr/>
+
+##### [[已推送]应该了解的一些并发基础知识)](http://mp.weixin.qq.com/s/KuKROR8c4Bc1CdXE6AxB2g)
+
+> 作者：[一口仨馍](http://blog.csdn.net/qq_17250009/article/details/79012528)<br/>
+> 推送时间:2018-01-24
+- [今日推荐：版本检测升级（更新）库，链式编程，调用简单，集成轻松，扩展性强。](https://github.com/AlexLiuSheng/CheckVersionLib)
+> <hr/>
+
+##### [[已推送]这是一份全面 & 详细 的RxJava操作符 使用攻略)](http://mp.weixin.qq.com/s/2vDZ7h6SL-LR7n3FR6OMrw)
+
+> 作者：[Carson_Ho](https://www.jianshu.com/p/cd984dd5aae8)<br/>
+> 推送时间:2018-01-22
+> <hr/>
+
 ##### [[已推送]来做一个3D效果的小米指南针)](http://mp.weixin.qq.com/s/QGT_Icqu5sxEiVruyXRV3w)
 
 > 作者：[ChaosAlaska](https://www.jianshu.com/p/cee9b7c3abe8)<br/>
