@@ -9,6 +9,26 @@
 
 ## 已推送文章列表
 
+##### [[已推送]仿小米日历 纵享丝滑切换的周月效果)](http://mp.weixin.qq.com/s/yM4hwibxkQjdSAg_uY3Onw)
+
+> 作者：[艾米1](https://juejin.im/post/5a631efd6fb9a01ca8720f80)<br/>
+> 推送时间:2018-02-02
+- [今日推荐：十分钟快速集成美团多渠道打包](https://www.jianshu.com/p/332525b09a88)
+> <hr/>
+
+##### [[已推送]拼图滑块 创意验证码控件)](http://mp.weixin.qq.com/s/AX5wRA_9kQSwOWfldDm2gQ)
+
+> 作者：[LowCoder](http://blog.csdn.net/sdfsdfdfa/article/details/79120665)<br/>
+> 推送时间:2018-01-30
+- [今日推荐：手把手带你打造一个 Android 热修复框架](https://www.jianshu.com/p/a7f11e0f3a2e)
+> <hr/>
+
+##### [[已推送]美团猫眼电影android模块化实战)](http://mp.weixin.qq.com/s/Tw-04it4_G4AgUmRO8imaw)
+
+> 作者：[陈文超happylion](https://www.jianshu.com/p/d372cc6802e5)<br/>
+> 推送时间:2018-01-29
+> <hr/>
+
 ##### [[已推送]推荐3个优质学习项目)](http://mp.weixin.qq.com/s/nTo7rqt0Y839r6O28uQW8Q)
 
 > 作者：[鸿洋](http://mp.weixin.qq.com/s/nTo7rqt0Y839r6O28uQW8Q)<br/>
@@ -18,8 +38,8 @@
 ##### [[已推送]仿天猫、京东拖拽商品详情)](http://mp.weixin.qq.com/s/tHkltAvN1Ila8L3brdAYGQ)
 
 > 作者：[看书的小蜗牛](https://www.jianshu.com/p/db3643115521)<br/>
-- [今日推荐：视频播放器封装库案例。](https://github.com/yangchong211/YCVideoPlayer)
 > 推送时间:2018-01-25
+- [今日推荐：视频播放器封装库案例](https://github.com/yangchong211/YCVideoPlayer)
 > <hr/>
 
 ##### [[已推送]应该了解的一些并发基础知识)](http://mp.weixin.qq.com/s/KuKROR8c4Bc1CdXE6AxB2g)
