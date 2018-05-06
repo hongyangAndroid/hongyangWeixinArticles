@@ -10,6 +10,153 @@
 ## 已推送文章列表
 
 
+##### [[已推送]安卓开发中遇到的奇奇怪怪的问题](https://mp.weixin.qq.com/s/ovv0Ljrj3BXgs2ZAQ3lowQ)
+
+> 作者：[唯鹿](https://blog.csdn.net/qq_17766199/article/details/52661363)<br/>
+> 推送时间:2018-05-04
+> <hr/>
+
+##### [[已推送]如何做技术分享 | Material Design 在 Android 中的应用](https://mp.weixin.qq.com/s/spcL-6pgO4DeF3DWz7a0cw)
+
+> 作者：[下位子](https://www.jianshu.com/p/1f3761aa1a30)<br/>
+> 推送时间:2018-05-03
+> <hr/>
+
+##### [[已推送]大厂App 性能分析与优化方案研究](https://mp.weixin.qq.com/s/Olgy26LTtonEQ63d3TjWIQ)
+
+> 作者：[李通Tookie](https://www.jianshu.com/p/307ba8911799)<br/>
+> 推送时间:2018-05-02
+> <hr/>
+
+##### [[已推送]搭建Maven私服了解一下？](https://mp.weixin.qq.com/s/nJj2tkIy5KrGGiR_eYtLQQ)
+
+> 作者：[在路上奔跑](https://blog.csdn.net/qq_26585943/article/details/79771313)<br/>
+> 推送时间:2018-04-28
+> <hr/>
+
+##### [[已推送]仿京东金融主页效果 RecyclerView联动](https://mp.weixin.qq.com/s/7f-QMWQMg-V77j14VuaVhg)
+
+> 作者：[Solang](https://www.jianshu.com/p/539211b11e94)<br/>
+> 推送时间:2018-04-27
+- [今日推荐：EasyBridge是一个简单易用的js-bridge的工具库，基于Android WebView的addJavascriptInterface特性实现，提供了JavaScript与Java之间通讯的能力](https://github.com/easilycoder/EasyBridge)
+> <hr/>
+
+##### [[已推送]你必须要懂的APK瘦身知识](https://mp.weixin.qq.com/s/NBrEwFI8e8xtLsX0uadm7w)
+
+> 作者：[我是吸血鬼](https://www.jianshu.com/p/5921e9561f5f)<br/>
+> 推送时间:2018-04-25
+- [今日推荐：一个非常漂亮的Android课程表控件](https://github.com/zfman/TimetableView)
+> <hr/>
+
+##### [[已推送]弄懂Gradle依赖 Android依赖导入全攻略](https://mp.weixin.qq.com/s/6UZhaI9cILJiPGYHkXd73g)
+
+> 作者：[大头呆](https://juejin.im/post/5acd6daaf265da238a30ca73)<br/>
+> 推送时间:2018-04-24
+> <hr/>
+
+##### [[已推送]推荐三个完整开源项目](https://mp.weixin.qq.com/s/NzxdRU1r6bPGFn_gsUFCmw)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/NzxdRU1r6bPGFn_gsUFCmw)<br/>
+> 推送时间:2018-04-23
+> <hr/>
+
+##### [[已推送]仿微信朋友圈点击评论自动定位到相关行](https://mp.weixin.qq.com/s/9UAB7DVzDSLA4wGYT9Mfrg)
+
+> 作者：[r17171709](https://www.jianshu.com/p/052d45f610ea)<br/>
+> 推送时间:2018-04-20
+> <hr/>
+
+##### [[已推送]一起来学习下腾讯开源的多渠道快速打包技术](https://mp.weixin.qq.com/s/709mXKfEzSuLrd0WCqrmbg)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/709mXKfEzSuLrd0WCqrmbg)<br/>
+> 推送时间:2018-04-19
+> <hr/>
+
+##### [[已推送]一起来封装个权限管理库](https://mp.weixin.qq.com/s/vpin4ErU-97CywJvY8CTvA)
+
+> 作者：[飞在云里](https://blog.csdn.net/u013700502/article/details/79748829)<br/>
+> 推送时间:2018-04-18
+> <hr/>
+
+##### [[已推送]Android 面试题集 包含答案](https://mp.weixin.qq.com/s/NBrEwFI8e8xtLsX0uadm7w)
+
+> 作者：[guoxiaoxing](https://github.com/guoxiaoxing/android-interview)<br/>
+> 推送时间:2018-04-17
+> <hr/>
+
+##### [[已推送]玩Android客户端已经有100多个开源版本啦](https://mp.weixin.qq.com/s/8PRbtmr2TNBH1MkqdFNiyg)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/8PRbtmr2TNBH1MkqdFNiyg)<br/>
+> 推送时间:2018-04-16
+> <hr/>
+
+##### [[已推送]如何高效的阅读技术文章](https://mp.weixin.qq.com/s/WCTbHQhwDmQro-1Gen8-7g)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/WCTbHQhwDmQro-1Gen8-7g)<br/>
+> 推送时间:2018-04-14
+> <hr/>
+
+##### [[已推送]Android技能树 — 多进程相关小结](https://mp.weixin.qq.com/s/DgMXCqRh5sQiIDEUeTPzcw)
+
+> 作者：[青蛙要fly](https://www.jianshu.com/p/15dfdcc3d8b7)<br/>
+> 推送时间:2018-04-13
+> <hr/>
+
+##### [[已推送]WebView 全面干货指南](https://mp.weixin.qq.com/s/wFwlVYx5zsoGmjsOfPJckg)
+
+> 作者：[無名小子的杂货铺](https://www.jianshu.com/p/fd61e8f4049e)<br/>
+> 推送时间:2018-04-11
+> <hr/>
+
+##### [[已推送]"巧"仿蚂蚁森林水滴动效](https://mp.weixin.qq.com/s/gXYjnEDuZTHsXYtsx9urcQ)
+
+> 作者：[laer_L](https://www.jianshu.com/p/cc526bb34414)<br/>
+> 推送时间:2018-04-10
+> <hr/>
+
+##### [[已推送]Android进程保活实践](https://mp.weixin.qq.com/s/6w0tMtDA9kPwo0E9xq_BsA)
+
+> 作者：[08_carmelo](https://www.jianshu.com/p/53c4d8303e19)<br/>
+> 推送时间:2018-04-09
+> <hr/>
+
+##### [[已推送]分享两个提高效率的AndroidStudio小技巧](https://mp.weixin.qq.com/s/RWQ6vb9vUa_XeFZMI2-wow)
+
+> 作者：[请叫我大苏](https://www.jianshu.com/p/68fd5373effc)<br/>
+> 推送时间:2018-04-08
+- [今日推荐：全面的介绍各种动画](https://github.com/OCNYang/Android-Animation-Set)
+> <hr/>
+
+##### [[已推送]最接地气的Android面试总结心得](https://mp.weixin.qq.com/s/ymBVz4FqBNt6nfwdVIsE-g)
+
+> 作者：[g小志](https://www.jianshu.com/p/d800165da455)<br/>
+> 推送时间:2018-04-04
+> <hr/>
+
+##### [[已推送]一点见解: Android嵌套滑动和NestedScrollView](https://mp.weixin.qq.com/s/jD2zuLth197tBiVbYfjP8w)
+
+> 作者：[AssIstne](https://www.jianshu.com/p/1806ed9737f6)<br/>
+> 推送时间:2018-04-03
+> <hr/>
+
+##### [[已推送]一起来做个银行类的安全键盘](https://mp.weixin.qq.com/s/S-1-eTMAsJV-GUboT8HsLQ)
+
+> 作者：[r17171709](https://www.jianshu.com/p/3db82632bd68)<br/>
+> 推送时间:2018-04-02
+> <hr/>
+
+##### [[已推送]彻底弄清support支持库，以及v4 v7重复依赖问题深究](https://mp.weixin.qq.com/s/bCIiIFmQtLQbjN4yfPgayQ)
+
+> 作者：[08_carmelo](https://www.jianshu.com/p/f769ea6db2c1)<br/>
+> 推送时间:2018-03-30
+> <hr/>
+
+##### [[已推送]Android 高仿腾讯新闻频道定制页面](https://mp.weixin.qq.com/s/kvO8v6-3vRSozUlugXgUKg)
+
+> 作者：[zzh12138](https://www.jianshu.com/p/57324eb516df)<br/>
+> 推送时间:2018-03-29
+> <hr/>
+
 ##### [[已推送]Cookie、Session、Token那点事儿](https://mp.weixin.qq.com/s/gABI3wugA-MyP-rB39GeaA)
 
 > 作者：[骑小猪看流星](https://www.jianshu.com/p/bd1be47a16c1)<br/>
