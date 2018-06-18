@@ -10,6 +10,144 @@
 ## 已推送文章列表
 
 
+##### [[已推送]Fragment不为人知的细节](https://mp.weixin.qq.com/s/y2JqIBR3mYQOzCEymv7DOQ)
+
+> 作者：[三雒](https://www.jianshu.com/p/3d27ddc952fe)<br/>
+> 推送时间:2018-06-15
+> <hr/>
+
+##### [[已推送]高复用性、低耦合的视频播放器](https://mp.weixin.qq.com/s/Y766VgYxMo9iyxgpYaRb4A)
+
+> 作者：[渣渣辉](https://juejin.im/post/5b0d4e6bf265da090f7376d2)<br/>
+> 推送时间:2018-06-13
+> <hr/>
+
+##### [[已推送]记一次Android内存泄漏的优化经历](https://mp.weixin.qq.com/s/870VVaqy-smxnxaAf2ZDhw)
+
+> 作者：[黄俊彬](https://www.jianshu.com/p/c8e691a69086)<br/>
+> 推送时间:2018-06-12
+> <hr/>
+
+##### [[已推送]Android 强、软、弱、虚引用 区别和使用场景](https://mp.weixin.qq.com/s/h5MzWRsfRTrrH4z3QIrSzQ)
+
+> 作者：[杨充](https://blog.csdn.net/m0_37700275/article/details/79820814)<br/>
+> 推送时间:2018-06-08
+> <hr/>
+
+##### [[已推送]Android混淆——了解这些就够了](https://mp.weixin.qq.com/s/5n9j-59o8D5ByvZQ2INddQ)
+
+> 作者：[CoderThc](https://www.jianshu.com/p/546733072d8d)<br/>
+> 推送时间:2018-06-07
+> <hr/>
+
+##### [[已推送]Android 全新组件：Paging Library 基于RecyclerView的分页加载框架](https://mp.weixin.qq.com/s/NYVrcqqrndx9670wYxsIvg)
+
+> 作者：[Adan0520](https://blog.csdn.net/qq_20785431/article/details/80413782)<br/>
+> 推送时间:2018-06-06
+> <hr/>
+
+##### [[已推送]你们要的抖音效果来了](https://mp.weixin.qq.com/s/83nRjLcZjV7xNCl_SP3KnQ)
+
+> 作者：[钉某人](https://www.jianshu.com/p/34a0ef2d806d)<br/>
+> 推送时间:2018-06-05
+> <hr/>
+
+##### [[已推送]推荐几个优质开源项目](https://mp.weixin.qq.com/s/-xfgvmbkY24NY7hGd7554w)
+
+> 作者：[ 鸿洋](https://mp.weixin.qq.com/s/-xfgvmbkY24NY7hGd7554w)<br/>
+> 推送时间:2018-06-04
+> <hr/>
+
+##### [[已推送]onResume中Handler.post(Runnable)为什么获取不到宽高？](https://mp.weixin.qq.com/s/fv3qa9ptgaK1B4ZjxWCZYg)
+
+> 作者：[Trilen](https://blog.csdn.net/u010019468/article/details/80007675)<br/>
+> 推送时间:2018-06-01
+> <hr/>
+
+##### [[已推送]实现炫酷列表动画的最佳姿势](https://mp.weixin.qq.com/s/v67BMDj2ZexV6EXDiLlF_g)
+
+> 作者：[钉某人](https://www.jianshu.com/p/20f16a4b4630)<br/>
+> 推送时间:2018-05-30
+> <hr/>
+
+##### [[已推送]勇敢跨越，从0到1开发一个属于自己的App](https://mp.weixin.qq.com/s/jrVIRR6K6IAorhpmb32Ebw)
+
+> 作者：[电点mxn](https://www.jianshu.com/p/be12524418a4)<br/>
+> 推送时间:2018-05-29
+> <hr/>
+
+##### [[已推送]熟悉又陌生的Context](https://mp.weixin.qq.com/s/AUKoLpGrCyJd1YcPGP7Yyw)
+
+> 作者：[Leo](https://linxiaotao.github.io/2018/04/12/熟悉又陌生的Context/)<br/>
+> 推送时间:2018-05-25
+> <hr/>
+
+##### [[已推送]你开发的app可能正饱受风险](https://mp.weixin.qq.com/s/fi_SmxFTPxDIL5zPwP6SNQ)
+
+> 作者：[brucevanfdm](https://www.jianshu.com/p/7f2202c18012)<br/>
+> 推送时间:2018-05-24
+> <hr/>
+
+##### [[已推送]我和编程在一起的第三年：Android总结](https://mp.weixin.qq.com/s/3ftyoVCIH5VD5HEmX4cMbw)
+
+> 作者：[流船](https://www.jianshu.com/p/06030dd082cf)<br/>
+> 推送时间:2018-05-23
+> <hr/>
+
+##### [[已推送]ViewPager 刷新无效?](https://mp.weixin.qq.com/s/JlKtnVU_DqUwYAlQXXyniQ)
+
+> 作者：[川峰](https://blog.csdn.net/lyabc123456/article/details/79797552)<br/>
+> 推送时间:2018-05-22
+> <hr/>
+
+##### [[已推送]实现黑客帝国数字雨 | 自定义View](https://mp.weixin.qq.com/s/EvIqr_oOsrkk3jm_vb71zg)
+
+> 作者：[滑板上的老砒霜](https://www.jianshu.com/p/f4bac6abfbeb)<br/>
+> 推送时间:2018-05-21
+> <hr/>
+
+##### [[已推送]Android程序员面试会遇到的算法 part 4](https://mp.weixin.qq.com/s/Ep185oUrEP-EDvFHuE-xoQ)
+
+> 作者：[qing的世界](https://www.jianshu.com/p/9f3b96937253)<br/>
+> 推送时间:2018-05-18
+> <hr/>
+
+##### [[已推送]这一次彻底弄明白Gradle相关配置](https://mp.weixin.qq.com/s/1UHcYOudViMhpUYeREZzGA)
+
+> 作者：[19snow93](https://www.jianshu.com/p/8b8a550246bd)<br/>
+> 推送时间:2018-05-16
+> <hr/>
+
+##### [[已推送]阿里春招Android面经](https://mp.weixin.qq.com/s/KwWbbZt3Rp9Mghj8pFJtYQ)
+
+> 作者：[淘萄桃](https://www.jianshu.com/p/a07ccaad832d)<br/>
+> 推送时间:2018-05-14
+> <hr/>
+
+##### [[已推送]我们要不要上线个人app？](https://mp.weixin.qq.com/s/3f7K_OVVgjtXKMvrgd94NA)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/3f7K_OVVgjtXKMvrgd94NA)<br/>
+> 推送时间:2018-05-12
+> <hr/>
+
+##### [[已推送]Android实现社交应用中的评论和回复功能](https://mp.weixin.qq.com/s/bNuo5uByKCb4RDMSGc_fjQ)
+
+> 作者：[水月沐風](https://www.jianshu.com/p/eda8d09c9d7a)<br/>
+> 推送时间:2018-05-10
+> <hr/>
+
+##### [[已推送]推荐4个不错的项目给大家](https://mp.weixin.qq.com/s/VaRI1dGDxkomWGBjrDjJSQ)
+
+> 作者：[鸿洋](https://mp.weixin.qq.com/s/VaRI1dGDxkomWGBjrDjJSQ)<br/>
+> 推送时间:2018-05-09
+> <hr/>
+
+##### [[已推送]探索 Design Support Library V28 新增内容](https://mp.weixin.qq.com/s/_tfd7VOfj2xtDnOAtM5uiA)
+
+> 作者：[tonnyl](https://tonnyl.github.io/2018/04/22/Translation-Exploring-the-v28-Android-Design-Support-Library-Additions/)<br/>
+> 推送时间:2018-05-06
+> <hr/>
+
 ##### [[已推送]安卓开发中遇到的奇奇怪怪的问题](https://mp.weixin.qq.com/s/ovv0Ljrj3BXgs2ZAQ3lowQ)
 
 > 作者：[唯鹿](https://blog.csdn.net/qq_17766199/article/details/52661363)<br/>
